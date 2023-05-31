@@ -1,0 +1,941 @@
+{
+    "summary": "Antoine croit \u00e0 l\u2019intelligence de tous et \u00e0 la responsabilit\u00e9 de chacun pour r\u00e9inventer un monde qui reste \u00e0 hauteur d\u2019homme.\nIl est \u00e0 ce titre partie prenante de nombreux projets qui tous visent \u00e0 rallumer les soleils humains, et notamment : \nDirecteur associ\u00e9 de Bluenove, qui assume que les organisations positives les plus impactantes de demain sont celles qui feront levier de l\u2019intelligence collective\nA l\u2019initiative du projet #BrightMirror visant \u00e0 permettre la sc\u00e9narisation collaborative d\u2019imaginaires positifs pour prototype le monde que nous voulons l\u00e9guer aux g\u00e9n\u00e9rations futures\nCo-pr\u00e9sident de D\u00e9mocratie Ouverte, dont l\u2019ambition est de faire advenir une soci\u00e9t\u00e9 ouverte, plus transparente, participative et collaborative\nCo-fondateur du mouvement citoyen de r\u00e9flexion et d'action \u00ab Les 100 Barbares \u00bb rassemblant plus de 6 000 change-makers.\n",
+    "industryName": "IT Services and IT Consulting",
+    "lastName": "Brachet",
+    "student": false,
+    "geoCountryName": "France",
+    "geoCountryUrn": "urn:li:fs_geo:105015875",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "industryUrn": "urn:li:fs_industry:96",
+    "firstName": "Antoine",
+    "entityUrn": "urn:li:fs_profile:ACoAAAA615EBaNquQR5gOz_oFr9emeCr0ZNw67M",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:90009659"
+    },
+    "geoLocationName": "Greater Paris Metropolitan Region",
+    "location": {
+        "basicLocation": {
+            "countryCode": "fr"
+        }
+    },
+    "headline": "Directeur associ\u00e9 de bluenove, initiateur du mouvement #BrightMirror",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C4D03AQHqKKC_Kruj_g/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1533636584521?e=1691020800&v=beta&t=0BkZr4OgDL1Z6jkA8fGG4_UjRepneeHtssWdMOKTovY",
+    "img_200_200": "200_200/0/1533636584521?e=1691020800&v=beta&t=V75m4SSkt7j-QSsCbPsBpOiO23hdMVpGQmFrr6qIYJM",
+    "img_400_400": "400_400/0/1533636584521?e=1691020800&v=beta&t=YAfCxUoO6Eidu-dcbbxizr9bfsV_HCEZzFGPTIfAhBo",
+    "img_800_800": "800_800/0/1533636584521?e=1691020800&v=beta&t=i2Pq_WL3z4Sw6mSnQ2b3w2iOvcw6_d_SNBeruuPXsT8",
+    "profile_id": "ACoAAAA615EBaNquQR5gOz_oFr9emeCr0ZNw67M",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAAA615EBaNquQR5gOz_oFr9emeCr0ZNw67M",
+    "member_urn": "urn:li:member:3856273",
+    "public_id": "brachetantoine",
+    "experience": [
+        {
+            "locationName": "Paris Area, France",
+            "entityUrn": "urn:li:fs_position:(ACoAAAA615EBaNquQR5gOz_oFr9emeCr0ZNw67M,1155625932)",
+            "geoLocationName": "Paris Area, France",
+            "companyName": "bluenove",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2017
+                }
+            },
+            "description": "Bluenove accompagne la transformation positive des organisations en faisant levier de l'intelligence collective de toutes leurs parties prenantes.\nPlus d'informations sur www.bluenove.com",
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Management Consulting"
+                ]
+            },
+            "title": "Directeur associ\u00e9",
+            "companyUrn": "urn:li:fs_miniCompany:227145",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQFjgT7R48O45A/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAAA615EBaNquQR5gOz_oFr9emeCr0ZNw67M,1835637982)",
+            "companyName": "D\u00e9mocratie Ouverte",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Nonprofit Organization Management"
+                ]
+            },
+            "title": "Membre du Comit\u00e9 d'Orientation Strat\u00e9gique",
+            "companyUrn": "urn:li:fs_miniCompany:7212668",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQESsLEiAFm8fA/company-logo_"
+        },
+        {
+            "locationName": "Paris",
+            "entityUrn": "urn:li:fs_position:(ACoAAAA615EBaNquQR5gOz_oFr9emeCr0ZNw67M,1155629036)",
+            "geoLocationName": "Paris",
+            "companyName": "APM - Association Progr\u00e8s du Management",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Professional Training & Coaching"
+                ]
+            },
+            "title": "Expert",
+            "companyUrn": "urn:li:fs_miniCompany:1502490",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQH7L9Oo1uRISQ/company-logo_"
+        },
+        {
+            "locationName": "Paris Area, France",
+            "entityUrn": "urn:li:fs_position:(ACoAAAA615EBaNquQR5gOz_oFr9emeCr0ZNw67M,1225816318)",
+            "geoLocationName": "Paris Area, France",
+            "geoUrn": "urn:li:fs_geo:90009659",
+            "companyName": "D\u00e9mocratie Ouverte",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2018
+                }
+            },
+            "description": "D\u00e9mocratie Ouverte est un collectif citoyen ind\u00e9pendant qui agit pour :\n\n# Rep\u00e9rer, mettre en r\u00e9seau et accompagner les innovateurs d\u00e9mocratiques\n# Permettre aux citoyens de faire entendre leur voix et de gagner en pouvoir d'agir\n# Donner \u00e0 voir la diversit\u00e9 d'initiatives citoyennes et politiques in\u00e9dites en France et dans la francophonie\n# Proposer aux \u00e9lus et aux administrations des outils et m\u00e9thodes pour gagner en efficacit\u00e9 et en l\u00e9gitimit\u00e9\n# Tester de nouvelles mani\u00e8res de faire de la politique\n# Faire advenir une soci\u00e9t\u00e9 ouverte, plus transparente, participative et collaborative.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Nonprofit Organization Management"
+                ]
+            },
+            "title": "Co-Pr\u00e9sident",
+            "region": "urn:li:fs_region:(fr,5227)",
+            "companyUrn": "urn:li:fs_miniCompany:7212668",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQESsLEiAFm8fA/company-logo_"
+        },
+        {
+            "locationName": "Paris",
+            "entityUrn": "urn:li:fs_position:(ACoAAAA615EBaNquQR5gOz_oFr9emeCr0ZNw67M,391517480)",
+            "geoLocationName": "Paris",
+            "companyName": "Dassault Syst\u00e8mes",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2013
+                }
+            },
+            "description": "Netvibes provides Dashboard Intelligence ~ transform the intangible real-time web into tangible trends, expert knowledge and business action",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ]
+            },
+            "title": "Senior Director, Strategic Business Development ",
+            "companyUrn": "urn:li:fs_miniCompany:3896",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQHroRzeNTva6Q/company-logo_"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAA615EBaNquQR5gOz_oFr9emeCr0ZNw67M,1236342)",
+            "school": {
+                "objectUrn": "urn:li:school:19908",
+                "entityUrn": "urn:li:fs_miniSchool:19908",
+                "active": true,
+                "schoolName": "ESCP Business School",
+                "trackingId": "IfZjevITTFKbk5sex4JToA==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQFiv0Ceayozxw/company-logo_"
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2002
+                },
+                "startDate": {
+                    "year": 1998
+                }
+            },
+            "degreeName": "Master",
+            "schoolName": "ESCP Europe",
+            "fieldOfStudy": "Business/Managerial Economics",
+            "schoolUrn": "urn:li:fs_miniSchool:19908"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAA615EBaNquQR5gOz_oFr9emeCr0ZNw67M,146132686)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1998
+                },
+                "startDate": {
+                    "year": 1996
+                }
+            },
+            "schoolName": "Pr\u00e9pa Saint Jean de Douai"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAAA615EBaNquQR5gOz_oFr9emeCr0ZNw67M,318820892)",
+            "grade": "Mention tr\u00e8s bien",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1996
+                },
+                "startDate": {
+                    "year": 1993
+                }
+            },
+            "degreeName": "Baccalaur\u00e9at",
+            "schoolName": "Lyc\u00e9e Kernanec",
+            "fieldOfStudy": "Economics"
+        }
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "proficiency": "FULL_PROFESSIONAL"
+        },
+        {
+            "name": "French",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "German",
+            "proficiency": "ELEMENTARY"
+        }
+    ],
+    "publications": [
+        {
+            "date": {
+                "month": 9,
+                "year": 2017,
+                "day": 1
+            },
+            "name": "Manifeste des Crapauds Fous",
+            "publisher": "Massot Editions",
+            "description": "Les crapauds vivent dans une zone et se reproduisent dans d\u2019autres. Chaque ann\u00e9e, de mani\u00e8re gr\u00e9gaire, tous migrent dans le m\u00eame sens. Lorsque nous construisons de nouvelles routes en travers, ils se font massivement \u00e9craser. Sauf que\u2026 quelques-uns vont dans l\u2019autre sens, ou trouvent les tunnels que des \u00e9cologistes font creuser pour eux sous les routes. Parce qu\u2019ils s\u2019aventurent dans des directions non conventionnelles, ces crapauds fous inventent des voies d\u2019avenir et sauvent l\u2019esp\u00e8ce.",
+            "url": "http://crapaud-fou.org/manifeste_du_crapaud/",
+            "authors": [
+                {
+                    "member": {
+                        "firstName": "Antoine",
+                        "lastName": "Brachet",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAA615EBaNquQR5gOz_oFr9emeCr0ZNw67M",
+                        "occupation": "Directeur associ\u00e9 de bluenove, initiateur du mouvement #BrightMirror",
+                        "objectUrn": "urn:li:member:3856273",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAA615EBaNquQR5gOz_oFr9emeCr0ZNw67M",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1547650775465?e=1691020800&v=beta&t=b--Ng8fXL3oEi1RA2RQ6tkqNytJADTFbqGKXwhdyqYs",
+                                        "expiresAt": 1691020800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1547650775465?e=1691020800&v=beta&t=d-J2DCvwS_aKmSj3x1HEifxuBvEp6Tc_YWYVigiJVsY",
+                                        "expiresAt": 1691020800000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E16AQEztYNy-xGKKg/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "brachetantoine",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1533636584521?e=1691020800&v=beta&t=0BkZr4OgDL1Z6jkA8fGG4_UjRepneeHtssWdMOKTovY",
+                                        "expiresAt": 1691020800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1533636584521?e=1691020800&v=beta&t=V75m4SSkt7j-QSsCbPsBpOiO23hdMVpGQmFrr6qIYJM",
+                                        "expiresAt": 1691020800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1533636584521?e=1691020800&v=beta&t=YAfCxUoO6Eidu-dcbbxizr9bfsV_HCEZzFGPTIfAhBo",
+                                        "expiresAt": 1691020800000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1533636584521?e=1691020800&v=beta&t=i2Pq_WL3z4Sw6mSnQ2b3w2iOvcw6_d_SNBeruuPXsT8",
+                                        "expiresAt": 1691020800000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQHqKKC_Kruj_g/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "luaESJBXSSSX2l0UhUkI4Q=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAA615EBaNquQR5gOz_oFr9emeCr0ZNw67M"
+                },
+                {
+                    "member": {
+                        "firstName": "thanh huong",
+                        "lastName": "nghiem",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAwxjMoB7xWuu87VyPGg6h5wrKX8YcPCF9Q",
+                        "occupation": "Pr\u00e9sidente fondatrice chez Institut Angenius",
+                        "objectUrn": "urn:li:member:204573898",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAwxjMoB7xWuu87VyPGg6h5wrKX8YcPCF9Q",
+                        "publicIdentifier": "tnghiem",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1517052777326?e=1691020800&v=beta&t=3bZC6wcrSNmrxkCP1SYOhFUDcEBNJ_4mnH1pNeItPpo",
+                                        "expiresAt": 1691020800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1517052777326?e=1691020800&v=beta&t=qPzsfGC3uzjoPtwWmRU0SSRW9UbX28gXXGft2hKe3LY",
+                                        "expiresAt": 1691020800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1517052777326?e=1691020800&v=beta&t=_-MEnxsHN4IenN85afDzrwpuhKx7aGlNwSrSpUp-fDc",
+                                        "expiresAt": 1691020800000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1517052777326?e=1691020800&v=beta&t=2iStWpicbEaU0O1gZpd4r4Jvc660DcK1myYmeReyoqs",
+                                        "expiresAt": 1691020800000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C5103AQHBEFVZOGw8nQ/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "p+SNwLGjSNirrRxWPjzUgQ=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAwxjMoB7xWuu87VyPGg6h5wrKX8YcPCF9Q"
+                }
+            ]
+        },
+        {
+            "date": {
+                "month": 3,
+                "year": 2016,
+                "day": 1
+            },
+            "name": "Roman : Un Peuple Totalitaire?",
+            "publisher": "Internet",
+            "description": "Ecrire un roman sur les \u00e9volutions possibles de la d\u00e9mocratie apr\u00e8s la r\u00e9volution num\u00e9rique, notamment en France.\n\nCe roman doit permettre de mettre en perspective et de sensibiliser le plus grand nombre au bouillonnement d'initiatives en cours, afin d'aider \u00e0 ce que chaque citoyen puisse se r\u00e9approprier cette exp\u00e9rimentation en \u00e9volution permanente qu'est la d\u00e9mocratie, et peut \u00eatre essayer d'y participer",
+            "url": "http://www.un-peuple-totalitaire.org/",
+            "authors": [
+                {
+                    "member": {
+                        "firstName": "Antoine",
+                        "lastName": "Brachet",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAA615EBaNquQR5gOz_oFr9emeCr0ZNw67M",
+                        "occupation": "Directeur associ\u00e9 de bluenove, initiateur du mouvement #BrightMirror",
+                        "objectUrn": "urn:li:member:3856273",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAA615EBaNquQR5gOz_oFr9emeCr0ZNw67M",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1547650775465?e=1691020800&v=beta&t=b--Ng8fXL3oEi1RA2RQ6tkqNytJADTFbqGKXwhdyqYs",
+                                        "expiresAt": 1691020800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1547650775465?e=1691020800&v=beta&t=d-J2DCvwS_aKmSj3x1HEifxuBvEp6Tc_YWYVigiJVsY",
+                                        "expiresAt": 1691020800000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E16AQEztYNy-xGKKg/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "brachetantoine",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1533636584521?e=1691020800&v=beta&t=0BkZr4OgDL1Z6jkA8fGG4_UjRepneeHtssWdMOKTovY",
+                                        "expiresAt": 1691020800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1533636584521?e=1691020800&v=beta&t=V75m4SSkt7j-QSsCbPsBpOiO23hdMVpGQmFrr6qIYJM",
+                                        "expiresAt": 1691020800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1533636584521?e=1691020800&v=beta&t=YAfCxUoO6Eidu-dcbbxizr9bfsV_HCEZzFGPTIfAhBo",
+                                        "expiresAt": 1691020800000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1533636584521?e=1691020800&v=beta&t=i2Pq_WL3z4Sw6mSnQ2b3w2iOvcw6_d_SNBeruuPXsT8",
+                                        "expiresAt": 1691020800000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQHqKKC_Kruj_g/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "luaESJBXSSSX2l0UhUkI4Q=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAA615EBaNquQR5gOz_oFr9emeCr0ZNw67M"
+                }
+            ]
+        },
+        {
+            "date": {
+                "month": 6,
+                "year": 2014,
+                "day": 30
+            },
+            "name": "Pitch Barbare",
+            "publisher": "Beez&Co",
+            "description": "Notre constat : le 21\u00e8me si\u00e8cle va sans doute d\u00e9cider en partie de l\u2019avenir des hommes, dans une proportion assez in\u00e9dite. La sph\u00e8re politique n\u2019est plus \u00e0 m\u00eame de porter le d\u00e9bat sur la place publique et de proposer des r\u00e9ponses.\n\nNotre mouvement : Anticiper, agir ensemble, aider chacun d\u2019entre nous d\u00e9cider en pleine conscience.\n\nNous sommes des millions, nous sommes les barbares, voici notre manifeste...",
+            "url": "http://beezandco.com/nous-sommes-tous-des-barbares/",
+            "authors": [
+                {
+                    "member": {
+                        "firstName": "Antoine",
+                        "lastName": "Brachet",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAA615EBaNquQR5gOz_oFr9emeCr0ZNw67M",
+                        "occupation": "Directeur associ\u00e9 de bluenove, initiateur du mouvement #BrightMirror",
+                        "objectUrn": "urn:li:member:3856273",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAA615EBaNquQR5gOz_oFr9emeCr0ZNw67M",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1547650775465?e=1691020800&v=beta&t=b--Ng8fXL3oEi1RA2RQ6tkqNytJADTFbqGKXwhdyqYs",
+                                        "expiresAt": 1691020800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1547650775465?e=1691020800&v=beta&t=d-J2DCvwS_aKmSj3x1HEifxuBvEp6Tc_YWYVigiJVsY",
+                                        "expiresAt": 1691020800000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E16AQEztYNy-xGKKg/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "brachetantoine",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1533636584521?e=1691020800&v=beta&t=0BkZr4OgDL1Z6jkA8fGG4_UjRepneeHtssWdMOKTovY",
+                                        "expiresAt": 1691020800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1533636584521?e=1691020800&v=beta&t=V75m4SSkt7j-QSsCbPsBpOiO23hdMVpGQmFrr6qIYJM",
+                                        "expiresAt": 1691020800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1533636584521?e=1691020800&v=beta&t=YAfCxUoO6Eidu-dcbbxizr9bfsV_HCEZzFGPTIfAhBo",
+                                        "expiresAt": 1691020800000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1533636584521?e=1691020800&v=beta&t=i2Pq_WL3z4Sw6mSnQ2b3w2iOvcw6_d_SNBeruuPXsT8",
+                                        "expiresAt": 1691020800000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQHqKKC_Kruj_g/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "luaESJBXSSSX2l0UhUkI4Q=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAA615EBaNquQR5gOz_oFr9emeCr0ZNw67M"
+                }
+            ]
+        },
+        {
+            "date": {
+                "month": 6,
+                "year": 2014,
+                "day": 11
+            },
+            "name": "Jeu & Enchantement : retour sur l'\u00e9dition 2014 de Kinnernet",
+            "publisher": "L'Avenir Appartient",
+            "url": "http://lavap.blogspot.fr/2014/06/jeu-enchantement.html",
+            "authors": [
+                {
+                    "member": {
+                        "firstName": "Antoine",
+                        "lastName": "Brachet",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAA615EBaNquQR5gOz_oFr9emeCr0ZNw67M",
+                        "occupation": "Directeur associ\u00e9 de bluenove, initiateur du mouvement #BrightMirror",
+                        "objectUrn": "urn:li:member:3856273",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAA615EBaNquQR5gOz_oFr9emeCr0ZNw67M",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1547650775465?e=1691020800&v=beta&t=b--Ng8fXL3oEi1RA2RQ6tkqNytJADTFbqGKXwhdyqYs",
+                                        "expiresAt": 1691020800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1547650775465?e=1691020800&v=beta&t=d-J2DCvwS_aKmSj3x1HEifxuBvEp6Tc_YWYVigiJVsY",
+                                        "expiresAt": 1691020800000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E16AQEztYNy-xGKKg/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "brachetantoine",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1533636584521?e=1691020800&v=beta&t=0BkZr4OgDL1Z6jkA8fGG4_UjRepneeHtssWdMOKTovY",
+                                        "expiresAt": 1691020800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1533636584521?e=1691020800&v=beta&t=V75m4SSkt7j-QSsCbPsBpOiO23hdMVpGQmFrr6qIYJM",
+                                        "expiresAt": 1691020800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1533636584521?e=1691020800&v=beta&t=YAfCxUoO6Eidu-dcbbxizr9bfsV_HCEZzFGPTIfAhBo",
+                                        "expiresAt": 1691020800000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1533636584521?e=1691020800&v=beta&t=i2Pq_WL3z4Sw6mSnQ2b3w2iOvcw6_d_SNBeruuPXsT8",
+                                        "expiresAt": 1691020800000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQHqKKC_Kruj_g/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "luaESJBXSSSX2l0UhUkI4Q=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAA615EBaNquQR5gOz_oFr9emeCr0ZNw67M"
+                }
+            ]
+        },
+        {
+            "date": {
+                "month": 4,
+                "year": 2014,
+                "day": 22
+            },
+            "name": "Tousaveccolin : les barbares demandent aussi leur mise en examen-.html",
+            "publisher": "la Tribune",
+            "url": "http://www.latribune.fr/opinions/tribunes/20140422trib000826320/tousaveccolin-les-barbares-demandent-aussi-leur-mise-en-examen-.html",
+            "authors": [
+                {
+                    "member": {
+                        "firstName": "Antoine",
+                        "lastName": "Brachet",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAA615EBaNquQR5gOz_oFr9emeCr0ZNw67M",
+                        "occupation": "Directeur associ\u00e9 de bluenove, initiateur du mouvement #BrightMirror",
+                        "objectUrn": "urn:li:member:3856273",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAA615EBaNquQR5gOz_oFr9emeCr0ZNw67M",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1547650775465?e=1691020800&v=beta&t=b--Ng8fXL3oEi1RA2RQ6tkqNytJADTFbqGKXwhdyqYs",
+                                        "expiresAt": 1691020800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1547650775465?e=1691020800&v=beta&t=d-J2DCvwS_aKmSj3x1HEifxuBvEp6Tc_YWYVigiJVsY",
+                                        "expiresAt": 1691020800000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E16AQEztYNy-xGKKg/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "brachetantoine",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1533636584521?e=1691020800&v=beta&t=0BkZr4OgDL1Z6jkA8fGG4_UjRepneeHtssWdMOKTovY",
+                                        "expiresAt": 1691020800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1533636584521?e=1691020800&v=beta&t=V75m4SSkt7j-QSsCbPsBpOiO23hdMVpGQmFrr6qIYJM",
+                                        "expiresAt": 1691020800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1533636584521?e=1691020800&v=beta&t=YAfCxUoO6Eidu-dcbbxizr9bfsV_HCEZzFGPTIfAhBo",
+                                        "expiresAt": 1691020800000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1533636584521?e=1691020800&v=beta&t=i2Pq_WL3z4Sw6mSnQ2b3w2iOvcw6_d_SNBeruuPXsT8",
+                                        "expiresAt": 1691020800000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQHqKKC_Kruj_g/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "luaESJBXSSSX2l0UhUkI4Q=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAA615EBaNquQR5gOz_oFr9emeCr0ZNw67M"
+                },
+                {
+                    "member": {
+                        "firstName": "Julien",
+                        "lastName": "Breitfeld",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAAK5bMBuJdgsZCT2qC4fHmUnLVElRoAdOU",
+                        "occupation": "marklor @ marklor",
+                        "objectUrn": "urn:li:member:714163",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAAK5bMBuJdgsZCT2qC4fHmUnLVElRoAdOU",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1516235052658?e=1691020800&v=beta&t=tgaC7dkYCgpU9WCKyIYlQhEPwrHDgJerpaGJhCFpa4Y",
+                                        "expiresAt": 1691020800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1516235052658?e=1691020800&v=beta&t=QXnXkjIrxmWvAT084To56BKz3tghJMKtz7pm4PSSrD0",
+                                        "expiresAt": 1691020800000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E16AQHUeVpUH2ZU5w/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "breitfeld",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1642330210171?e=1685952000&v=beta&t=CnoQBFbASSZy5UcFj16LXwPiDrUUiJWd9SWqs0Gx6IE",
+                                        "expiresAt": 1685952000000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1642330210171?e=1685952000&v=beta&t=ESPZh9ZggfY4hkYneVmN4M6Dr09YqniaH-M4G5ZGXEk",
+                                        "expiresAt": 1685952000000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1642330210171?e=1685952000&v=beta&t=LNyys0DL44-nWs_ACTJc93v4Og8Tsg_tpSFQOcMlyXU",
+                                        "expiresAt": 1685952000000,
+                                        "height": 800
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1642330210171?e=1685952000&v=beta&t=SOJ_N6te8njw07dipaBpt42Yu9xNLc56tkL-PbShB5g",
+                                        "expiresAt": 1685952000000,
+                                        "height": 100
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/D5635AQH1NNCKxeNFog/profile-framedphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "+yrjTdVmQ32NrfMW40rMwA=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAAK5bMBuJdgsZCT2qC4fHmUnLVElRoAdOU"
+                }
+            ]
+        },
+        {
+            "date": {
+                "month": 9,
+                "year": 2006,
+                "day": 25
+            },
+            "name": "Entre concurrence et convergence fiscale, quel projet europ\u00e9en ?",
+            "publisher": "fondation Robert Schuman",
+            "description": "La concurrence fiscale se d\u00e9veloppe inexorablement entre les Etats europ\u00e9ens, induisant une baisse de l'imposition des soci\u00e9t\u00e9s ou de l'\u00e9pargne et une augmentation relative de l'imposition des facteurs moins mobiles. Les choix op\u00e9r\u00e9s par le nouveau gouvernement allemand viennent conforter cette analyse. Or, si la concurrence fiscale ne pr\u00e9sente pas que des inconv\u00e9nients, elle fait peser un risque sur l'\u00e9quilibre des \u00e9conomies europ\u00e9ennes, voire sur le sens du projet europ\u00e9en. La coordination fiscale est rest\u00e9e jusqu'ici minimale, du moins en mati\u00e8re de fiscalit\u00e9 directe. L'id\u00e9e d'une convergence, qui aboutirait \u00e0 la mise en place d'un syst\u00e8me fiscal europ\u00e9en, n'entre pas dans le champ des possibles, d\u00e8s lors que l'Europe ne suit pas la voie f\u00e9d\u00e9rale. Mais entre la concurrence et la convergence, il est possible d'envisager une harmonisation concr\u00e8te, passant peut-\u00eatre par une coop\u00e9ration renforc\u00e9e, qui permettrait de choisir et non de subir les niveaux de fiscalit\u00e9. \u00c0 terme, cette harmonisation pourrait servir de base \u00e0 l'\u00e9laboration d'un imp\u00f4t europ\u00e9en.",
+            "url": "http://www.robert-schuman.eu/question_europe.php?num=qe-39",
+            "authors": [
+                {
+                    "member": {
+                        "firstName": "Antoine",
+                        "lastName": "Brachet",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAA615EBaNquQR5gOz_oFr9emeCr0ZNw67M",
+                        "occupation": "Directeur associ\u00e9 de bluenove, initiateur du mouvement #BrightMirror",
+                        "objectUrn": "urn:li:member:3856273",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAA615EBaNquQR5gOz_oFr9emeCr0ZNw67M",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1547650775465?e=1691020800&v=beta&t=b--Ng8fXL3oEi1RA2RQ6tkqNytJADTFbqGKXwhdyqYs",
+                                        "expiresAt": 1691020800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1547650775465?e=1691020800&v=beta&t=d-J2DCvwS_aKmSj3x1HEifxuBvEp6Tc_YWYVigiJVsY",
+                                        "expiresAt": 1691020800000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E16AQEztYNy-xGKKg/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "brachetantoine",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1533636584521?e=1691020800&v=beta&t=0BkZr4OgDL1Z6jkA8fGG4_UjRepneeHtssWdMOKTovY",
+                                        "expiresAt": 1691020800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1533636584521?e=1691020800&v=beta&t=V75m4SSkt7j-QSsCbPsBpOiO23hdMVpGQmFrr6qIYJM",
+                                        "expiresAt": 1691020800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1533636584521?e=1691020800&v=beta&t=YAfCxUoO6Eidu-dcbbxizr9bfsV_HCEZzFGPTIfAhBo",
+                                        "expiresAt": 1691020800000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1533636584521?e=1691020800&v=beta&t=i2Pq_WL3z4Sw6mSnQ2b3w2iOvcw6_d_SNBeruuPXsT8",
+                                        "expiresAt": 1691020800000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQHqKKC_Kruj_g/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "luaESJBXSSSX2l0UhUkI4Q=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAA615EBaNquQR5gOz_oFr9emeCr0ZNw67M"
+                },
+                {
+                    "name": "Am\u00e9lie Verdier"
+                }
+            ]
+        },
+        {
+            "name": "Mes Contributions dans le Huffington Post",
+            "publisher": "http://www.huffingtonpost.fr/antoine-brachet/",
+            "url": "http://www.huffingtonpost.fr/antoine-brachet/",
+            "authors": [
+                {
+                    "member": {
+                        "firstName": "Antoine",
+                        "lastName": "Brachet",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAA615EBaNquQR5gOz_oFr9emeCr0ZNw67M",
+                        "occupation": "Directeur associ\u00e9 de bluenove, initiateur du mouvement #BrightMirror",
+                        "objectUrn": "urn:li:member:3856273",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAA615EBaNquQR5gOz_oFr9emeCr0ZNw67M",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1547650775465?e=1691020800&v=beta&t=b--Ng8fXL3oEi1RA2RQ6tkqNytJADTFbqGKXwhdyqYs",
+                                        "expiresAt": 1691020800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1547650775465?e=1691020800&v=beta&t=d-J2DCvwS_aKmSj3x1HEifxuBvEp6Tc_YWYVigiJVsY",
+                                        "expiresAt": 1691020800000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E16AQEztYNy-xGKKg/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "brachetantoine",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1533636584521?e=1691020800&v=beta&t=0BkZr4OgDL1Z6jkA8fGG4_UjRepneeHtssWdMOKTovY",
+                                        "expiresAt": 1691020800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1533636584521?e=1691020800&v=beta&t=V75m4SSkt7j-QSsCbPsBpOiO23hdMVpGQmFrr6qIYJM",
+                                        "expiresAt": 1691020800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1533636584521?e=1691020800&v=beta&t=YAfCxUoO6Eidu-dcbbxizr9bfsV_HCEZzFGPTIfAhBo",
+                                        "expiresAt": 1691020800000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1533636584521?e=1691020800&v=beta&t=i2Pq_WL3z4Sw6mSnQ2b3w2iOvcw6_d_SNBeruuPXsT8",
+                                        "expiresAt": 1691020800000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQHqKKC_Kruj_g/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "luaESJBXSSSX2l0UhUkI4Q=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAA615EBaNquQR5gOz_oFr9emeCr0ZNw67M"
+                }
+            ]
+        },
+        {
+            "name": "Mes contributions dans lePlus de l'Obs",
+            "publisher": "http://leplus.nouvelobs.com/",
+            "description": "Cofondateur du mouvement les 100 Barbares, mouvement citoyen de r\u00e9flexion et d'action\n\nEn 7 mots : \nJe suis (1) barbare (voir manifeste du groupe Facebook des 100barbares), (2) curieux des turbulences du monde que nous sommes en train de cr\u00e9er (pr\u00e9sident de Futurbulences), convaincu que (3) les solutions sont en chacun de nous, pour autant que nous acceptions de (4) prendre la permission de suivre nos (5) intuitions. Ex-consultant en strat\u00e9gie, j'ai pris le parti de laisser ma part (6) Adamsbergienne (Cf Fred Vargas) s'exprimer. (Je parle bouquin dans un format court, parce que je ne peux pas faire autrement : je suis un (7) lecteur compulsif\n",
+            "url": "http://leplus.nouvelobs.com/antoinebrachet",
+            "authors": [
+                {
+                    "member": {
+                        "firstName": "Antoine",
+                        "lastName": "Brachet",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAAA615EBaNquQR5gOz_oFr9emeCr0ZNw67M",
+                        "occupation": "Directeur associ\u00e9 de bluenove, initiateur du mouvement #BrightMirror",
+                        "objectUrn": "urn:li:member:3856273",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAAA615EBaNquQR5gOz_oFr9emeCr0ZNw67M",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1547650775465?e=1691020800&v=beta&t=b--Ng8fXL3oEi1RA2RQ6tkqNytJADTFbqGKXwhdyqYs",
+                                        "expiresAt": 1691020800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1547650775465?e=1691020800&v=beta&t=d-J2DCvwS_aKmSj3x1HEifxuBvEp6Tc_YWYVigiJVsY",
+                                        "expiresAt": 1691020800000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4E16AQEztYNy-xGKKg/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "brachetantoine",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1533636584521?e=1691020800&v=beta&t=0BkZr4OgDL1Z6jkA8fGG4_UjRepneeHtssWdMOKTovY",
+                                        "expiresAt": 1691020800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1533636584521?e=1691020800&v=beta&t=V75m4SSkt7j-QSsCbPsBpOiO23hdMVpGQmFrr6qIYJM",
+                                        "expiresAt": 1691020800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1533636584521?e=1691020800&v=beta&t=YAfCxUoO6Eidu-dcbbxizr9bfsV_HCEZzFGPTIfAhBo",
+                                        "expiresAt": 1691020800000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1533636584521?e=1691020800&v=beta&t=i2Pq_WL3z4Sw6mSnQ2b3w2iOvcw6_d_SNBeruuPXsT8",
+                                        "expiresAt": 1691020800000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media.licdn.com/dms/image/C4D03AQHqKKC_Kruj_g/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "luaESJBXSSSX2l0UhUkI4Q=="
+                    },
+                    "profileUrn": "urn:li:fs_miniProfile:ACoAAAA615EBaNquQR5gOz_oFr9emeCr0ZNw67M"
+                }
+            ]
+        }
+    ],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}
