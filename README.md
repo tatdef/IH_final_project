@@ -28,10 +28,9 @@ Bonus 2: increase the dataset
 ### Building a database - 1.5 days
 * initial outline of tables, keys, variables and relationships 
 * initial recoding for individuals 
+* initial recoding for companies 
 
 __________________________________________________________________________________________________________________
-
-* initial recoding for companies 
 
 ### SQL entity-relation model and tables 0.5 days
 * create tables in SQL
