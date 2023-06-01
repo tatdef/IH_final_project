@@ -25,23 +25,34 @@ Using data analysis to understand people and organizations in the civic tech sec
 Bonus : improve the scraper to return the previous experience information 
 Bonus 2: increase the dataset
 
-### Building a database - 1.5 days
+### Building a database - 1.5 days 
 * initial outline of tables, keys, variables and relationships 
 * initial recoding for individuals 
 * initial recoding for companies 
 
+### SQL entity-relation model and tables 1 day - thursday 1st june 
+* create tables in SQL
+* write initial queries
 __________________________________________________________________________________________________________________
 
-### SQL entity-relation model and tables 0.5 days
-* create tables in SQL
-* identify relationships
-* write queries
+* identify relationships and keys 
+
+### Mid-review 
+* check data quality (missing, outliers, correlations, features)
+* describe database
+* check with Andy for next steps 
+
 
 ### Database refining - 0.5 days 
 * Identify the list of organizations we want to focus us
+* RUN THE R SCRIPT
 * Streamline the process to collect linkedin pages for individuals and organizations 
 * create python objects for these lists 
 * anonymizing 
+
+THIS SHOULD BE DONE BY FRIDAY NIGHT
+__________________________________________________________________________________________________________________
+
 
 ## Data analysis - 2 days 
 * Data cleaning for analysis : building categories, encoding... 
