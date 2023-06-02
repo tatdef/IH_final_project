@@ -11,9 +11,6 @@ SELECT geoCountryName, geoLocationName
 FROM people
 GROUP BY geoCountryName, geoLocationName;
 
-SELECT birthDate, count(birthDate) FROM people 
-GROUP BY birthDate; 
--- it counts nulls as just 1 occurrence ? 
 
 SELECT industryName, count(industryName) from people
 GROUP BY industryName
