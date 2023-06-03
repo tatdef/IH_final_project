@@ -1,11 +1,18 @@
 CREATE DATABASE IF NOT EXISTS civictech;
 
+USE civictech;
+
+DROP TABLE companies_finance, companies_info, education, names, people;
+
 /* the database tables are created through python mysql alchemy module*/ 
 
 USE civic tech;
 
 SHOW TABLES;
 DESCRIBE people;
+
+DESCRIBE experience;
+SELECT * FROM experience;
 
 SELECT geoCountryName, geoLocationName, sum(founding_roles), sum(direction_roles), sum(consulting_roles)
 FROM people
