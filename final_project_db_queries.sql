@@ -2,27 +2,38 @@ CREATE DATABASE IF NOT EXISTS civictech;
 
 /* the database tables are created through python mysql alchemy module*/ 
 
-USE civictech;
+USE civic tech;
 
 SHOW TABLES;
 DESCRIBE people;
+
+SELECT geoCountryName, geoLocationName, sum(founding_roles), sum(direction_roles), sum(consulting_roles)
+FROM people
+GROUP BY geoCountryName, geoLocationName;
+
+SELECT geoLocationName, count(languages_over2)
+FROM people
+GROUP BY geoLocationName;
 
 SELECT geoCountryName, geoLocationName 
 FROM people
 GROUP BY geoCountryName, geoLocationName;
 
-
-SELECT industryName, count(industryName) from people
-GROUP BY industryName
-ORDER BY count(industryName) DESC ;
+SELECT geoCountryName, industryName, count(industryName) from people
+GROUP BY geoCountryName, industryName
+ORDER BY geoCountryName, count(industryName) DESC ;
 
 SELECT languages_stated, count(languages_over2) from people
 GROUP BY languages_stated ;
+
+DESCRIBE education;
 
 DESCRIBE companies_finance;
 
 SELECT avg(chiffre_daffaires_e), max(chiffre_daffaires_e), min(chiffre_daffaires_e) 
 FROM companies_finance;
+
+DESCRIBE companies_info; 
 
 SELECT activite, count(activite) FROM companies_info
 GROUP BY activite 

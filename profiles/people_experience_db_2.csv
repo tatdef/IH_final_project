@@ -1,7 +1,7 @@
-index;exp_id;ind_id;locationName;companyName;description;title;startDate_month;startDate_year;endDate_month;endDate_year;industry;company_empl_low;company_empl_high;title_direction;titleconsulting;titlefounder
-0;0;0;Paris Metropolitan Region;bluenove;"Bluenove accompagne la transformation positive des organisations en faisant levier de l'intelligence collective de toutes leurs parties prenantes.
+exp_id;ind_id;locationName;companyName;description;title;startDate_month;startDate_year;endDate_month;endDate_year;industry;company_empl_low;company_empl_high;title_direction;titleconsulting;titlefounder
+0;0;Paris Metropolitan Region;bluenove;"Bluenove accompagne la transformation positive des organisations en faisant levier de l'intelligence collective de toutes leurs parties prenantes.
 Plus d'informations sur www.bluenove.com";Directeur associé;11;2017;0;0;['Management Consulting'];11;50;1;0;0
-1;1;0;Paris Metropolitan Region;démocratie ouverte;"Démocratie Ouverte est un collectif citoyen indépendant qui agit pour :
+1;0;Paris Metropolitan Region;démocratie ouverte;"Démocratie Ouverte est un collectif citoyen indépendant qui agit pour :
 
 # Repérer, mettre en réseau et accompagner les innovateurs démocratiques
 # Permettre aux citoyens de faire entendre leur voix et de gagner en pouvoir d'agir
@@ -9,25 +9,25 @@ Plus d'informations sur www.bluenove.com";Directeur associé;11;2017;0;0;['Manag
 # Proposer aux élus et aux administrations des outils et méthodes pour gagner en efficacité et en légitimité
 # Tester de nouvelles manières de faire de la politique
 # Faire advenir une société ouverte, plus transparente, participative et collaborative.";Co-Président;1;2018;5;2020;['Management Consulting'];11;50;1;0;0
-2;2;0;Paris Metropolitan Region;apm - association progrès du management;;Expert;1;2017;0;0;['Management Consulting'];11;50;0;0;0
-3;3;0;;démocratie ouverte;;Membre du Comité d'Orientation Stratégique;7;2021;0;0;['Management Consulting'];11;50;0;0;0
-4;4;0;Paris Metropolitan Region;dassault systèmes;Netvibes provides Dashboard Intelligence ~ transform the intangible real-time web into tangible trends, expert knowledge and business action;Senior Director, Strategic Business Development ;2;2013;10;2017;['Management Consulting'];11;50;1;0;0
-5;5;1;;roch ventures;"ROCH Ventures is a Luxembourg based VC fund providing Seed and Series A funding to startups in the Travel & Tourism sector. 
+2;0;Paris Metropolitan Region;apm - association progrès du management;;Expert;1;2017;0;0;['Management Consulting'];11;50;0;0;0
+3;0;;démocratie ouverte;;Membre du Comité d'Orientation Stratégique;7;2021;0;0;['Management Consulting'];11;50;0;0;0
+4;0;Paris Metropolitan Region;dassault systèmes;Netvibes provides Dashboard Intelligence ~ transform the intangible real-time web into tangible trends, expert knowledge and business action;Senior Director, Strategic Business Development ;2;2013;10;2017;['Management Consulting'];11;50;1;0;0
+5;1;;roch ventures;"ROCH Ventures is a Luxembourg based VC fund providing Seed and Series A funding to startups in the Travel & Tourism sector. 
 We believe that Travel & Tourism is entering a new cycle of changes and that technology and sustainability will be the key drivers of opportunities and outperformance. 
 We detect, select, and enable the future winners providing our investors with the highest returns. ";Founder & Managing Partner;1;2022;0;0;['Venture Capital', 'Private Equity'];2;10;0;0;1
-6;6;1;Paris Metropolitan Region;boston consulting group (bcg);"Head of TUNED by BCG.
+6;1;Paris Metropolitan Region;boston consulting group (bcg);"Head of TUNED by BCG.
 BCG change management app, helps companies bring a new, more powerful approach to communicating and engaging with employees during organisational change efforts.";Director;11;2017;1;2020;['Venture Capital', 'Private Equity'];2;10;1;0;0
-7;7;1;Paris Metropolitan Region;Orange;"Orange Business Services provides communication services to companies of all sizes in France and internationally. Its network, the most extensive in the world, connects people, sites and machines to improve the digital experience of customers and employees.
+7;1;Paris Metropolitan Region;Orange;"Orange Business Services provides communication services to companies of all sizes in France and internationally. Its network, the most extensive in the world, connects people, sites and machines to improve the digital experience of customers and employees.
 More than 160 countries and territories covered
 21,500 employees
 15 research and innovation laboratories
 227 million customers";Advisory Board Member;9;2016;6;2021;['Venture Capital', 'Private Equity'];2;10;0;0;0
-8;8;1;Paris Metropolitan Region;GOV la meteo de lopinion;"Founded in 2014, GOV rapidly achieved popularity and acclaim on social and political matters before extending its focus to dialogue between brands and clients, local authorities and citizens, and companies and employees. By facilitating direct dialog and protecting the confidentiality of users, it created the conditions for trustworthy quantitative and qualitative insights and analysis. 
+8;1;Paris Metropolitan Region;GOV la meteo de lopinion;"Founded in 2014, GOV rapidly achieved popularity and acclaim on social and political matters before extending its focus to dialogue between brands and clients, local authorities and citizens, and companies and employees. By facilitating direct dialog and protecting the confidentiality of users, it created the conditions for trustworthy quantitative and qualitative insights and analysis. 
 The app was acquired by Boston Consulting Group in 2017.";Co-Founder GOV (exited);4;2014;11;2017;['Venture Capital', 'Private Equity'];2;10;0;0;1
-9;9;1;Paris Metropolitan Region;boston consulting group (bcg);Oversee product innovation at BCG (inclusive of investment, incubation, development, and GTM strategy of new software products);Director of Innovation;1;2020;1;2022;['Venture Capital', 'Private Equity'];2;10;1;0;0
-10;10;2;Paris Metropolitan Region;ecs (european communication school);;"Teacher ""New activism, digital advocacy""";10;2021;9;2022;['Nonprofit Organization', 'Management'];2;10;0;0;0
-11;11;2;Paris Metropolitan Region;efap - ecole des nouveaux métiers de la communication;;"Teacher ""Influence and lobbying""";9;2021;9;2022;['Nonprofit Organization', 'Management'];2;10;0;0;0
-12;12;2;Paris Metropolitan Region;change.org;"My team and I, we give people the power to create the change they want to see in the world.
+9;1;Paris Metropolitan Region;boston consulting group (bcg);Oversee product innovation at BCG (inclusive of investment, incubation, development, and GTM strategy of new software products);Director of Innovation;1;2020;1;2022;['Venture Capital', 'Private Equity'];2;10;1;0;0
+10;2;Paris Metropolitan Region;ecs (european communication school);;"Teacher ""New activism, digital advocacy""";10;2021;9;2022;['Nonprofit Organization', 'Management'];2;10;0;0;0
+11;2;Paris Metropolitan Region;efap - ecole des nouveaux métiers de la communication;;"Teacher ""Influence and lobbying""";9;2021;9;2022;['Nonprofit Organization', 'Management'];2;10;0;0;0
+12;2;Paris Metropolitan Region;change.org;"My team and I, we give people the power to create the change they want to see in the world.
 
 > As part of the global executive team: Development of the strategic vision of member impact, brand strategy, development of technological solutions, governance and team management
 
@@ -44,58 +44,58 @@ The app was acquired by Boston Consulting Group in 2017.";Co-Founder GOV (exited
 > Advocacy and influence: deployment of a strategy centered on the recognition of Change.org petitions by political institutions and the development of an institutional output for petitions
 
 > Legal and policy monitoring and orientations : working in collaboration with the global team: reporting and risk assessment, deployment of moderation and data protection policies.";Executive Director;2;2018;10;2021;['Nonprofit Organization', 'Management'];2;10;1;0;0
-13;13;2;;multitudes foundation;Multitudes supports people across Europe to reimagine who holds political power, how it’s exercised and how people connect to it.;Co-directrice;9;2022;0;0;['Nonprofit Organization', 'Management'];2;10;1;0;0
-14;14;2;;sd conseil et formation;"I equip and support those who want to make the world fairer, more equitable, healthy and democratic. For this, I help them to draw on their experiences and values to develop their individual and collective leadership and build effective strategies to change the world.
+13;2;;multitudes foundation;Multitudes supports people across Europe to reimagine who holds political power, how it’s exercised and how people connect to it.;Co-directrice;9;2022;0;0;['Nonprofit Organization', 'Management'];2;10;1;0;0
+14;2;;sd conseil et formation;"I equip and support those who want to make the world fairer, more equitable, healthy and democratic. For this, I help them to draw on their experiences and values to develop their individual and collective leadership and build effective strategies to change the world.
 
 My areas of expertise: leadership development, individual and collective empowerment, citizen participation, organizing, activism, campaign strategy (campaigning), citizen mobilizations, narrative strategies and strategic communications, storytelling, influence, lobbying and advocacy.
 
 My interventions: conferences, training and workshops, strategic support and consulting
 
 I worked with European Climate Foundation, Article 1, Oxfam France, One campaign, L'alliance citoyenne, Chemins d'avenir, Mutuelles Solimut, Levica, Havas, Orange, Démocratie Ouverte, OPEN network, Datapraxis, Ulule, Schoolab, . ..";Consultant, trainer and organizer in activism and collective action;9;2021;0;0;['Nonprofit Organization', 'Management'];2;10;0;1;0
-15;15;3;;clever age;Expert PHP : audit, performance, méthodologie autour des développements framework (symfony, Jelix), et CMS (Drupal). Accompagnement dans le développement et formation.;Consultant Expert PHP;9;2009;1;2012;['nan'];999;999;0;1;0
-16;16;3;;;;;0;0;0;0;['nan'];999;999;0;0;0
-17;17;3;;solution interactive;;Lead developer;6;2006;9;2009;['nan'];999;999;0;0;0
-18;18;3;;jolicode;I co-created JoliCode in march 2012 in order to raise the level of quality in web development. The structure is quite new, but we are full of energy and passion!;Web expert;3;2012;0;0;['nan'];999;999;0;0;0
-19;19;3;;;;;0;0;0;0;['nan'];999;999;0;0;0
-20;20;4;;mairie de paris;;Chargée de mission auprès du chef de cabinet du Maire de Paris;0;2008;0;2009;['Computer Software'];11;50;0;0;0
-21;21;4;Paris Metropolitan Region;animafac;;Directrice administrative et financière;10;2009;9;2012;['Computer Software'];11;50;1;0;0
-22;22;4;Paris Metropolitan Region;animafac;Pilotage du projet associatif et des plaidoyers de l'association - Conception de nouveaux projets et coordination de leur mise en œuvre - Gestion des Ressources Humaines et management de l’équipe salariée (14 ETP) - Représentation politique de l’association et relations publiques - Recherche et gestion de partenariats publics et privés.;Déléguée générale;9;2012;1;2017;['Computer Software'];11;50;0;0;0
-23;23;4;;cap collectif;"Key figures : 250 clients / 2,5 M€ CA / 30 ETP. 
+15;3;;clever age;Expert PHP : audit, performance, méthodologie autour des développements framework (symfony, Jelix), et CMS (Drupal). Accompagnement dans le développement et formation.;Consultant Expert PHP;9;2009;1;2012;['nan'];999;999;0;1;0
+16;3;;;;;0;0;0;0;['nan'];999;999;0;0;0
+17;3;;solution interactive;;Lead developer;6;2006;9;2009;['nan'];999;999;0;0;0
+18;3;;jolicode;I co-created JoliCode in march 2012 in order to raise the level of quality in web development. The structure is quite new, but we are full of energy and passion!;Web expert;3;2012;0;0;['nan'];999;999;0;0;0
+19;3;;;;;0;0;0;0;['nan'];999;999;0;0;0
+20;4;;mairie de paris;;Chargée de mission auprès du chef de cabinet du Maire de Paris;0;2008;0;2009;['Computer Software'];11;50;0;0;0
+21;4;Paris Metropolitan Region;animafac;;Directrice administrative et financière;10;2009;9;2012;['Computer Software'];11;50;1;0;0
+22;4;Paris Metropolitan Region;animafac;Pilotage du projet associatif et des plaidoyers de l'association - Conception de nouveaux projets et coordination de leur mise en œuvre - Gestion des Ressources Humaines et management de l’équipe salariée (14 ETP) - Représentation politique de l’association et relations publiques - Recherche et gestion de partenariats publics et privés.;Déléguée générale;9;2012;1;2017;['Computer Software'];11;50;0;0;0
+23;4;;cap collectif;"Key figures : 250 clients / 2,5 M€ CA / 30 ETP. 
 Principaux clients : ministères (République numérique, Grand débat national...), collectivités territoriales (+ 100 communes, départements et régions), entreprises (La Poste, EDF, Carrefour, Colas...), associations et fédérations professionnelles.";Directrice du développement commercial ;2;2017;3;2022;['Computer Software'];11;50;1;0;0
-24;24;4;;cap collectif;Pilotage des activités des pôles conseil, communication, conseil et support client de Cap Collectif.;Directrice des opérations;3;2022;0;0;['Computer Software'];11;50;1;0;0
-25;25;5;Paris Metropolitan Region;change.org;;Campaigner;5;2017;5;2018;['Internet'];201;500;0;0;0
-26;26;5;Paris Metropolitan Region;maison bonnemuse;"Sustainable and inclusive jumpsuits that tell the stories of inspiring women
+24;4;;cap collectif;Pilotage des activités des pôles conseil, communication, conseil et support client de Cap Collectif.;Directrice des opérations;3;2022;0;0;['Computer Software'];11;50;1;0;0
+25;5;Paris Metropolitan Region;change.org;;Campaigner;5;2017;5;2018;['Internet'];201;500;0;0;0
+26;5;Paris Metropolitan Region;maison bonnemuse;"Sustainable and inclusive jumpsuits that tell the stories of inspiring women
 Pre-order FRIDA : ulule.com/maisonbonnemuse";Founder;10;2020;0;0;['Internet'];201;500;0;0;1
-27;27;5;Paris Metropolitan Region;change.org;"Senior campaigner in charge of looking ahead and leading the campaigns in the team to build campaigns that will create systemic change.         
+27;5;Paris Metropolitan Region;change.org;"Senior campaigner in charge of looking ahead and leading the campaigns in the team to build campaigns that will create systemic change.         
 My mission is to run a highly engaging editorial strategy, produce strong content (infographics, pictures, videos) and define creative tactics both online and offline (media, demonstration, stunt, fb live) to drive high engagement to our audience and beyond.
 In a daily basis, I work a lot with amazing petition starters and help them create impact with their campaigns!";Senior Campaigner;5;2018;12;2020;['Internet'];201;500;0;0;0
-28;28;5;Paris Metropolitan Region;change.org;;Regional Director( France, Italy, Russia, Spain);9;2022;0;0;['Internet'];201;500;1;0;0
-29;29;5;Paris Metropolitan Region;change.org;;Director, France and Campaigns Support ;9;2021;10;2022;['Internet'];201;500;1;0;0
-30;30;6;Abu Dhabi, United Arab Emirates;unfair magazine;Launched and established the first Abu Dhabi based pan-arab fashion magazine (120 000 copies sold). Closed partnership agreements with the region’s top institutions and advertisers.;Managing Director;1;2009;9;2010;['Information Technology', 'and Services'];2;10;1;0;0
-31;31;6;Istanbul, Dubai;google;"Responsibilities:
+28;5;Paris Metropolitan Region;change.org;;Regional Director( France, Italy, Russia, Spain);9;2022;0;0;['Internet'];201;500;1;0;0
+29;5;Paris Metropolitan Region;change.org;;Director, France and Campaigns Support ;9;2021;10;2022;['Internet'];201;500;1;0;0
+30;6;Abu Dhabi, United Arab Emirates;unfair magazine;Launched and established the first Abu Dhabi based pan-arab fashion magazine (120 000 copies sold). Closed partnership agreements with the region’s top institutions and advertisers.;Managing Director;1;2009;9;2010;['Information Technology', 'and Services'];2;10;1;0;0
+31;6;Istanbul, Dubai;google;"Responsibilities:
 - Drive platforms revenue growth in Turkey and MENA region
 - Lead new business and global advertisers negotiations
 - Manage and empower local sales teams
 - Evangelize new technologies and represent platforms at regional industry events";Regional Sales Manager, Media Platforms, MENA & Turkey;11;2012;7;2015;['Information Technology', 'and Services'];2;10;0;0;0
-32;32;6;Paris Metropolitan Region;fluicity;Fluicity provides government agencies with collective intelligence and participation solutions. It is now one of the leading civic technologies in Europe.;Co-Founder & CEO;1;2015;0;0;['Information Technology', 'and Services'];2;10;1;0;1
-33;33;6;Dubai, United Arab Emirates;bbc news;"Responsibilities:
+32;6;Paris Metropolitan Region;fluicity;Fluicity provides government agencies with collective intelligence and participation solutions. It is now one of the leading civic technologies in Europe.;Co-Founder & CEO;1;2015;0;0;['Information Technology', 'and Services'];2;10;1;0;1
+33;6;Dubai, United Arab Emirates;bbc news;"Responsibilities:
 - Produce Middle East Business Report's contents 
 - Assist local team of reporters in international interventions
 - Manage & coordinate post-production";Producer;8;2008;12;2008;['Information Technology', 'and Services'];2;10;0;0;0
-34;34;6;Paris Metropolitan Region;google;"Responsibilities:
+34;6;Paris Metropolitan Region;google;"Responsibilities:
 - Build and execute market entrance strategies for doubleclick entrance in new markets
 - Lead sales presentations and quarterly business reviews to top accounts in the region 
 - Maintain C-level relationships across ecosystem stakeholders 
 - Share technology platforms expertise within Google existing infrastructure
 - Monitor competitive landscape in the region";Senior Sales Manager, Media Platforms, Emerging Markets;9;2010;12;2012;['Information Technology', 'and Services'];2;10;0;0;0
-35;35;7;Paris Metropolitan Region;fluicity;"Start up de la Civic Tech.  Plateforme numérique de participation citoyenne
+35;7;Paris Metropolitan Region;fluicity;"Start up de la Civic Tech.  Plateforme numérique de participation citoyenne
 
 -	Développement des partenariats stratégiques ; 
 -	Élaboration et pilotage de la stratégie de prospection et d’influence en France ;
 -	Responsable commerciale : clients publics (collectivités, Etat, députés, Union Européenne : réponses à marchés publics locaux, nationaux et européens, prospection directe...) et leurs partenaires privés (promoteurs, aménageurs, cabinets de concertation et de conseil…) ;
 -	Fonctions transverses : représentation de Fluicity dans des conférences et salons, élaboration des process internes, évolutions produit.
 ";Responsable du développement;1;2017;5;2019;['Civic', 'Social Organization'];501;1000;0;0;0
-36;36;7;Paris Metropolitan Region;mairie de paris;"Insertion sociale et professionnelle (RSA), insertion par le logement (FSL, accès au logement, prévention des expulsions), urgence sociale, prévention spécialisée 
+36;7;Paris Metropolitan Region;mairie de paris;"Insertion sociale et professionnelle (RSA), insertion par le logement (FSL, accès au logement, prévention des expulsions), urgence sociale, prévention spécialisée 
 
 -	Pilotage fonctionnel de la sous-direction : gestion des finances (450 millions d’euros de budget) et des RH (315 agents dont 230 dans des services de terrain) ; gestion des projets SI ; rapports d’activité ; élaboration et suivi des marchés publics ; suivi des délibérations et des conventions / CPOM ; tarification ;
 
@@ -103,9 +103,9 @@ In a daily basis, I work a lot with amazing petition starters and help them crea
 
 -	Intérim de la sous-directrice.
 ";Adjointe de la sous directrice en charge de l'insertion et de la solidarité;10;2014;12;2016;['Civic', 'Social Organization'];501;1000;1;0;0
-37;37;7;Paris Metropolitan Region;adie;;Directrice des relations institutionnelles et du plaidoyer;9;2019;0;0;['Civic', 'Social Organization'];501;1000;1;0;0
-38;38;7;;adie;;Directrice générale adjointe;9;2020;0;0;['Civic', 'Social Organization'];501;1000;1;0;0
-39;39;7;;conseil général du nord;"Mise en place d’une démarche globale de suivi et de contrôle des principaux partenaires départementaux :
+37;7;Paris Metropolitan Region;adie;;Directrice des relations institutionnelles et du plaidoyer;9;2019;0;0;['Civic', 'Social Organization'];501;1000;1;0;0
+38;7;;adie;;Directrice générale adjointe;9;2020;0;0;['Civic', 'Social Organization'];501;1000;1;0;0
+39;7;;conseil général du nord;"Mise en place d’une démarche globale de suivi et de contrôle des principaux partenaires départementaux :
 
 -	30aine de structures : Etablissements Publics, SEM, SPL, Syndicats Mixtes, Associations intervenant dans les champs du tourisme, du développement économique, de la protection de l’enfance, de l’aménagement et du logement ; 
 200 millions d’euros de financement départemental annuel ;
@@ -114,8 +114,8 @@ In a daily basis, I work a lot with amazing petition starters and help them crea
 
 Encadrement du service 
 ";Responsable de service;11;2011;10;2014;['Civic', 'Social Organization'];501;1000;0;0;0
-40;40;8;Paris Metropolitan Region;bluenove;bluenove est une société de technologies et de conseil pionnière en intelligence collective massive et engagée activement dans la civic tech.;Directeur associé - Chief Revenue Officer (CRO);1;2022;0;0;['Management Consulting'];11;50;1;0;0
-41;41;8;Paris Metropolitan Region;bluenove;"bluenove est une société de technologies et de conseil en intelligence collective. 
+40;8;Paris Metropolitan Region;bluenove;bluenove est une société de technologies et de conseil pionnière en intelligence collective massive et engagée activement dans la civic tech.;Directeur associé - Chief Revenue Officer (CRO);1;2022;0;0;['Management Consulting'];11;50;1;0;0
+41;8;Paris Metropolitan Region;bluenove;"bluenove est une société de technologies et de conseil en intelligence collective. 
 Chez bluenove, nous portons une conviction : l’organisation de demain est une plateforme d'intelligence et d’action collective qui mobilise efficacement des grands collectifs internes (collaborateurs, managers) et externes (clients, citoyens, partenaires) pour résoudre ses grands défis stratégiques, business, d’innovation et de transformation.  
 
 Je m'occupe de développer les activités business de bluenove en tant que Chief revenue Officer et membre du CODIR.  
@@ -129,8 +129,8 @@ Data clés :
 - Budget R&D : 15% du C.A.
  Plus d’informations : www.bluenove.com / suivre sur twitter @bluenove @barbier_maxime
 ";Directeur associé - Chief Revenue Officer (CRO);1;2018;3;2021;['Management Consulting'];11;50;1;0;0
-42;42;8;Paris Metropolitan Region;en marche;Missions : stratégie d’engagement des réseaux (cadres, militants, société civile), développement de programmes d'engagement des citoyens (plateforme pourunecause.fr);Chef du pôle Engagement;3;2021;12;2021;['Management Consulting'];11;50;0;0;0
-43;43;8;Paris Metropolitan Region;bluenove;"bluenove est le cabinet français leader dans le domaine services et technologies en Open Innovation et Intelligence collective.
+42;8;Paris Metropolitan Region;en marche;Missions : stratégie d’engagement des réseaux (cadres, militants, société civile), développement de programmes d'engagement des citoyens (plateforme pourunecause.fr);Chef du pôle Engagement;3;2021;12;2021;['Management Consulting'];11;50;0;0;0
+43;8;Paris Metropolitan Region;bluenove;"bluenove est le cabinet français leader dans le domaine services et technologies en Open Innovation et Intelligence collective.
 
 Nous accompagnons nos clients, organisations publiques et privées, dans leur stratégie d’innovation et leur mise en œuvre grâce à la détection d’expertises et de partenaires externes (start-up, entrepreneurs sociaux, labos de recherche), l’usage et le déploiement de solutions logicielles collaboratives (logiciel Assembl), le diagnostic des processus d'innovation, l'animation de communautés innovantes (internes, externes, hybrides), la stimulation de l'innovation collaborative interne, etc.
 
@@ -139,7 +139,7 @@ Nous intervenons sur les sujets permettant d’améliorer la performance de l’
 Créés en 2008, bluenove connaît une croissance annuelle de 40%, avec 40 collaborateurs et plus de 200 projets réalisés en France et à l’international.
 
 http://www.bluenove.com et www.assembl.bluenove.com";Manager;8;2015;12;2017;['Management Consulting'];11;50;0;0;0
-44;44;8;Paris Metropolitan Region;secrétariat général pour la modernisation de l'action publique (sgmap);"- Direction de programme d’innovation et de transformation : mise en place et pilotage du laboratoire d’innovation de l’Etat « Futurs Publics », lancement d’appels à projets (Programme d’Investissements d’Avenir), programmes d’amélioration de la relation usager multicanale (« 100% contacts efficaces »),  de la gestion des réclamations et de l’information administrative.
+44;8;Paris Metropolitan Region;secrétariat général pour la modernisation de l'action publique (sgmap);"- Direction de programme d’innovation et de transformation : mise en place et pilotage du laboratoire d’innovation de l’Etat « Futurs Publics », lancement d’appels à projets (Programme d’Investissements d’Avenir), programmes d’amélioration de la relation usager multicanale (« 100% contacts efficaces »),  de la gestion des réclamations et de l’information administrative.
 
 - Gestion de projet : montage de projets innovants de prototypage de services publics du futur, conduite de projet d’amélioration de la relation usagers (ex : réponse apportée par téléphone aux femmes victimes de violences).  
 
@@ -153,20 +153,20 @@ http://www.bluenove.com et www.assembl.bluenove.com";Manager;8;2015;12;2017;['Ma
 Autres missions : 
 - Représentation de la France à l'OCDE sur les sujets de gouvernance publique et dans les réseaux européens (réseau EUPAN : Conférence sur la qualité des services public à Vilnius en octobre 2013...) 
 - Membre du Conseil d'orientation de l'Observatoire Territoria, représentant du SGMAP au Club des directeurs de l'innovation et à Innov'Acteurs";Chef de projet Innovation Publique;10;2012;8;2015;['Management Consulting'];11;50;0;0;0
-45;45;9;Chengdu;le café panam(e);"First Chinese company with foreign investments in Chengdu 
+45;9;Chengdu;le café panam(e);"First Chinese company with foreign investments in Chengdu 
 Concerts, exhibitions, workshops, corporate events
 Concept and Business Development";Founder and General Manager;1;2006;9;2010;['Civic', 'Social Organization'];2;10;1;0;1
-46;46;9;;civocracy;;Chief Sales Officer (CSO);5;2015;4;2019;['Civic', 'Social Organization'];2;10;0;0;0
-47;47;9;;civocracy;;CEO;4;2019;0;0;['Civic', 'Social Organization'];2;10;1;0;0
-48;48;9;Chengdu, Sichuan Province, China;c&l creative solutions;"Business Development & Communication Strategy Consulting
+46;9;;civocracy;;Chief Sales Officer (CSO);5;2015;4;2019;['Civic', 'Social Organization'];2;10;0;0;0
+47;9;;civocracy;;CEO;4;2019;0;0;['Civic', 'Social Organization'];2;10;1;0;0
+48;9;Chengdu, Sichuan Province, China;c&l creative solutions;"Business Development & Communication Strategy Consulting
 Concept design (Interior, Object, Furniture and Graphic Design, branding)";Founder and Project Manager;9;2010;1;2014;['Civic', 'Social Organization'];2;10;0;0;1
-49;49;9;Berlin Metropolitan Region;civocracy;"Civocracy is a citizen engagement platform. We envision en world where people collaborate together to solve society's most pressing challenges. Our mission is to enable better citizen, with a purpose-build digital tool.
+49;9;Berlin Metropolitan Region;civocracy;"Civocracy is a citizen engagement platform. We envision en world where people collaborate together to solve society's most pressing challenges. Our mission is to enable better citizen, with a purpose-build digital tool.
 ! We are hiring !";Founder and CEO;3;2015;0;0;['Civic', 'Social Organization'];2;10;1;0;1
-50;50;10;Paris Metropolitan Region;takoma;"J'avais en charge le pôle conception de la Business Unit Communication et Pédagogie de l'agence Takoma. J'apportais mon expérience en conception et UX au sein de l'équipe afin d'optimiser au quotidien la qualité et la pertinence de nos supports.
+50;10;Paris Metropolitan Region;takoma;"J'avais en charge le pôle conception de la Business Unit Communication et Pédagogie de l'agence Takoma. J'apportais mon expérience en conception et UX au sein de l'équipe afin d'optimiser au quotidien la qualité et la pertinence de nos supports.
 
 Quelques références clients Takoma : 
 PSA, Renault, Nissan, Toyota, Aviva, Orange, Société Générale, Bouygues, Air Liquide, Danone, ...";Responsable Pôle Conception / UX Design;9;2013;6;2015;['Graphic Design'];0;1;0;0;0
-51;51;10;Paris Metropolitan Region;jerem.io;"⇒ Rendez-vous sur jerem.io pour télécharger mon CV et mon portfolio.
+51;10;Paris Metropolitan Region;jerem.io;"⇒ Rendez-vous sur jerem.io pour télécharger mon CV et mon portfolio.
 
 Je travaille dans le product design (UX/UI et UX writing) et la conception depuis 2011 et je suis Product designer freelance depuis 2018. J’ai travaillé auparavant en agence. J’apprécie autant de travailler pour de grands comptes que pour des startups.
 
@@ -196,55 +196,55 @@ J’utilise principalement Figma avec un usage avancé de l’auto-layout, de la
 Je travaille en remote mais je peux me déplacer un jour par semaine (deux maximum) pour des réunions ou ateliers sur Paris et l’Île-de-France. I can talk, write and work in English.
 
 N’hésitez pas à me contacter pour que je vous présente mes références plus en détails et que nous discutions de votre projet.";Senior Product Designer Freelance | jerem.io;10;2018;0;0;['Graphic Design'];0;1;0;0;0
-52;52;10;Paris Metropolitan Region;international automotive business;Fondateur d'IAB, designer dans le segment automobile haut de gamme.;Gérant & Designer;8;2008;9;2011;['Graphic Design'];0;1;0;0;0
-53;53;10;;STIG;"CEO et co-fondateur de Stig.
+52;10;Paris Metropolitan Region;international automotive business;Fondateur d'IAB, designer dans le segment automobile haut de gamme.;Gérant & Designer;8;2008;9;2011;['Graphic Design'];0;1;0;0;0
+53;10;;STIG;"CEO et co-fondateur de Stig.
 
 Stig est une application Civic Tech gratuite qui transforme les idées individuelles en volonté générale.
 Chaque citoyen peut partager ses idées à l’échelle de la France ou dans sa ville, voter pour ou contre les autres propositions et les améliorer avec des amendements. Stig attribue un score à chaque idée en fonction de son adhésion auprès des citoyens. Ce score permet de classer les idées pour afficher la volonté générale. Les élus peuvent officialiser leur présence sur Stig et ainsi agir en prenant en compte la volonté de leurs administrés.
 www.getstig.org";CEO & co-founder;6;2015;12;2018;['Graphic Design'];0;1;1;0;1
-54;54;10;Paris Metropolitan Region;takoma;"Senior et maître d'apprentissage à partir de janvier 2013.
+54;10;Paris Metropolitan Region;takoma;"Senior et maître d'apprentissage à partir de janvier 2013.
 
 Mon travail au sein de la Business Unit Communication et Pédagogie de Takoma était de réaliser la partie conception et design des réponses aux appels d'offres de nos clients (principalement du secteur automobile), concernant de l'événementiel, de la formation en présentiel, du e-learning et de la communication.
 
 J'avais en charge de trouver les idées et les moyens (contenu, support, technologie, pédagogie) qui permettront à notre Business Unit de remporter ces appels d'offres. J'ai travaillé sur de nombreux projets déployés au niveau européen et mondial, incluant de la réalité augmentée, de nombreuses applications Android et iOS, du Kinect, de la vidéo, du rich media, et même du jeu de société.
 Je faisais également partie de la cellule R&D de l'agence.";Product Designer / UX Designer  Senior;1;2011;9;2013;['Graphic Design'];0;1;0;0;0
-55;55;11;Paris Metropolitan Region;VOXE;"De 2016 à 2019, j'ai développé le VoxeBot, le premier chatbot d'actu et d'engagement citoyen destiné aux millennials français. Soutenue par une équipe de 10 personnes, nous avons mené le chatbot à une audience de plus de 60 000 personnes, informées une fois par semaine sur l'actu politique et générale via cette intelligence conversationnelle hébergée sur Facebook messenger qui permettait une retranscription particulièrement pédagogue et ludique. Pendant la campagne présidentielle de 2017, le chatbot + la campagne Hello2017 que nous avons lancé a permis d'informer et de motiver à voter plus de 200 000 jeunes de France, dont une grande partie via le VoxeTour, notre tour de France pour récolter les idées des jeunes à la présidentielle.
+55;11;Paris Metropolitan Region;VOXE;"De 2016 à 2019, j'ai développé le VoxeBot, le premier chatbot d'actu et d'engagement citoyen destiné aux millennials français. Soutenue par une équipe de 10 personnes, nous avons mené le chatbot à une audience de plus de 60 000 personnes, informées une fois par semaine sur l'actu politique et générale via cette intelligence conversationnelle hébergée sur Facebook messenger qui permettait une retranscription particulièrement pédagogue et ludique. Pendant la campagne présidentielle de 2017, le chatbot + la campagne Hello2017 que nous avons lancé a permis d'informer et de motiver à voter plus de 200 000 jeunes de France, dont une grande partie via le VoxeTour, notre tour de France pour récolter les idées des jeunes à la présidentielle.
 
 En parallèle, nous avons développé un modèle économique de type B to G, et vendions notre savoir-faire à des collectivités locales, telles que la Mairie de Paris ou la Région Occitanie, des administrations centrales telles que la DiAIR, la DG Trésor, le Fonds de Garantie, ou le Ministère de la Santé.    
 
 Dans cette aventure, nous avons notamment été distingués par le Médialab de l'Essec, et incubés par le Facebook Startup Garage, à Station F. J'ai d'ailleurs été lauréate du programme STATION F For femme.";CEO;5;2016;12;2019;['Higher Education'];2;10;1;0;0
-56;56;11;;démocratie ouverte;"Démocratie Ouverte est un réseau d'acteurs de la transition démocratique dont l'objectif est ""d'accélérer la transition démocratique, vers une société plus ouverte"". Le collectif regroupe des citoyens, des collectivités et des organisations civiles impliquées dans des dynamiques de démocratie participative.";Membre du Conseil d'adminstration ;10;2014;8;2016;['Higher Education'];2;10;0;0;0
-57;57;11;;fest france eco sociale tech ;"FEST est un mouvement commun de cette génération entrepreneuriale à impact positif qui transcende les catégories. Nous rassemblons au delà des secteurs d’activités, des statuts, rassemblant entrepreneurs et investisseurs.
+56;11;;démocratie ouverte;"Démocratie Ouverte est un réseau d'acteurs de la transition démocratique dont l'objectif est ""d'accélérer la transition démocratique, vers une société plus ouverte"". Le collectif regroupe des citoyens, des collectivités et des organisations civiles impliquées dans des dynamiques de démocratie participative.";Membre du Conseil d'adminstration ;10;2014;8;2016;['Higher Education'];2;10;0;0;0
+57;11;;fest france eco sociale tech ;"FEST est un mouvement commun de cette génération entrepreneuriale à impact positif qui transcende les catégories. Nous rassemblons au delà des secteurs d’activités, des statuts, rassemblant entrepreneurs et investisseurs.
 
 ";Membre du Board de FEST : France Eco-Sociale Tech;3;2018;1;2020;['Higher Education'];2;10;0;0;0
-58;58;11;Paris Metropolitan Region;VOXE;"Voxe c’est le média d'actu et d'empowerment féminin. Notre mission c'est de construire une génération de femmes puissantes en comblant un trou dans la raquette du paysage médiatique : les femmes s'informent moins que les hommes, notamment parce que les médias actuels sont portés et écrits en majorité par des hommes. Or, un individu moins bien informé, c'est un individu qui a moins de pouvoir, et nous voulons rétablir ce déséquilibre au moment où le monde a besoin d'une société éclairée face aux différentes urgences (climatique par ex) et échéances qui arrivent.
+58;11;Paris Metropolitan Region;VOXE;"Voxe c’est le média d'actu et d'empowerment féminin. Notre mission c'est de construire une génération de femmes puissantes en comblant un trou dans la raquette du paysage médiatique : les femmes s'informent moins que les hommes, notamment parce que les médias actuels sont portés et écrits en majorité par des hommes. Or, un individu moins bien informé, c'est un individu qui a moins de pouvoir, et nous voulons rétablir ce déséquilibre au moment où le monde a besoin d'une société éclairée face aux différentes urgences (climatique par ex) et échéances qui arrivent.
  
-* Notre outil phare est une newsletter matinale (à tester gratuitement sur voxe.org) qui réveille déjà plusieurs dizaines de milliers de jeunes actives du lundi au vendredi et décrypte l'actu de la journée en 5 minutes.  Cette newsletter gratuite est soutenue par un modèle publicitaire.  
+* Notre outil phare est une newsletter matinale (à tester gratuitement sur voxe.org) qui réveille déjà plusieurs dizaines de milliers de jeunes actives du lundi au vendredi et décrypte l'actu de la journée en 5 minutes. Cette newsletter gratuite est soutenue par un modèle publicitaire. 
 * En bonus, la newsletter donne chaque jour des tips concrets pour se forger une opinion et la faire entendre, au bureau, face à son banquier, dans la vie politique etc. 
 * Pour aller plus loin dans cette mission d'empowerment, nous développons des formations sur ce qu'on a pas appris à l'école et comptons déjà plus de 750 formées.
 
 
 #media #newsletter #femtech";CEO & co-fondatrice;1;2020;0;0;['Higher Education'];2;10;1;0;1
-59;59;11;Paris Metropolitan Region;VOXE;"L'association Voxe.org a créé le premier comparateur de programmes électoraux créé en France pour la présidentielle de 2012. En 2 ans, dans ce rôle de community developper, j'ai créé des antennes bénévoles locales et ai exporté notre outil de comparaison dans 19 pays, sur 4 continents, autour de 26 élections. 
+59;11;Paris Metropolitan Region;VOXE;"L'association Voxe.org a créé le premier comparateur de programmes électoraux créé en France pour la présidentielle de 2012. En 2 ans, dans ce rôle de community developper, j'ai créé des antennes bénévoles locales et ai exporté notre outil de comparaison dans 19 pays, sur 4 continents, autour de 26 élections. 
 
 Parmi nos faits d'armes, en France, une très belle résonance médiatique grâce à des partenariats avec le Monde ou Le Figaro, qui nous ont permis de mettre le comparateur dans plus de 2millions de mains. Aux US nous avons développé un partenariat autour des Primaires avec MSNBC et le Washington Post. 
 
 Côté concours, nous avons notamment reçu les récompenses suivantes : UNAOC, l'alliance des civilisations des Nations Unies, le Google Impact Challenge France, les 101 Projets, Dataconnexions.";Community Developper ;5;2014;5;2016;['Higher Education'];2;10;0;0;0
-60;60;12;Nantes Metropolitan Region;ecole webstart;Intervenant sur le framework PHP Symfony pour des étudiants de 3ème année.;Formateur Symfony;12;2021;0;0;['Computer Software'];2;10;0;0;0
-61;61;12;Nantes Metropolitan Region;STIG;"Stig.pro est une application de crowdsourcing sur mobile et ordinateur qui permet d’engager votre communauté en temps réel autour de thèmes que vous avez choisis.
+60;12;Nantes Metropolitan Region;ecole webstart;Intervenant sur le framework PHP Symfony pour des étudiants de 3ème année.;Formateur Symfony;12;2021;0;0;['Computer Software'];2;10;0;0;0
+61;12;Nantes Metropolitan Region;STIG;"Stig.pro est une application de crowdsourcing sur mobile et ordinateur qui permet d’engager votre communauté en temps réel autour de thèmes que vous avez choisis.
 
 Chaque participant sur Stig.pro peut proposer des idées, voter et améliorer les idées des autres membres.
 
 L’algorithme de Stig.pro attribue une note à chaque idée selon son succès auprès des participants afin de dégager des tendances pour faciliter vos prises de décisions.
 
 Stig.pro fournit des rapports détaillés en temps réel sur les données générées par les participants, que vous pouvez partager en ligne ou exporter.";CTO & Co-fondateur;7;2015;0;0;['Computer Software'];2;10;1;0;1
-62;62;12;Nantes Metropolitan Region;takoma;"Gestion de la production et du déploiement de solutions de formation avec supports multimédias mobiles.
+62;12;Nantes Metropolitan Region;takoma;"Gestion de la production et du déploiement de solutions de formation avec supports multimédias mobiles.
 
 - Plus de 12 000 personnes formées à ce jour avec ces outils.
 - Déploiement simultanés de 1400 iPad dans 39 salles de formations au Parc Expo de Lyon en 2013.
 - En charge de la transition technique des outils de production interne pour la migration vers des outils totalement conformes W3C.";Responsable technique production et déploiement de formations présentielles;2;2013;7;2017;['Computer Software'];2;10;0;0;0
-63;63;12;Nantes Metropolitan Region;abcdeep;abc_deep_ est une agence spécialisée dans le conseil aux entreprises pour la mise en place de solutions blockchain et l'intégration des NFT dans leurs stratégies de développement et campagnes de communication.;CTO & Co-fondateur;11;2021;0;0;['Computer Software'];2;10;1;0;1
-64;64;12;Nantes Metropolitan Region;sloop;"SLOOP est une agence de solutions digitales, totalement décentralisée, qui offre à ses clients locaux et nationaux, un accompagnement global, de la stratégie à la création, du contenu au développement, du référencement à la maintenance.
+63;12;Nantes Metropolitan Region;abcdeep;abc_deep_ est une agence spécialisée dans le conseil aux entreprises pour la mise en place de solutions blockchain et l'intégration des NFT dans leurs stratégies de développement et campagnes de communication.;CTO & Co-fondateur;11;2021;0;0;['Computer Software'];2;10;1;0;1
+64;12;Nantes Metropolitan Region;sloop;"SLOOP est une agence de solutions digitales, totalement décentralisée, qui offre à ses clients locaux et nationaux, un accompagnement global, de la stratégie à la création, du contenu au développement, du référencement à la maintenance.
 
 L’agence travaille autour de trois axes principaux :
 - le développement sur mesure d’applications web à haute valeur ajoutée.
@@ -252,28 +252,28 @@ L’agence travaille autour de trois axes principaux :
 - l'influence et la notoriété de ses clients.
 
 Elle développe également une gamme de produits sur étagère pour faciliter le développement commercial des PME et ETI partout en France.";CTO;7;2016;0;0;['Computer Software'];2;10;1;0;0
-65;65;13;;startups;"Account Manager @Tiller, @Privateaser
+65;13;;startups;"Account Manager @Tiller, @Privateaser
 Content Manager @Supermood, @Privateaser
 Digital/PR Consultant @OSCARh";Digital Consultant;0;2016;0;2017;['Computer Software'];51;200;0;1;0
-66;66;13;Berlin Metropolitan Region;sdui;"Sdui EdTech transforms digital education in Europe with its intuitively designed operating system.
+66;13;Berlin Metropolitan Region;sdui;"Sdui EdTech transforms digital education in Europe with its intuitively designed operating system.
 I lead the expansion in Belgium and France and manage the related teams.";Team Lead Expansion Belgique France;1;2022;0;0;['Computer Software'];51;200;0;0;0
-67;67;13;Berlin Metropolitan Region;civocracy;"Civocracy CivicTech leverages citizen's collective intelligence to address government challenges.
+67;13;Berlin Metropolitan Region;civocracy;"Civocracy CivicTech leverages citizen's collective intelligence to address government challenges.
 I led the consulting and sales teams for France.";Country Lead France;9;2019;12;2021;['Computer Software'];51;200;0;0;0
-68;68;13;Paris Metropolitan Region;nousaussi civictech;"By founding Nousaussi, I enabled cities to make more informed, inclusive and democratic decisions. 
+68;13;Paris Metropolitan Region;nousaussi civictech;"By founding Nousaussi, I enabled cities to make more informed, inclusive and democratic decisions. 
 Charenton-le-Pont and Issy les Moulineaux, two cities bordering Paris, have experimented the CivicTech solution.";Entrepreneur;10;2018;9;2019;['Computer Software'];51;200;0;0;0
-69;69;13;Paris Metropolitan Region;weglot;"Startup Tech, leading digital solution for multilingual web management. +500% revenue over the period. 
+69;13;Paris Metropolitan Region;weglot;"Startup Tech, leading digital solution for multilingual web management. +500% revenue over the period. 
 I led the technical and commercial teams in charge of the customer experience.";Head of User Experience;5;2017;10;2018;['Computer Software'];51;200;1;0;0
-70;70;14;Paris Metropolitan Region;livementor;;Head of Product & Academics;6;2018;11;2019;['Computer Software'];2;10;1;0;0
-71;71;14;Paris Metropolitan Region;leto;"Leto automatise la mise en conformité RGPD aux organisations. 
+70;14;Paris Metropolitan Region;livementor;;Head of Product & Academics;6;2018;11;2019;['Computer Software'];2;10;1;0;0
+71;14;Paris Metropolitan Region;leto;"Leto automatise la mise en conformité RGPD aux organisations. 
 
 - Leto fait partie des FUTURE 40 de 2023, la sélection des 40 startups de Station F les plus prometteuses en 2023 
 - Levée de 1,2M€ en décembre 2022
 - Fait partie de la sélection Challenges des 100 startups où investir en 2023 
 - Incubé par Cegid, puis BNP Paribas";Co-fondateur @ Leto.legal;4;2021;0;0;['Computer Software'];2;10;0;0;1
-72;72;14;Paris Metropolitan Region;makesense;"J'ai accompagné l'accélération de certains programmes makesense, dont : 
+72;14;Paris Metropolitan Region;makesense;"J'ai accompagné l'accélération de certains programmes makesense, dont : 
 - les programmes en ligne d'engagement citoyens (re_action ...)
 - les parcours de formation en ligne des entrepreneurs à impact";COO;10;2020;6;2021;['Computer Software'];2;10;1;0;0
-73;73;14;Paris Metropolitan Region;livementor;"J'ai construit et animé l'équipe Expérience de LiveMentor durant 2 années. Cette équipe avait pour objectif :
+73;14;Paris Metropolitan Region;livementor;"J'ai construit et animé l'équipe Expérience de LiveMentor durant 2 années. Cette équipe avait pour objectif :
 - de maximiser l'engagement et la satisfaction des élèves
 - de construire de nouvelles formations
 - de développer le meilleur produit en ligne d'accompagnement et de coaching des entrepreneurs
@@ -282,7 +282,7 @@ Elle était composée de 3 pôles principaux (environ 15 personnes) :
 - Mentors : nous sommes passés de 3 à 20 mentors indépendants.
 - Customer Success : Inexistante en 2018, nous avons recruté 5 profils pour construire cette team.
 - Design & Tech : l'équipe était composée d'un designer et 4 développeurs";CPO;11;2019;6;2020;['Computer Software'];2;10;1;0;0
-74;74;14;Paris Metropolitan Region;VOXE;"Je suis cofondateur de Voxe.org, aujourd'hui première newsletter dédiée à l'empowerment féminin.
+74;14;Paris Metropolitan Region;VOXE;"Je suis cofondateur de Voxe.org, aujourd'hui première newsletter dédiée à l'empowerment féminin.
 
 A l'origine, Voxe est une initiative neutre et non partisane qui permet à tous de mieux s’informer pour mieux s’engager, et avoir un impact sur la société.
 A l'occasion des élections présidentielles françaises de 2012, plus de 4 millions comparaisons de programmes ont été faites sur la plateforme grâce à notre comparateur de programmes politiques. Le projet a été cité et repris dans près de 70 médias (dont l'Express, Le Nouvel Obs, 20 minutes, Métro, le Parisien, le Figaro, le Monde, le Huffington Post, France info, France 2, OWNI, France 24, les Echos, Frenchweb, madmoizelle, Rue89, etc ...). 
@@ -290,41 +290,41 @@ Voxe.org a également la Mention spéciale ""Félicitations du jury"" lors 1er c
 En 2015, Voxe.org est lauréat du Google Impact Challenge.
 En 2016, Voxe édite le VoxeBot, le premier chatbot dédié au débat public.
 En 2019, Voxe devient une newsletter qui s'adresse aux femmes.";Founder et board member;9;2011;0;0;['Computer Software'];2;10;0;0;1
-75;75;15;Paris Metropolitan Region;digischool group;;Board Member;9;2018;0;0;['Information Technology', 'and Services'];11;50;0;0;0
-76;76;15;Paris Metropolitan Region;deezer;"Creation of the first Growth hacking team in France (20 people : Product managers, Data scientists, User & Market researchers )
+75;15;Paris Metropolitan Region;digischool group;;Board Member;9;2018;0;0;['Information Technology', 'and Services'];11;50;0;0;0
+76;15;Paris Metropolitan Region;deezer;"Creation of the first Growth hacking team in France (20 people : Product managers, Data scientists, User & Market researchers )
 
 Built a growth engine dedicated to : customer engagement, conversion, anti churn. 
 Optimized the freemium model 
 Helped create a data driven mindset 
 ";Head of Product Growth;7;2013;9;2016;['Information Technology', 'and Services'];11;50;1;0;0
-77;77;15;Paris Metropolitan Region;make.org;Make.org is an independent, European citizen initiative. Our mission is to provide citizens with the tools they need to weigh in on political debate so that elected officials and civil society can meaningfully commit to transforming our societies.;Co-Founder & Chief Product Officer;7;2016;4;2018;['Information Technology', 'and Services'];11;50;0;0;1
-78;78;15;Paris Metropolitan Region;make.org;;Co-founder &  CEO;5;2018;0;0;['Information Technology', 'and Services'];11;50;1;0;1
-79;79;15;Paris Metropolitan Region;deezer;"Employee #70 ; First growth marketer @Deezer 
+77;15;Paris Metropolitan Region;make.org;Make.org is an independent, European citizen initiative. Our mission is to provide citizens with the tools they need to weigh in on political debate so that elected officials and civil society can meaningfully commit to transforming our societies.;Co-Founder & Chief Product Officer;7;2016;4;2018;['Information Technology', 'and Services'];11;50;0;0;1
+78;15;Paris Metropolitan Region;make.org;;Co-founder &  CEO;5;2018;0;0;['Information Technology', 'and Services'];11;50;1;0;1
+79;15;Paris Metropolitan Region;deezer;"Employee #70 ; First growth marketer @Deezer 
 ";Business Manager BtoC France;3;2012;6;2013;['Information Technology', 'and Services'];11;50;0;0;0
-80;80;16;;klarna;As a first role when joining Klarna, I was asked to provide interim leadership of 3 operational teams, directly managing 3 team leads directly, and ~40 indirectly. Focus was on supporting managers, as well as process improvements for increased efficiency within teams, which resulted in a 50% decrease in average handling time and direct savings of 4 FTE.;Interim Accountable Group Lead (AGL) - Anti-Money Laundering (AML+CTF) Compliance Operations ;3;2021;5;2021;['Computer Software'];5001;10000;0;0;0
-81;81;16;;klarna;"- act as a  'manager of managers' (or CL to CLs in Klarnaspeak) supporting them in their professional development, leading review and promotion, and helping them improve as Organizational Developers within Klarna. Directly managed 6 FTE , indirectly 20. 
+80;16;;klarna;As a first role when joining Klarna, I was asked to provide interim leadership of 3 operational teams, directly managing 3 team leads directly, and ~40 indirectly. Focus was on supporting managers, as well as process improvements for increased efficiency within teams, which resulted in a 50% decrease in average handling time and direct savings of 4 FTE.;Interim Accountable Group Lead (AGL) - Anti-Money Laundering (AML+CTF) Compliance Operations ;3;2021;5;2021;['Computer Software'];5001;10000;0;0;0
+81;16;;klarna;"- act as a  'manager of managers' (or CL to CLs in Klarnaspeak) supporting them in their professional development, leading review and promotion, and helping them improve as Organizational Developers within Klarna. Directly managed 6 FTE , indirectly 20. 
 - responsible with other CGLs and Competence owner for defining the Competence strategy and value proposition within Klarna - reflecting on how the Competence can be developed from a strategic and tactical point of view to achieve the vision.";Competence Group Lead (CGL) - Organizational Development/Business Operations;6;2022;0;0;['Computer Software'];5001;10000;0;0;0
-82;82;16;Berlin Metropolitan Region;hertie school;"Developed and taught courses, totalling 39 teaching hours, in the Spring of 2021 and 2022
+82;16;Berlin Metropolitan Region;hertie school;"Developed and taught courses, totalling 39 teaching hours, in the Spring of 2021 and 2022
 The first course, titled 'Impact and Change Pathways' was co-taught with UK Barrister Anna Hoffmann and focuses on theoretical frameworks, practical applications, and case studies for impacting social change.  
 The second course, 'Starting a Social Business from Scratch', acts as a crash course in entrepreneurship for policy students, focusing on ideation, value propositions, business model design, traction, and financing.";Adjunct Lecturer;2;2021;0;0;['Computer Software'];5001;10000;0;0;0
-83;83;16;;klarna;;Team Lead (AL) - Anti Money Laundering (AML+CTF) KPI and Reporting Team;5;2021;0;0;['Computer Software'];5001;10000;0;0;0
-84;84;16;;klarna;"- act as a competence manager to 4 organizational developers within Klarna, from associate to manager level, supporting their professional development, creating growth and development plans, troubleshooting, leading probation/promotion/compensation review. 
+83;16;;klarna;;Team Lead (AL) - Anti Money Laundering (AML+CTF) KPI and Reporting Team;5;2021;0;0;['Computer Software'];5001;10000;0;0;0
+84;16;;klarna;"- act as a competence manager to 4 organizational developers within Klarna, from associate to manager level, supporting their professional development, creating growth and development plans, troubleshooting, leading probation/promotion/compensation review. 
 - support organizational development hiring, lead over 40 hiring interviews, both skills and behavioral, to support Klarna in raising the bar in the acquisition of talent.";Competence Lead (CL) - Organizational Development/Business Operations;11;2021;6;2022;['Computer Software'];5001;10000;0;0;0
-85;85;17;Paris Metropolitan Region;open source politics;"We provide open source #civictech platforms and high-level counsulting to cities, public institutions, companies and nonprofit engaging in participatory democracy.
+85;17;Paris Metropolitan Region;open source politics;"We provide open source #civictech platforms and high-level counsulting to cities, public institutions, companies and nonprofit engaging in participatory democracy.
 
 More than 200 clients: European Commission, French National Assembly, French Senate, French Climate Convention, French Court of Accompts, Federal State of Belgium, Regions and Departments, cities (Bordeaux, Lille, Toulouse, Marseille, Nanc…) New York City, several political movements, Decathlon, EDF, Emmaüs, Greenpeace…";Co-founder & General Manager;5;2016;0;0;['Computer Software'];2;10;1;0;1
-86;86;17;Paris Metropolitan Region;ecs (european communication school);Master degree (1st & 2nd year) - 30 hours of presentations and workshops on Democratic Innovation and Participatory Democracy at the European level.;University Lecturer;2;2022;5;2022;['Computer Software'];2;10;0;0;0
-87;87;17;Région de Lisbonne, Portugal;web summit;"Panelist on the topic ""We the People: Building and Engaging Movements"" at the Forum.";Speaker;11;2017;11;2017;['Computer Software'];2;10;0;0;0
-88;88;17;Lille Metropolitan Region;sciences po lille;"Lecturer on Digital, Democracy and Public Action in Audencia Nantes/Sciences Po Lille's Master ""Managing Public Policies"".";University Lecturer;9;2016;12;2019;['Computer Software'];2;10;0;0;0
-89;89;17;Paris Metropolitan Region;sciences po;12 courses on Democratic Innovations, helping students design the best consultation on Youth policies (2021) and freeing up time (2022).;University Lecturer;1;2021;4;2022;['Computer Software'];2;10;0;0;0
-90;90;18;Paris Metropolitan Region;parlement & citoyens;;Président;2;2013;0;0;['Computer Software'];11;50;1;0;0
-91;91;18;Paris Metropolitan Region;cap collectif;Startup experte dans le domaine de l'intelligence collective qui propose une plateforme de consultation en ligne aux organisations publiques et privées.;CEO;7;2014;0;0;['Computer Software'];11;50;1;0;0
-92;92;18;France / Québec / Tunisie / Suisse / Belgique;démocratie ouverte;Collectif francophone dédié à la promotion de la démocratie ouverte (open government) - #transparence #participation #collaboration;Co-Fondateur;9;2011;0;0;['Computer Software'];11;50;0;0;1
-93;93;18;Paris Metropolitan Region;spin partners;Responsable du développement et des partenariats;Associé;11;2002;6;2012;['Computer Software'];11;50;0;0;0
-94;94;18;Paris Metropolitan Region;assemblée nationale;;Collaborateur parlementaire;3;2009;8;2010;['Computer Software'];11;50;0;0;0
-95;95;19;;versentech holdings;"""Pledge fund"" opérant les transactions M&A technologiques pour le compte de Family Offices canadiens. 
+86;17;Paris Metropolitan Region;ecs (european communication school);Master degree (1st & 2nd year) - 30 hours of presentations and workshops on Democratic Innovation and Participatory Democracy at the European level.;University Lecturer;2;2022;5;2022;['Computer Software'];2;10;0;0;0
+87;17;Région de Lisbonne, Portugal;web summit;"Panelist on the topic ""We the People: Building and Engaging Movements"" at the Forum.";Speaker;11;2017;11;2017;['Computer Software'];2;10;0;0;0
+88;17;Lille Metropolitan Region;sciences po lille;"Lecturer on Digital, Democracy and Public Action in Audencia Nantes/Sciences Po Lille's Master ""Managing Public Policies"".";University Lecturer;9;2016;12;2019;['Computer Software'];2;10;0;0;0
+89;17;Paris Metropolitan Region;sciences po;12 courses on Democratic Innovations, helping students design the best consultation on Youth policies (2021) and freeing up time (2022).;University Lecturer;1;2021;4;2022;['Computer Software'];2;10;0;0;0
+90;18;Paris Metropolitan Region;parlement & citoyens;;Président;2;2013;0;0;['Computer Software'];11;50;1;0;0
+91;18;Paris Metropolitan Region;cap collectif;Startup experte dans le domaine de l'intelligence collective qui propose une plateforme de consultation en ligne aux organisations publiques et privées.;CEO;7;2014;0;0;['Computer Software'];11;50;1;0;0
+92;18;France / Québec / Tunisie / Suisse / Belgique;démocratie ouverte;Collectif francophone dédié à la promotion de la démocratie ouverte (open government) - #transparence #participation #collaboration;Co-Fondateur;9;2011;0;0;['Computer Software'];11;50;0;0;1
+93;18;Paris Metropolitan Region;spin partners;Responsable du développement et des partenariats;Associé;11;2002;6;2012;['Computer Software'];11;50;0;0;0
+94;18;Paris Metropolitan Region;assemblée nationale;;Collaborateur parlementaire;3;2009;8;2010;['Computer Software'];11;50;0;0;0
+95;19;;versentech holdings;"""Pledge fund"" opérant les transactions M&A technologiques pour le compte de Family Offices canadiens. 
 En charge des due diligence stratégiques dans le domaine des nouveaux médias, applications réseaux sociaux, semi-conducteurs et écrans plats, en collaboration avec des experts du MIT.";Directeur de la stratégie;9;2003;1;2005;['Management Consulting'];11;50;1;0;0
-96;96;19;Paris Metropolitan Region;bluenove;"Société de technologie et de conseil spécialisée en intelligence collective massive. 
+96;19;Paris Metropolitan Region;bluenove;"Société de technologie et de conseil spécialisée en intelligence collective massive. 
 
 Convaincu de l’importance des valeurs d’écoute, d’inclusion et d’engagement de toutes les parties prenantes, bluenove intervient comme un accélérateur des transitions, en mobilisant massivement l’intelligence collective au sein des organisations publiques ou privées, et en activant des pratiques de co-construction résolument vertueuses. 
 
@@ -333,25 +333,25 @@ Avec une équipe de 50 consultants et développeurs, nous défendons la diversit
 Nous contribuons à développer l'intelligence collective massive dans le secteur privé (CAC40), dans le secteur public (administrations, collectivités, agences et opérateurs de l'Etat) et dans le monde de l'enseignement (écoles, universités). 
 
 Nous avons travaillé pour près de 150 clients parmi lesquels : Engie, EDF, Caisse des Dépôts, Crédit Agricole, Société Générale, BNP Paribas, Decathlon, Citeo, Enedis, Vinci, Bouygues, SNCF, Total, Airbus, Safran, Michelin, Sodexo, Carrefour, Ministère de la Transition Ecologique, Ministère de la Justice, DITP, Ademe, Ministère de l'Education, OFB, Office International de la Francophonie, Commission Européenne, Matignon, CESE, Harvard Kennedy School, UNESCO, etc.";Co-fondateur et co-président BLUENOVE;8;2014;0;0;['Management Consulting'];11;50;1;0;1
-97;97;19;;algoé;"Conseil en politiques publiques et en stratégie de territoires
+97;19;;algoé;"Conseil en politiques publiques et en stratégie de territoires
 Conseil en stratégie de croissance PME 
 Nouveaux business models et innovation stratégique
 Industries créatives";Consultant en stratégie ;0;1992;0;1999;['Management Consulting'];11;50;0;1;0
-98;98;19;Montreal, Canada Area;imagination for people;"Plateforme Web multilingue dédiée à l'innovation sociale et à la créativité citoyenne. 
+98;19;Montreal, Canada Area;imagination for people;"Plateforme Web multilingue dédiée à l'innovation sociale et à la créativité citoyenne. 
 
 Cette plateforme collaborative à but non lucratif vise à identifier les projets d'innovation sociétale les plus originaux et les plus rupturistes afin de les documenter et de les aider à passer à l'échelle. Ces projets, au-delà de l'ESS conventionnelle (associatif, coopératives, fondations...), sont initiés par des entrepreneurs sociaux, des organisations publiques, des entreprises privées, des communautés ouvertes ou structurées, dans un esprit de partenariat PPP (Public - Private - People) à des échelles locale, nationale ou internationale. 
 
 Imagination for People a lancé la plateforme Assembl : une plateforme d'intelligence collective nativement multilingue soutenue par des algorithmes d'analyse sémantique, en partenariat historique avec le MIT (Center for Collective Intelligence), l'Open University (UK) et la Commission européenne (Projet Catalyst).";Fondateur d'IMAGINATION FOR PEOPLE;7;2011;2;2017;['Management Consulting'];11;50;0;0;1
-99;99;19;Montreal, Canada Area;deloitte;"Développement économique ; stratégie industrielle et territoriale ; politique de ""cluster"" et de pôles de compétitivité ; plan stratégique pour PME à forte croissance ; villes créatives ; plateformes collaboratives de filières ou de territoires ; politiques publiques d'accélération du développement économique et des partenariats Public-Privé.
+99;19;Montreal, Canada Area;deloitte;"Développement économique ; stratégie industrielle et territoriale ; politique de ""cluster"" et de pôles de compétitivité ; plan stratégique pour PME à forte croissance ; villes créatives ; plateformes collaboratives de filières ou de territoires ; politiques publiques d'accélération du développement économique et des partenariats Public-Privé.
 Lancement et développement de la practice Deloitte ""Cluster management and acceleration"" à l'échelle internationale avec l'ancien Ministre des Affaires Etrangères du Canada.";Directeur Principal;2;2005;12;2012;['Management Consulting'];11;50;1;0;0
-100;100;20;Paris Metropolitan Region;betclic everest group;"Responsible for the customer database animation and content management for the brands Betclic and Everest Poker (online betting, poker) for the French market. Creation and management of a team of 8 people (CRM, designers, copywriters) 
+100;20;Paris Metropolitan Region;betclic everest group;"Responsible for the customer database animation and content management for the brands Betclic and Everest Poker (online betting, poker) for the French market. Creation and management of a team of 8 people (CRM, designers, copywriters) 
 - Defined and implemented communication plans and automated customer journeys through all channels (on-site messaging, emails, SMS push notifications, mailing, VMS), database segmentation
 - Monitored the editorial and promotional animation of the sites, e-merchandising, production of all the content and communications towards customers
 - Developed customer value and engagement (activation, anti-churn, reactivation, upsell, xsell) through the optimization of targeting and segmentation, testing and customer journey improvement. Reported on campaign performance and KPIs. 
 - Owned business requests for new tool deployment, customer journey improvement, and the launch of new features and sites
 - Managed the commercial relationship with CRM suppliers: takeover bids, supplier selection, roll-out supervision, contract drafting, invoicing, user training
 - Managed the CRM budget";CRM and Content Manager, French market;4;2012;10;2015;['Information Technology', 'and Services'];11;50;0;0;0
-101;101;20;Paris Metropolitan Region;make.org;"Make.org is a B2C and B2B2C citizen consultation plateform that aims at putting citizens' opinions in the center of decision making.
+101;20;Paris Metropolitan Region;make.org;"Make.org is a B2C and B2B2C citizen consultation plateform that aims at putting citizens' opinions in the center of decision making.
 
 As Chief Product Officer, I own the product strategy and vision, along with the user engagement strategy (acquisition, growth, CRM). I am a COMEX member and I manage a 4 people team.
 - Built the product and marketing roadmap, prioritized business, user, data and technical stakes, aligned with stakeholders.
@@ -359,70 +359,70 @@ As Chief Product Officer, I own the product strategy and vision, along with the 
 - Increased user research, qualitative and quantitative testing, data-driven decision making
 - Continuously improved delivery, worflow and rituals to foster collaboration, delivery efficiency and visibility
 - Supported pre-saled in client discussion and calls for tenders, trained sales team";Chief Product Officer;1;2019;0;0;['Information Technology', 'and Services'];11;50;0;0;0
-102;102;20;Paris Metropolitan Region;make.org;"- I conceived and delivered the first version of the consultation service, which includes the website, the widget for partner implementation, the back-office for content moderation and management, the tracking and monitoring tools set-up
+102;20;Paris Metropolitan Region;make.org;"- I conceived and delivered the first version of the consultation service, which includes the website, the widget for partner implementation, the back-office for content moderation and management, the tracking and monitoring tools set-up
 - I have organized the delivery workflow and the agile rituals with the tech team 
 - I have lead the launch of the first consultations, designed and deployed the first acquisition campaigns, monitored performances, liaised with partners to optimize communication strategy";First Product Manager;8;2016;12;2017;['Information Technology', 'and Services'];11;50;0;0;0
-103;103;20;Paris Metropolitan Region;make.org;"As Head of Acquisition and CRM, I am a COMEX member. 
+103;20;Paris Metropolitan Region;make.org;"As Head of Acquisition and CRM, I am a COMEX member. 
 My goal is to increase the number of active user in order to reach the target volume of participants per consultation while reducing the cost of acquisition and ensuring the representativeness of the results.
 - Designed and deployed acquisition campaigns on Meta, Twitter, Linkedin and retention campaigns
 - Monitored performance very closely, overviewed the set-up of advanced dashboards to increase efficiency and make tactical decisions faster
 - Continuously tested creatives, targets, campaign setup, channels..
 Recruited 1 million users in 24 languages for “WeEuropeans”, the most important consultation about the future of Europe whose results were presented to the European Parliament";Head of Acquisition & CRM;1;2018;12;2018;['Information Technology', 'and Services'];11;50;1;0;0
-104;104;20;Paris Metropolitan Region;deezer;"Responsible for the multi-channel CRM strategy and communication deployment plan with the objective of improving user engagement, conversion of free users to paying subscribers, and retention rates (6 million paying subscribers / 180 countries). Management of 6 CRM specialists.
+104;20;Paris Metropolitan Region;deezer;"Responsible for the multi-channel CRM strategy and communication deployment plan with the objective of improving user engagement, conversion of free users to paying subscribers, and retention rates (6 million paying subscribers / 180 countries). Management of 6 CRM specialists.
 - Implemented and managed the customer lifecycle journeys: new user onboarding  according to registration channel and partner (B2C but also B2B such as telephone providers), anti-churn plans and retention plans
 - Optimized the engagement programme through an advanced use of personalisation, content recommendation and AB testing
 - Defined, set-up and deployed promotional / adhoc campaigns
 - Overviewed the development of in-house CRM tools and testing of external solutions in collaboration with the technical teams";Global CRM Manager;11;2015;8;2016;['Information Technology', 'and Services'];11;50;0;0;0
-105;105;21;Paris Metropolitan Region;afup;AFUP is the French Association of the PHP Users. It mainly organizes twice a year one of the largest European events for PHP developers. Complete informations on http://afup.org/;President;2;2012;2;2013;['Information Technology', 'and Services'];11;50;1;0;0
-106;106;21;Paris Metropolitan Region;clever age;I was the technical leader of the PHP center of the company, and headed the expertise center, in charge of all the technical publications and participations to conferences.;PHP BU Manager, head of Expertise center, Symfony expert;7;2008;2;2012;['Information Technology', 'and Services'];11;50;1;0;0
-107;107;21;Paris Metropolitan Region;afup;AFUP is the French Association of the PHP Users. It mainly organizes twice a year one of the largest European events for PHP developers. Complete informations on http://afup.org/;Vice President;2;2011;2;2012;['Information Technology', 'and Services'];11;50;1;0;0
-108;108;21;Paris Metropolitan Region;redirection.io;redirection.io is the perfect tool for managing HTTP redirections for businesses, marketing and SEO, and much more. Catch and fix HTTP errors on the fly, avoid content errors and enhance your Web content.;CEO;1;2018;0;0;['Information Technology', 'and Services'];11;50;1;0;0
-109;109;21;Paris Metropolitan Region;jolicode;I created JoliCode in 2012 in order to raise the level of quality of Web projects. We are full of energy and passion, come meet us at jolicode.com!;Web and mobile expert;3;2012;0;0;['Information Technology', 'and Services'];11;50;0;0;0
-110;110;22;Paris Metropolitan Region;bluenove;Proudly sharing this role with Frank Escoubes;Co-Founder & Co-President;2;2017;0;0;['Management Consulting'];11;50;1;0;1
-111;111;22;;Orange;In addition: Director Music since end of 2004;Director Business Development & Partnerships + Director Music;5;2003;7;2006;['Management Consulting'];11;50;1;0;0
-112;112;22;;Orange;"Create and develop the 'Orange Start Up Program' as a Corporate Open Innovation programme.
+105;21;Paris Metropolitan Region;afup;AFUP is the French Association of the PHP Users. It mainly organizes twice a year one of the largest European events for PHP developers. Complete informations on http://afup.org/;President;2;2012;2;2013;['Information Technology', 'and Services'];11;50;1;0;0
+106;21;Paris Metropolitan Region;clever age;I was the technical leader of the PHP center of the company, and headed the expertise center, in charge of all the technical publications and participations to conferences.;PHP BU Manager, head of Expertise center, Symfony expert;7;2008;2;2012;['Information Technology', 'and Services'];11;50;1;0;0
+107;21;Paris Metropolitan Region;afup;AFUP is the French Association of the PHP Users. It mainly organizes twice a year one of the largest European events for PHP developers. Complete informations on http://afup.org/;Vice President;2;2011;2;2012;['Information Technology', 'and Services'];11;50;1;0;0
+108;21;Paris Metropolitan Region;redirection.io;redirection.io is the perfect tool for managing HTTP redirections for businesses, marketing and SEO, and much more. Catch and fix HTTP errors on the fly, avoid content errors and enhance your Web content.;CEO;1;2018;0;0;['Information Technology', 'and Services'];11;50;1;0;0
+109;21;Paris Metropolitan Region;jolicode;I created JoliCode in 2012 in order to raise the level of quality of Web projects. We are full of energy and passion, come meet us at jolicode.com!;Web and mobile expert;3;2012;0;0;['Information Technology', 'and Services'];11;50;0;0;0
+110;22;Paris Metropolitan Region;bluenove;Proudly sharing this role with Frank Escoubes;Co-Founder & Co-President;2;2017;0;0;['Management Consulting'];11;50;1;0;1
+111;22;;Orange;In addition: Director Music since end of 2004;Director Business Development & Partnerships + Director Music;5;2003;7;2006;['Management Consulting'];11;50;1;0;0
+112;22;;Orange;"Create and develop the 'Orange Start Up Program' as a Corporate Open Innovation programme.
 Manage business development opportunities and partnerships woldwide with start-ups and venture capital funds with focus on WEB 2.0 and convergence (web and mobile)
 Contribute to the development of new Orange ad-funded business models and 2.0 services such as www.pikeo.com, www.soundtribes.com, www.bubbletop.com or www.whosegame.com.
 Check : http://www.bluenove.com";Director of the 'Orange Start Up Programme';8;2006;5;2008;['Management Consulting'];11;50;1;0;0
-113;113;22;Paris Metropolitan Region;bluenove;http://www.bluenove.com;President & COO;9;2014;0;0;['Management Consulting'];11;50;1;0;0
-114;114;22;Paris Metropolitan Region;bluenove;http://www.bluenove.com;CEO & Founder;5;2008;8;2014;['Management Consulting'];11;50;1;0;1
-115;115;23;;;;;0;0;0;0;['Computer Software'];2;10;0;0;0
-116;116;23;;;;;0;0;0;0;['Computer Software'];2;10;0;0;0
-117;117;23;Paris Metropolitan Region;ehess - école des hautes études en sciences sociales;"Atelier de méthodologie de la recherche
+113;22;Paris Metropolitan Region;bluenove;http://www.bluenove.com;President & COO;9;2014;0;0;['Management Consulting'];11;50;1;0;0
+114;22;Paris Metropolitan Region;bluenove;http://www.bluenove.com;CEO & Founder;5;2008;8;2014;['Management Consulting'];11;50;1;0;1
+115;23;;;;;0;0;0;0;['Computer Software'];2;10;0;0;0
+116;23;;;;;0;0;0;0;['Computer Software'];2;10;0;0;0
+117;23;Paris Metropolitan Region;ehess - école des hautes études en sciences sociales;"Atelier de méthodologie de la recherche
 Séminaire de recherche sur la Cifre en sciences sociales";Enseignant;11;2020;10;2021;['Computer Software'];2;10;0;0;0
-118;118;23;;open source politics;;Responsable pôle R&D - Doctorant;12;2018;1;2023;['Computer Software'];2;10;1;0;0
-119;119;23;Paris Metropolitan Region;sciences po;Cours dédié aux innovations démocratiques, pour aider les étudiant.e.s à construire une démarche de consultation sur les politiques de jeunesses;Enseignant;1;2021;12;2022;['Computer Software'];2;10;0;0;0
-120;120;24;Paris Metropolitan Region;france digitale;;Directeur Affaires publiques et Communications;1;2019;3;2019;['Civic', 'Social Organization'];2;10;1;0;0
-121;121;24;;sell - syndicat des éditeurs de logiciels de loisirs;https://www.sell.fr/;Délégué général;8;2020;0;0;['Civic', 'Social Organization'];2;10;0;0;0
-122;122;24;75011;make.org;;Directeur des Affaires publiques;2;2017;6;2018;['Civic', 'Social Organization'];2;10;1;0;0
-123;123;24;;make.org;;Directeur Communication et Affaires publiques;6;2018;1;2019;['Civic', 'Social Organization'];2;10;1;0;0
-124;124;24;;ministère de l’économie, des finances et de la relance;;Chef de cabinet, conseiller parlementaire de Cedric O;3;2019;6;2020;['Civic', 'Social Organization'];2;10;0;1;0
-125;125;25;;VOXE;"Voxe is a mission : reconciling millennials with public debate and engagement. Through our chatbot, we enable millennials to be better informed in order to have an impact to engage in public debate. 
+118;23;;open source politics;;Responsable pôle R&D - Doctorant;12;2018;1;2023;['Computer Software'];2;10;1;0;0
+119;23;Paris Metropolitan Region;sciences po;Cours dédié aux innovations démocratiques, pour aider les étudiant.e.s à construire une démarche de consultation sur les politiques de jeunesses;Enseignant;1;2021;12;2022;['Computer Software'];2;10;0;0;0
+120;24;Paris Metropolitan Region;france digitale;;Directeur Affaires publiques et Communications;1;2019;3;2019;['Civic', 'Social Organization'];2;10;1;0;0
+121;24;;sell - syndicat des éditeurs de logiciels de loisirs;https://www.sell.fr/;Délégué général;8;2020;0;0;['Civic', 'Social Organization'];2;10;0;0;0
+122;24;75011;make.org;;Directeur des Affaires publiques;2;2017;6;2018;['Civic', 'Social Organization'];2;10;1;0;0
+123;24;;make.org;;Directeur Communication et Affaires publiques;6;2018;1;2019;['Civic', 'Social Organization'];2;10;1;0;0
+124;24;;ministère de l’économie, des finances et de la relance;;Chef de cabinet, conseiller parlementaire de Cedric O;3;2019;6;2020;['Civic', 'Social Organization'];2;10;0;1;0
+125;25;;VOXE;"Voxe is a mission : reconciling millennials with public debate and engagement. Through our chatbot, we enable millennials to be better informed in order to have an impact to engage in public debate. 
 
 Coordination of the #Hello2017 program with external partnerships, including : 
 - candidate relations,
 - media partnership implementation, 
 - collaboration with political parties in the context of party primaries, 
 - comparison tool management (tech and partnership).";Coordinatrice de projet;8;2016;6;2017;['Higher Education'];2;10;1;0;0
-126;126;25;;VOXE;"Depuis janvier 2020, Voxe, c’est un média d'actu et d'empowerment féminin. Notre mission c'est de construire une génération de femmes puissantes en comblant un trou dans la raquette du paysage médiatique : les femmes s'informent moins que les hommes, notamment parce que les médias actuels sont portés et écrits en majorité par des hommes. Or, un individu moins bien informé, c'est un individu qui a moins de pouvoir, et nous voulons rétablir ce déséquilibre au moment où le monde a besoin d'une société éclairée face aux différentes urgences (climatique par ex) et échéances qui arrivent.
+126;25;;VOXE;"Depuis janvier 2020, Voxe, c’est un média d'actu et d'empowerment féminin. Notre mission c'est de construire une génération de femmes puissantes en comblant un trou dans la raquette du paysage médiatique : les femmes s'informent moins que les hommes, notamment parce que les médias actuels sont portés et écrits en majorité par des hommes. Or, un individu moins bien informé, c'est un individu qui a moins de pouvoir, et nous voulons rétablir ce déséquilibre au moment où le monde a besoin d'une société éclairée face aux différentes urgences (climatique par ex) et échéances qui arrivent.
  
-* Notre outil phare est une newsletter matinale (à tester gratuitement sur voxe.org) qui réveille déjà plusieurs dizaines de milliers de jeunes actives du lundi au vendredi et décrypte l'actu de la journée en 5 minutes.  
-* En bonus, la newsletter donne chaque jour des tips concrets pour se forger une opinion et la faire entendre, au bureau, face à son banquier, dans la vie politique etc. Cette newsletter gratuite est soutenue par un modèle publicitaire.  
+* Notre outil phare est une newsletter matinale (à tester gratuitement sur voxe.org) qui réveille déjà plusieurs dizaines de milliers de jeunes actives du lundi au vendredi et décrypte l'actu de la journée en 5 minutes. 
+* En bonus, la newsletter donne chaque jour des tips concrets pour se forger une opinion et la faire entendre, au bureau, face à son banquier, dans la vie politique etc. Cette newsletter gratuite est soutenue par un modèle publicitaire. 
 * En parallèle nous avons développé un club payant qui compte déjà plusieurs centaines de membres et des formations en ligne qui ont conquis plus de 200 personnes en un an.";Cofounder & head of business;1;2020;0;0;['Higher Education'];2;10;1;0;1
-127;127;25;Paris Metropolitan Region;sanofi;"Specific tasks : 
+127;25;Paris Metropolitan Region;sanofi;"Specific tasks : 
 - Business Intelligence on countries at risk
 - Monitoring of the Public Affairs strategy for the Intercontinental region
 - Monitoring of the CSR strategy for the Intercontinental region
 - Monitoring of public-private partnership proposals in the regions
 - Participation in training for Public Affairs managers in the regions";Public Affairs, Région Intercontinentale;1;2015;7;2015;['Higher Education'];2;10;0;0;0
-128;128;25;;burson-marsteller i&e;"Specific tasks : 
+128;25;;burson-marsteller i&e;"Specific tasks : 
 - Business Intelligence (media, institutional, social networks)
 - Mapping of institutional actors and / or influencers
 - Analysis of legislative projects and follow-up of legislative files
 - Organization of events for decision-makers and / or influencers
 - Development of 360 ° influence programs
 - Organization and monitoring of meeting plans";Public affairs junior consultant;5;2016;8;2016;['Higher Education'];2;10;0;1;0
-129;129;25;;VOXE;"Le chatbot de Voxe, le premier chatbot d'actu et d'engagement citoyen, c'est plus de 100K utilisateurs en moins d'un an, des campagnes pour mobiliser les jeunes autour des élections qui mobilisent plus de 45K millennials français et des collaborations avec plus de vingt instituions publiques, du Haut-Commissariat à la réforme des retraites au Parlement européen ou l'Etablissement Français du Sang. 
+129;25;;VOXE;"Le chatbot de Voxe, le premier chatbot d'actu et d'engagement citoyen, c'est plus de 100K utilisateurs en moins d'un an, des campagnes pour mobiliser les jeunes autour des élections qui mobilisent plus de 45K millennials français et des collaborations avec plus de vingt instituions publiques, du Haut-Commissariat à la réforme des retraites au Parlement européen ou l'Etablissement Français du Sang. 
 
 Mes missions : 
 - Construire des relations de confiance avec des partenaires institutionnels 
@@ -430,17 +430,17 @@ Mes missions :
 - Suivi de projet et reporting sur la performance des campagnes
 
 Voxe c’est aussi une longue histoire entrepreneuriale et civique, toujours autour de cette mission d’engagement citoyen grâce à une information plus claire, transparente et pédagogue. Notre initiative a été récompensée pour son caractère innovant et son impact social à de multiples occasions : Station F for Femme, Facebook Startup Garage, Google Impact Challenge, 101 Projets, Dataconnexions, UNAOC, Ariane de Rothschild Foundation.";Business developer;6;2017;12;2019;['Higher Education'];2;10;0;0;0
-130;130;26;Berlin Metropolitan Region;civocracy;"Since 2015, Civocracy has been empowering purpose-driven organizations to drive change through inclusive community engagement with their B2B SaaS. Civocracy vision is to foster engagement that leads to meaningful change.
+130;26;Berlin Metropolitan Region;civocracy;"Since 2015, Civocracy has been empowering purpose-driven organizations to drive change through inclusive community engagement with their B2B SaaS. Civocracy vision is to foster engagement that leads to meaningful change.
 
 • Built PM-Tech Lead partnership to drive together the product vision
 • Prioritize our solutions based on collaborative methods, market analysis and some frameworks.
 • Define and monitor metrics for each project with Amplitude & Matomo analytics
 • Gather and analyse customer feedback and lead product discovery (customer jobs interview 😍)
 • Adapt Agile methods to work in harmony with our team of 3 developers and designer (Light-Scrum, Kanban).";Product Manager;7;2019;0;0;['Civic', 'Social Organization'];2;10;0;0;0
-131;131;26;Paris Metropolitan Region;mairie de paris;"As a public purchaser intern for the Paris City Hall, I was responsible for preparing and writing bidding documents for various communication and events procurements, including Bastille Day celebrations, Paris Plage, and exhibitions. 
+131;26;Paris Metropolitan Region;mairie de paris;"As a public purchaser intern for the Paris City Hall, I was responsible for preparing and writing bidding documents for various communication and events procurements, including Bastille Day celebrations, Paris Plage, and exhibitions. 
 I also played a role in the finalization of contract and pricing negotiations with the applicants. 
 In addition, I worked closely with different departments and stakeholders to gather their needs and coordinate their input, ensuring that each call for tender was well-formulated and aligned with the City's goals.";Public purchaser intern;4;2012;9;2012;['Civic', 'Social Organization'];2;10;0;0;0
-132;132;26;Berlin Metropolitan Region;civocracy;"Leveraging my experience working with public organizations as a purchasor, I developed strong relationships with local governments on the French public market.
+132;26;Berlin Metropolitan Region;civocracy;"Leveraging my experience working with public organizations as a purchasor, I developed strong relationships with local governments on the French public market.
 
 • Lead the full account management cycle for the French market: product demoing, closing and re-signing (Retention rate 95%)
 • Implement SaaS solution for new clients, most entities in the public sector (10+ cities portfolio)
@@ -448,44 +448,44 @@ In addition, I worked closely with different departments and stakeholders to gat
 • Provide on-site and online training for software onboarding and digital participation best practices.
 
 Data Privacy regulation: Ensure data privacy training and advise teams across the company on legal and regulatory matters (GDPR compliance, calls for tender, commercial).";Account manager Public market;5;2017;9;2019;['Civic', 'Social Organization'];2;10;0;0;0
-133;133;26;Paris Metropolitan Region;sncf;"As a legal advisor in the public procurement division, I provided guidance and support to the 50 purchasers of the SNCF's largest French purchasing group. 
+133;26;Paris Metropolitan Region;sncf;"As a legal advisor in the public procurement division, I provided guidance and support to the 50 purchasers of the SNCF's largest French purchasing group. 
 In this role, I was responsible for drafting contracts, offering legal consultations on purchases of services, common supplies, and construction, and designing legal training programs for purchasers. 
 My work helped ensure that procurement activities were conducted in compliance with legal requirements and industry best practices.";Legal Counsel - EU & FR public procurement;10;2012;9;2013;['Civic', 'Social Organization'];2;10;0;0;0
-134;134;26;Paris Metropolitan Region;sécurité sociale - indépendants;"As a public procurement manager, I closely collaborated with the director in charge to oversee the procurement process for the regional public health organization with 300 employees.
+134;26;Paris Metropolitan Region;sécurité sociale - indépendants;"As a public procurement manager, I closely collaborated with the director in charge to oversee the procurement process for the regional public health organization with 300 employees.
 This involved setting up the annual procurement plan, understanding the needs of each department, drafting specifications, launching tenders, and analyzing applicants' technical and financial offers.
 Additionally, I provided legal consultations for business law and human resources, and ensured compliance with European and French rules on public procurement.";Public procurement manager;10;2013;1;2016;['Civic', 'Social Organization'];2;10;0;0;0
-135;135;27;Paris Metropolitan Region;mouvement international atd quart monde;"Stage pratique de fin de formation au sein de la direction de la communication et de l'engagement de l'organisation ATD Quart Monde, durant six semaines.
+135;27;Paris Metropolitan Region;mouvement international atd quart monde;"Stage pratique de fin de formation au sein de la direction de la communication et de l'engagement de l'organisation ATD Quart Monde, durant six semaines.
 
 - réalisation d'une affiche pour les chantiers jeunes
 - réalisation d'une maquette pour un document référentiel de 68 pages sur les conseils citoyens
 - proposition de maquette pour un dépliant de communication autour des universités populaires quart monde
 - réalisation d'un motion design présentant l'organisation";Graphiste;3;2022;4;2022;['nan'];999;999;0;0;0
-136;136;27;;démocratie ouverte;;Administrateur;6;2014;2;2018;['nan'];999;999;0;0;0
-137;137;27;Paris Metropolitan Region;cap collectif;J’ai mis en place la stratégie de communication de l’entreprise dans un contexte de forte croissance. Au quotidien, j’ai assuré la communication interne, la rédaction d’articles de blog, l’animation du site web, la rédaction de la newsletter, la gestion et animation des réseaux sociaux ainsi que les relations publiques : interventions à des événements sectoriels, rencontres de personnalités qualifiées, publications dans la presse.;Directeur de la communication;10;2016;12;2018;['nan'];999;999;1;0;0
-138;138;27;Nanterre, Île-de-France, France;axa en france;Je me suis chargé de la création de contenus des différents réseaux sociaux de la marque AXA, depuis la mise en forme jusqu'à la publication et la sponsorisation, en accord avec la ligne éditoriale fixée et en respect d'un calendrier de publication concerté. J'ai également été en appui stratégique sur l'expertise social média sur des projets transversaux au sein de la direction de la communication.;Chargé de mission Social Media;11;2019;5;2021;['nan'];999;999;0;0;0
-139;139;27;Coutances, Normandie, France;freelance;"j'accompagne mes client•e•s dans la mise en image(s) de leur communication.
+136;27;;démocratie ouverte;;Administrateur;6;2014;2;2018;['nan'];999;999;0;0;0
+137;27;Paris Metropolitan Region;cap collectif;J’ai mis en place la stratégie de communication de l’entreprise dans un contexte de forte croissance. Au quotidien, j’ai assuré la communication interne, la rédaction d’articles de blog, l’animation du site web, la rédaction de la newsletter, la gestion et animation des réseaux sociaux ainsi que les relations publiques : interventions à des événements sectoriels, rencontres de personnalités qualifiées, publications dans la presse.;Directeur de la communication;10;2016;12;2018;['nan'];999;999;1;0;0
+138;27;Nanterre, Île-de-France, France;axa en france;Je me suis chargé de la création de contenus des différents réseaux sociaux de la marque AXA, depuis la mise en forme jusqu'à la publication et la sponsorisation, en accord avec la ligne éditoriale fixée et en respect d'un calendrier de publication concerté. J'ai également été en appui stratégique sur l'expertise social média sur des projets transversaux au sein de la direction de la communication.;Chargé de mission Social Media;11;2019;5;2021;['nan'];999;999;0;0;0
+139;27;Coutances, Normandie, France;freelance;"j'accompagne mes client•e•s dans la mise en image(s) de leur communication.
 
 - objets qui s'impriment : affiches, brochures, prospectus, tracts, dépliants, flyers, kakemonos, rapports...
 - objets d'imagination : illustrations (presse, édition), motion design
 - objets de significations : logos, identités visuelles";Graphiste;5;2022;0;0;['nan'];999;999;0;0;0
-140;140;28;Nice, Provence-Alpes-Côte d’Azur, France;oktogone group;;Directeur des Partenariats et des Relations Institutionnelles ;11;2020;0;0;['Higher Education'];11;50;1;0;0
-141;141;28;Paris Metropolitan Region;jobteaser;"- Located business deals by contacting potential partners; discovering and exploring opportunities
+140;28;Nice, Provence-Alpes-Côte d’Azur, France;oktogone group;;Directeur des Partenariats et des Relations Institutionnelles ;11;2020;0;0;['Higher Education'];11;50;1;0;0
+141;28;Paris Metropolitan Region;jobteaser;"- Located business deals by contacting potential partners; discovering and exploring opportunities
 - Screened potential business deals by analyzing market strategies, deal requirements, potential and financials, evaluating options; resolving internal priorities.
 -Developed negotiating strategies and positions by studying integration of new venture with company strategies and operations; examining risks and potentials; estimating partners' needs and goals.
 -Closed new business deals by coordinating requirements; developing and negotiating contracts; integrating contract requirements with business operations.
 ";Business Developer;11;2014;4;2016;['Higher Education'];11;50;0;0;0
-142;142;28;Paris Metropolitan Region;illity;"- Managed the company strategy and operations 
+142;28;Paris Metropolitan Region;illity;"- Managed the company strategy and operations 
 - Searched for partnerships and suppliers 
 - Managed the creation of a BTC e-commerce website ";Founder;4;2016;4;2018;['Higher Education'];11;50;0;0;1
-143;143;28;Paris Metropolitan Region;fluicity;"- Hired, trained and managed a Core New Business Team (sales + SDR) 
+143;28;Paris Metropolitan Region;fluicity;"- Hired, trained and managed a Core New Business Team (sales + SDR) 
 - Developed and executed strategic plan to achieve sales targets and expand customer base
 - Closed deals with high value Key Account
 - Opened and adressed a new target on the existing offering 
 - Built and maintain strong, long-lasting customer relationships
 - Partnered with customers to understand their business needs and objectives
 - Reported on forces that shift tactical budgets and strategic direction of accounts";Sales Director;4;2018;11;2020;['Higher Education'];11;50;1;0;0
-144;144;28;;ad education;;Directeur des Partenariats Stratégiques et des Relations Institutionnelles;11;2022;0;0;['Higher Education'];11;50;1;0;0
-145;145;29;Toronto, Canada Area;the boson project;"The Boson Project is a consulting firm committed to putting coworkers at the heart of transformation projects in order to make lines shift in companies.
+144;28;;ad education;;Directeur des Partenariats Stratégiques et des Relations Institutionnelles;11;2022;0;0;['Higher Education'];11;50;1;0;0
+145;29;Toronto, Canada Area;the boson project;"The Boson Project is a consulting firm committed to putting coworkers at the heart of transformation projects in order to make lines shift in companies.
 
 - Developing an internationalization strategy for The Boson Project 
 
@@ -493,9 +493,9 @@ Additionally, I provided legal consultations for business law and human resource
 Business development: building the strategy and product, developing sales
 Consulting: supporting Boson projects for local companies
 Setting up the local office: admin, finance, communication...";In charge of international development - Business developper and manager Canada;1;2018;12;2018;['Information Technology', 'and Services'];11;50;0;0;0
-146;146;29;Francfort-sur-le-Main, Allemagne;schneider electric;Project management on business finance topics at the Schneider Electric German headquarters: coordination of reporting and implementation of new processes, support on a pricing strategy project.;Business Finance;7;2012;12;2012;['Information Technology', 'and Services'];11;50;0;0;0
-147;147;29;Paris Metropolitan Region;make.org;;Head of Consultations On Demand;6;2019;0;0;['Information Technology', 'and Services'];11;50;1;0;0
-148;148;29;Paris Metropolitan Region;the boson project;"The Boson Project is a consulting firm committed to putting coworkers at the heart of transformation projects in order to make lines shift in companies.
+146;29;Francfort-sur-le-Main, Allemagne;schneider electric;Project management on business finance topics at the Schneider Electric German headquarters: coordination of reporting and implementation of new processes, support on a pricing strategy project.;Business Finance;7;2012;12;2012;['Information Technology', 'and Services'];11;50;0;0;0
+147;29;Paris Metropolitan Region;make.org;;Head of Consultations On Demand;6;2019;0;0;['Information Technology', 'and Services'];11;50;1;0;0
+148;29;Paris Metropolitan Region;the boson project;"The Boson Project is a consulting firm committed to putting coworkers at the heart of transformation projects in order to make lines shift in companies.
 
 - Consultant: supporting small and big companies in their cultural and organisationnal transformations, managing teams
 
@@ -507,22 +507,22 @@ Alloresto.fr (a Just Eat company) - work on employee engagement in a time of fas
 - Business Development: developing our activities on two new markets, scale-ups and international
 
 - 1st employee: participating in growing the company and the team (recruitment, management, culture, organisation, strategy...)";Consultant and business developper;2;2014;12;2018;['Information Technology', 'and Services'];11;50;0;1;0
-149;149;29;Paris Metropolitan Region;carbox;"Part of an innovative and fast growing startup in the mobility sector (today renamed Ubeeqo):
+149;29;Paris Metropolitan Region;carbox;"Part of an innovative and fast growing startup in the mobility sector (today renamed Ubeeqo):
 - coordinate and organize communication actions
 - support clients and end users
 - support strategic projects";Business Development;9;2011;12;2011;['Information Technology', 'and Services'];11;50;0;0;0
-150;150;30;Paris Metropolitan Region;make.org;Make.org is an independent platform for citizen mobilization acting by direct collection of proposals and the implementation of collaborative projects identified as essential to the improvement of society in cooperation with partners empowered for complementary action (associations, companies, institutions and local communities).;CEO;11;2015;0;0;['Information Technology', 'and Services'];11;50;1;0;0
-151;151;30;Paris Metropolitan Region;publicis;;CEO France;9;2014;8;2016;['Information Technology', 'and Services'];11;50;1;0;0
-152;152;30;;deezer;;CEO;0;2010;9;2014;['Information Technology', 'and Services'];11;50;1;0;0
-153;153;30;Paris Metropolitan Region;viva technology paris;Viva Technology is the first international event bringing together 5,000 start-ups with top investors and companies to grow businesses and shape the future. Viva Technology is the first Tech event which is dedicated to the collaboration between large corporations and startups. For its first edition in 2016 Viva Technology gathered 45 000 attendees in Paris and appears as being one of the top five worldwide tech event.;CEO;11;2015;7;2016;['Information Technology', 'and Services'];11;50;1;0;0
-154;154;30;;make.org;;Founder;4;2016;0;0;['Information Technology', 'and Services'];11;50;0;0;1
-155;155;31;;ministry of economy, industry and employement;Christine Lagarde's office : in charge of Industry & Employement policies + State owned companies;Minister' special advisor;7;2007;8;2009;['nan'];999;999;0;0;0
-156;156;31;;sustain-able;"- Leading SME towards sustainability to generate shared value along the supply chain.
+150;30;Paris Metropolitan Region;make.org;Make.org is an independent platform for citizen mobilization acting by direct collection of proposals and the implementation of collaborative projects identified as essential to the improvement of society in cooperation with partners empowered for complementary action (associations, companies, institutions and local communities).;CEO;11;2015;0;0;['Information Technology', 'and Services'];11;50;1;0;0
+151;30;Paris Metropolitan Region;publicis;;CEO France;9;2014;8;2016;['Information Technology', 'and Services'];11;50;1;0;0
+152;30;;deezer;;CEO;0;2010;9;2014;['Information Technology', 'and Services'];11;50;1;0;0
+153;30;Paris Metropolitan Region;viva technology paris;Viva Technology is the first international event bringing together 5,000 start-ups with top investors and companies to grow businesses and shape the future. Viva Technology is the first Tech event which is dedicated to the collaboration between large corporations and startups. For its first edition in 2016 Viva Technology gathered 45 000 attendees in Paris and appears as being one of the top five worldwide tech event.;CEO;11;2015;7;2016;['Information Technology', 'and Services'];11;50;1;0;0
+154;30;;make.org;;Founder;4;2016;0;0;['Information Technology', 'and Services'];11;50;0;0;1
+155;31;;ministry of economy, industry and employement;Christine Lagarde's office : in charge of Industry & Employement policies + State owned companies;Minister' special advisor;7;2007;8;2009;['nan'];999;999;0;0;0
+156;31;;sustain-able;"- Leading SME towards sustainability to generate shared value along the supply chain.
 - Strategy & Sustainability consulting
 - Optimizing Blue Chip companies' supply chain through sustainability";CEO;6;2012;12;2020;['nan'];999;999;1;0;0
-157;157;31;;carrefour;Public Affairs, sustainability, Corporate social responsiility, comex coordination...;Group General Secretary - member of Executive Committee;0;2009;6;2012;['nan'];999;999;0;0;0
-158;158;31;Noisiel, Île-de-France, France;nestlé france;;Directeur Général Communication, RSE, Public Affairs;1;2017;0;0;['nan'];999;999;1;0;0
-159;159;31;Paris Metropolitan Region;GOV la meteo de lopinion;"- Digital & Strategic consulting for public and private sectors, identification and anticipation on public opinion ""weak"" signals.
+157;31;;carrefour;Public Affairs, sustainability, Corporate social responsiility, comex coordination...;Group General Secretary - member of Executive Committee;0;2009;6;2012;['nan'];999;999;0;0;0
+158;31;Noisiel, Île-de-France, France;nestlé france;;Directeur Général Communication, RSE, Public Affairs;1;2017;0;0;['nan'];999;999;1;0;0
+159;31;Paris Metropolitan Region;GOV la meteo de lopinion;"- Digital & Strategic consulting for public and private sectors, identification and anticipation on public opinion ""weak"" signals.
 - Smartphones' application to rate politicians and generate your own polls
 - Real time public opinion surveys
 
@@ -530,22 +530,22 @@ App Store:
 https://itunes.apple.com/fr/app/gov/id732854392?mt=8
 Android:
 https://play.google.com/store/apps/details?id=fr.decam.gov.android";Co-founder & CEO;0;2013;6;2018;['nan'];999;999;1;0;1
-160;160;32;Marseille Metropolitan Region;avec nous - la fabrique des quartiers populaires;"Avec Nous porte plusieurs tiers-lieux dans les 13e et 14e arrondissement de Marseille au service de deux objectifs principaux : d'une part, valoriser l’expertise d’usage et le savoir-faire des habitants des quartiers populaires ; et d'autre part, développer des actions d’éducation populaire et d’économie solidaire. Administrée par un collectif d'habitant, Avec Nous lutte contre les mentalités coloniales dans les quartiers populaires notamment à travers sa volonté forte de cesser ""d'accompagner"" les habitants mais en faisant le choix de les outiller.";Délégué général adjoint;6;2020;3;2021;['Civic', 'Social Organization'];2;10;0;0;0
-161;161;32;Santiago du Chili;fondacio chili;"Programme ""Un Hogar Mas Digno"" : projet d'insertion par la rénovation d'habitats dans les quartiers nord de Santiago du Chili. Mon rôle : faire le lien entre la recherche de fonds, les architectes, les ingénieurs, les assistants sociaux, les municipalités, les bénévoles afin de mettre ce réseau au service des bénéficiaires. Impact : entre 15 et 20 foyers par an.";Assistant chef de projet;9;2017;7;2018;['Civic', 'Social Organization'];2;10;0;0;0
-162;162;32;Tunisia;oxfam novib;"• Construction, suivi, évaluation et clôture de projets.
+160;32;Marseille Metropolitan Region;avec nous - la fabrique des quartiers populaires;"Avec Nous porte plusieurs tiers-lieux dans les 13e et 14e arrondissement de Marseille au service de deux objectifs principaux : d'une part, valoriser l’expertise d’usage et le savoir-faire des habitants des quartiers populaires ; et d'autre part, développer des actions d’éducation populaire et d’économie solidaire. Administrée par un collectif d'habitant, Avec Nous lutte contre les mentalités coloniales dans les quartiers populaires notamment à travers sa volonté forte de cesser ""d'accompagner"" les habitants mais en faisant le choix de les outiller.";Délégué général adjoint;6;2020;3;2021;['Civic', 'Social Organization'];2;10;0;0;0
+161;32;Santiago du Chili;fondacio chili;"Programme ""Un Hogar Mas Digno"" : projet d'insertion par la rénovation d'habitats dans les quartiers nord de Santiago du Chili. Mon rôle : faire le lien entre la recherche de fonds, les architectes, les ingénieurs, les assistants sociaux, les municipalités, les bénévoles afin de mettre ce réseau au service des bénéficiaires. Impact : entre 15 et 20 foyers par an.";Assistant chef de projet;9;2017;7;2018;['Civic', 'Social Organization'];2;10;0;0;0
+162;32;Tunisia;oxfam novib;"• Construction, suivi, évaluation et clôture de projets.
 • Consultation régionale (Maroc - Algérie -Tunisie ) de la société civile pour repenser le programme ""Migration"" d'Oxfam
 • Surveillance du dossier Libye et prise de contact avec les membres de la société civile basés à Tunis et travaillant en Libye.
 • Participation au Colloque ""Développement et migration"" organisé par Fayçal DCHICHA ( Coordinateur régional du PASC & Président de l'ADDCI-Zarzis)";Stage au sein du Bureau Tunis d'Oxfam;7;2016;8;2016;['Civic', 'Social Organization'];2;10;0;0;0
-163;163;32;;analog sport;"Analog Sport est le premier projet socio-sportif œuvrant à l'intégration et à l'éducation des jeunes de QPV par la photographie argentique et sportive. Le projet basé à Marseille, Paris et Rio est soutenu par Kodak, Nation Photo, Lomography, Aix-Marseille Provence Métropole, Paris 2024, la Ville de Paris, le ministère de la Justice.
+163;32;;analog sport;"Analog Sport est le premier projet socio-sportif œuvrant à l'intégration et à l'éducation des jeunes de QPV par la photographie argentique et sportive. Le projet basé à Marseille, Paris et Rio est soutenu par Kodak, Nation Photo, Lomography, Aix-Marseille Provence Métropole, Paris 2024, la Ville de Paris, le ministère de la Justice.
 
 Ce projet faite suite au lancement du média @Analogfootball";Co-fondateur;2;2020;0;0;['Civic', 'Social Organization'];2;10;0;0;1
-164;164;32;Paris Metropolitan Region;open source politics;"Open Source Politics est l’un des leaders français du secteur de la ""CivicTech"". OSP a accompagné plus d’une soixantaine d'institutions et acteurs privés de premier plan dans leurs concertations numériques, grâce notamment à l'outil Decidim, la plateforme de participation citoyenne open source d’envergure internationale.";Consultant;0;2018;5;2020;['Civic', 'Social Organization'];2;10;0;1;0
-165;165;33;Paris Metropolitan Region;sepelco signalétique;;Co-fondateur, Gérant;5;1980;10;2010;['nan'];999;999;0;0;1
-166;166;33;Antananarivo (Madagascar);ministère des affaires étrangères et du développement international;;Enseignant;8;1975;12;1978;['nan'];999;999;0;0;0
-167;167;33;Paris Metropolitan Region;librairie résistances;;Gérant;9;2012;2;2020;['nan'];999;999;0;0;0
-168;168;33;Paris Metropolitan Region;open source politics;Solutions Civic Tech;Co-fondateur;5;2016;0;0;['nan'];999;999;0;0;1
-169;169;33;Paris Metropolitan Region;typical;;Co-fondateur, Gérant;1;1995;2;2020;['nan'];999;999;0;0;1
-170;170;34;Paris Metropolitan Region;VOXE;"Voxe est une start-up de l'économie sociale et solidaire qui créé des outils pour aider les jeunes à mieux comprendre la politique.
+164;32;Paris Metropolitan Region;open source politics;"Open Source Politics est l’un des leaders français du secteur de la ""CivicTech"". OSP a accompagné plus d’une soixantaine d'institutions et acteurs privés de premier plan dans leurs concertations numériques, grâce notamment à l'outil Decidim, la plateforme de participation citoyenne open source d’envergure internationale.";Consultant;0;2018;5;2020;['Civic', 'Social Organization'];2;10;0;1;0
+165;33;Paris Metropolitan Region;sepelco signalétique;;Co-fondateur, Gérant;5;1980;10;2010;['nan'];999;999;0;0;1
+166;33;Antananarivo (Madagascar);ministère des affaires étrangères et du développement international;;Enseignant;8;1975;12;1978;['nan'];999;999;0;0;0
+167;33;Paris Metropolitan Region;librairie résistances;;Gérant;9;2012;2;2020;['nan'];999;999;0;0;0
+168;33;Paris Metropolitan Region;open source politics;Solutions Civic Tech;Co-fondateur;5;2016;0;0;['nan'];999;999;0;0;1
+169;33;Paris Metropolitan Region;typical;;Co-fondateur, Gérant;1;1995;2;2020;['nan'];999;999;0;0;1
+170;34;Paris Metropolitan Region;VOXE;"Voxe est une start-up de l'économie sociale et solidaire qui créé des outils pour aider les jeunes à mieux comprendre la politique.
 
 - Pilotage stratégique et opérationnel de la Voxe Academy, le programme de formation de Voxe, qui propose des ateliers innovants d'éducation civique dans les lycées, universités, foyers de jeunes travailleurs et auprès du grand public (40 ateliers/an, 15 formats d'ateliers différents, un budget annuel de 50k€).
 - Conception et animation des programmes de formation.
@@ -555,28 +555,28 @@ Ce projet faite suite au lancement du média @Analogfootball";Co-fondateur;2;202
 - Conception et animation de Crafters, un programme de formation audacieux sur l'engagement en entreprise inspiré par les mobilisations citoyennes. Ce programme a notamment accueilli le CESE, Nespresso, Elior Group, EDF, la BNP...
 - Ancien membre du CA des Halles Civiques, ce tiers-lieu dédié aux innovations publiques et citoyennes.
 ";Responsable des Formations;4;2016;6;2018;['Performing Arts'];999;999;0;0;0
-171;171;34;Beyrouth, Liban;the lebanese center for energy conservation (lcec);"Pilotage d'une étude de conseil en politique publique sur les stratégies énergétiques des collectivités territoriales libanaises pour le LCEC, l'agence publique libanaise de promotion des énergies renouvelables.
+171;34;Beyrouth, Liban;the lebanese center for energy conservation (lcec);"Pilotage d'une étude de conseil en politique publique sur les stratégies énergétiques des collectivités territoriales libanaises pour le LCEC, l'agence publique libanaise de promotion des énergies renouvelables.
 - Collecte des données et élaboration du diagnostic sur le développement des énergies renouvelables dans le pays.
 - Conduite d'entretiens avec des experts, élus, fonctionnaires territoriaux et bailleurs internationaux.
 - Proposition de recommandations à la direction de l'agence pour une meilleure implication de l'échelle territoriale dans la stratégie de déploiement des énergies propres dans le pays.";Conseiller en politiques publiques;8;2014;12;2014;['Performing Arts'];999;999;0;1;0
-172;172;34;Paris Metropolitan Region;call for team;"Pilotage d'un projet de concertation citoyenne en Meurthe-et-Moselle pour revaloriser, avec les habitants, un monument historique laissé à l'abandon (le moulin de Villevaux).
+172;34;Paris Metropolitan Region;call for team;"Pilotage d'un projet de concertation citoyenne en Meurthe-et-Moselle pour revaloriser, avec les habitants, un monument historique laissé à l'abandon (le moulin de Villevaux).
 - Gestion des équipes, de la campagne de mobilisation et des relations avec les partenaires.
 - Conception et animation des ateliers de participation citoyenne.";Chef de projet en concertation citoyenne;11;2015;4;2016;['Performing Arts'];999;999;0;0;0
-173;173;34;Paris Metropolitan Region;la ligue d'improvisation de paris;"Membre actif de cette troupe historique de théâtre d'improvisation qui compte 65 membres, une formation d'acteurs exigeante et 40+ spectacles/an.
+173;34;Paris Metropolitan Region;la ligue d'improvisation de paris;"Membre actif de cette troupe historique de théâtre d'improvisation qui compte 65 membres, une formation d'acteurs exigeante et 40+ spectacles/an.
 - Ancien Président de l'association (2017-18), à la tête d'une équipe bénévole de 8 personnes et d'un budget annuel de 35k€.
 - Organisation de la tournée estivale 2015 et du spectacle de la troupe au Palais des Glaces pour les 20 ans de l'association (500 spectateurs).";Comédien improvisateur;9;2013;0;0;['Performing Arts'];999;999;0;0;0
-174;174;34;Paris Metropolitan Region;la cour des contes;"Notre troupe s'est donné une mission : sortir les contes des placards de l'enfance pou ré-enchanter sa génération.
+174;34;Paris Metropolitan Region;la cour des contes;"Notre troupe s'est donné une mission : sortir les contes des placards de l'enfance pou ré-enchanter sa génération.
 Ainsi, nous racontons nos histoires à la Grande Mosquée de Paris, au Musée d'Orsay, dans les théâtres, les festivals, sur les toits du Panthéon et aussi chez notre homonyme, la Cour des Comptes (l'autre).
 
 - Un collectif de 7 passionné.e.s proposant 4 à 5 créations par an, + de 250 spectacles depuis 5 ans, un public fidèle (3900 fans FB).
 - Développement et animation d'un programme de formation aux arts de la parole, le Cours des Contes, qui propose des ateliers et stages autour de l'écriture d'histoires, de la prise de parole en public et du pitch.
 - Co-gestion de la dimension entrepreneuriale du développement de la troupe : stratégie, partenariats, développement commercial, communication...";Conteur;10;2015;0;0;['Performing Arts'];999;999;0;0;0
-175;175;35;;freelance;Enquêtes et préparation des reportages pour M6 et le groupe TF1 (Reportages et 90'Enquêtes);Journaliste enquêtrice;12;2015;7;2016;['Internet'];201;500;0;0;0
-176;176;35;;malt;;Senior Communication Manager France;1;2023;0;0;['Internet'];201;500;0;0;0
-177;177;35;;institut de l'entreprise;"Stratégie d'influence, production de contenus, community management , suivi des KPI
+175;35;;freelance;Enquêtes et préparation des reportages pour M6 et le groupe TF1 (Reportages et 90'Enquêtes);Journaliste enquêtrice;12;2015;7;2016;['Internet'];201;500;0;0;0
+176;35;;malt;;Senior Communication Manager France;1;2023;0;0;['Internet'];201;500;0;0;0
+177;35;;institut de l'entreprise;"Stratégie d'influence, production de contenus, community management , suivi des KPI
 Veille sectorielle des sujets économiques et sociaux traités par l'Institut
 Organisation d'un TedX, en partenariat avec Le Figaro";Responsable de la communication digitale;9;2016;12;2016;['Internet'];201;500;0;0;0
-178;178;35;;bluenove;"bluenove est une société de technologie et de conseil, pionnière en Intelligence collective massive.  
+178;35;;bluenove;"bluenove est une société de technologie et de conseil, pionnière en Intelligence collective massive.  
 
 Je suis responsable de toute la communication externe de bluenove :
 - Stratégie Social media
@@ -584,58 +584,58 @@ Je suis responsable de toute la communication externe de bluenove :
 - Evènements, notamment Bright Mirror, format original de design fiction
 - RP
 - Site web";Directrice de la communication;1;2018;12;2022;['Internet'];201;500;1;0;0
-179;179;35;Paris Metropolitan Region;toguna;"Toguna édite des applications mobiles permettant d'écrire l'histoire collective des entreprises.
+179;35;Paris Metropolitan Region;toguna;"Toguna édite des applications mobiles permettant d'écrire l'histoire collective des entreprises.
 
 Première employée de cette startup de la HR Tech, j'ai accompagné les fondateurs dans la création de leur identité de marque, la refonte du site internet et le pilotage de la stratégie de com/social media.
 Publication d'une série d'interviews sur Medium, témoignages clients en vidéo, mise en place d'une newsletter mensuelle et des Toguna breakfast.";Communication Manager;3;2017;10;2017;['Internet'];201;500;0;0;0
-180;180;36;Paris Metropolitan Region;l'obs;"- Rédactrice Supplément « Paris Obs » (actualité de Paris et de l’Ile-de-France : politique locale, justice, faits divers, environnement…)
+180;36;Paris Metropolitan Region;l'obs;"- Rédactrice Supplément « Paris Obs » (actualité de Paris et de l’Ile-de-France : politique locale, justice, faits divers, environnement…)
 - Rédactrice Rubrique « Air du Temps » (mode, tendances de société et de consommation)
 ";Journaliste - Rédactrice ;7;2000;5;2011;['Information Technology', 'and Services'];11;50;0;0;0
-181;181;36;Paris Metropolitan Region;l'express;"- Édition des contenus numériques de l'application de L'Express, hiérarchisation de la homepage 
+181;36;Paris Metropolitan Region;l'express;"- Édition des contenus numériques de l'application de L'Express, hiérarchisation de la homepage 
 - Coordination des pages ""Semaine Express"" du magazine et de leurs déclinaisons numériques";Rédactrice en chef adjointe - Edition numérique;3;2017;12;2018;['Information Technology', 'and Services'];11;50;0;0;0
-182;182;36;;make.org;;Journaliste - Directrice éditoriale;1;2019;0;0;['Information Technology', 'and Services'];11;50;1;0;0
-183;183;36;;l'obs;"- Responsable de la publication de ""L'Obs du Soir""
+182;36;;make.org;;Journaliste - Directrice éditoriale;1;2019;0;0;['Information Technology', 'and Services'];11;50;1;0;0
+183;36;;l'obs;"- Responsable de la publication de ""L'Obs du Soir""
 - Coordination de l'équipe d'éditeurs web
 - Édition des contenus numériques
 - Réédition numérique des articles du magazine (adaptation pour le web, enrichissement, planification de publication, arbitrages gratuit/payant)
 - Mise en place du circuit de copie print-web
 - Mise en oeuvre du rapprochement des rédactions";Journaliste - Chef d'édition numérique;5;2011;3;2017;['Information Technology', 'and Services'];11;50;0;0;0
-184;184;36;;;;;0;0;0;0;['Information Technology', 'and Services'];11;50;0;0;0
-185;185;37;Paris Metropolitan Region;open source politics;"- Implement and monitor short/medium/long term objectives
+184;36;;;;;0;0;0;0;['Information Technology', 'and Services'];11;50;0;0;0
+185;37;Paris Metropolitan Region;open source politics;"- Implement and monitor short/medium/long term objectives
 - Ensure the operational follow-up of projects 
 - Project lead with complex clients
 - Management
 - Identify, analyze and solve day-to-day problems
 - Improve and strengthen processes within the team";Chief Operating Officer;1;2023;0;0;['Computer Software'];2;10;0;0;0
-186;186;37;Barcelone, Catalogne, Espagne;decidim;"- Administration and representation of the Decidim Association
+186;37;Barcelone, Catalogne, Espagne;decidim;"- Administration and representation of the Decidim Association
 - Community animation 
 - Coordination of the work carried out by the various thematic committees
 - Organization of the General Assemblies";Coordination committee;1;2023;0;0;['Computer Software'];2;10;1;0;0
-187;187;37;Paris Metropolitan Region;si politique !;"Creation of a political science association with the aim of organising various scientific events to promote research and academic work in political science beyond the academic world. 
+187;37;Paris Metropolitan Region;si politique !;"Creation of a political science association with the aim of organising various scientific events to promote research and academic work in political science beyond the academic world. 
 
 - Legal deposit, search for funding
 - Participation in the animation of the association's social networks";Co-Founder;1;2019;0;0;['Computer Software'];2;10;0;0;1
-188;188;37;Paris Metropolitan Region;open source politics;"- Project lead with complex clients
+188;37;Paris Metropolitan Region;open source politics;"- Project lead with complex clients
 - Management
 - Identify, analyze and solve day-to-day problems
 - Improve and strengthen processes within the team
 - Helping to manage the activity of the delivery team";Assistant Operations Manager;7;2022;1;2023;['Computer Software'];2;10;0;0;0
-189;189;37;Paris Metropolitan Region;open source politics;"- Project lead with intermediary clients
+189;37;Paris Metropolitan Region;open source politics;"- Project lead with intermediary clients
 - Active contribution to improving the resources of the delivery and product team
 - Product vision and implementation 
 - Interface with the consulting team
 - Interface with the communication team";Product Manager;12;2019;10;2022;['Computer Software'];2;10;0;0;0
-190;190;38;Paris Metropolitan Region;STIG;"Stig.pro est une solution d'intelligence collective qui permet d’engager votre communauté en temps réel autour de thèmes que vous avez choisis.
+190;38;Paris Metropolitan Region;STIG;"Stig.pro est une solution d'intelligence collective qui permet d’engager votre communauté en temps réel autour de thèmes que vous avez choisis.
 
 Chaque participant sur l'application Stig.pro peut proposer des idées, voter et améliorer les idées des autres membres.
 
 L’algorithme de Stig.pro attribue une note à chaque idée selon son succès auprès des participants afin de dégager des tendances pour faciliter vos prises de décisions.
 
 Stig.pro fournit des rapports détaillés en temps réel sur les données générées par les participants, que vous pouvez partager en ligne ou exporter.";Co-fondateur et directeur associé;6;2017;2;2022;['Marketing and', 'Advertising'];11;50;1;0;1
-191;191;38;France;abcdeep;abc_deep_ est une agence spécialisée dans le conseil aux entreprises pour la mise en place de solutions blockchain et l'intégration des NFT dans leurs stratégies de développement et campagnes de communication.;CEO;11;2021;0;0;['Marketing and', 'Advertising'];11;50;1;0;0
-192;192;38;France;sasis*sport;;Associé;12;2022;0;0;['Marketing and', 'Advertising'];11;50;0;0;0
-193;193;38;Paris Metropolitan Region;scdg conseil des gouvernances;;Co-fondateur;9;2020;0;0;['Marketing and', 'Advertising'];11;50;0;0;1
-194;194;38;France;sloop;"SLOOP est une agence de solutions digitales, totalement décentralisée, qui offre à ses clients locaux et nationaux, un accompagnement global, de la stratégie à la création, du contenu au développement, du référencement à la maintenance. 
+191;38;France;abcdeep;abc_deep_ est une agence spécialisée dans le conseil aux entreprises pour la mise en place de solutions blockchain et l'intégration des NFT dans leurs stratégies de développement et campagnes de communication.;CEO;11;2021;0;0;['Marketing and', 'Advertising'];11;50;1;0;0
+192;38;France;sasis*sport;;Associé;12;2022;0;0;['Marketing and', 'Advertising'];11;50;0;0;0
+193;38;Paris Metropolitan Region;scdg conseil des gouvernances;;Co-fondateur;9;2020;0;0;['Marketing and', 'Advertising'];11;50;0;0;1
+194;38;France;sloop;"SLOOP est une agence de solutions digitales, totalement décentralisée, qui offre à ses clients locaux et nationaux, un accompagnement global, de la stratégie à la création, du contenu au développement, du référencement à la maintenance. 
 
 L’agence travaille autour de trois axes principaux : 
 - le développement sur mesure d’applications web à haute valeur ajoutée.
@@ -643,24 +643,24 @@ L’agence travaille autour de trois axes principaux :
 - l'influence et la notoriété de ses clients.
 
 Elle développe également une gamme de produits sur étagère pour faciliter le développement commercial des PME et ETI partout en France.";CEO;9;2013;0;0;['Marketing and', 'Advertising'];11;50;1;0;0
-195;195;39;Berlin Metropolitan Region;civocracy;As an advisor, I support the leadership of Civocracy to navigate their most challenging questions: team growth, investment management, strategic developments;Advisor - advisory board;12;2019;0;0;['Civic', 'Social Organization'];11;50;0;0;0
-196;196;39;Berlin Metropolitan Region;impact hub berlin;"- co-responsible of overwhelming Slack by running & coordinating the worldwide biggest hackathon on COVID-Challenge Solutions #wirvsvirus in March 2020. Seven civil organisations rocked that boat. 
+195;39;Berlin Metropolitan Region;civocracy;As an advisor, I support the leadership of Civocracy to navigate their most challenging questions: team growth, investment management, strategic developments;Advisor - advisory board;12;2019;0;0;['Civic', 'Social Organization'];11;50;0;0;0
+196;39;Berlin Metropolitan Region;impact hub berlin;"- co-responsible of overwhelming Slack by running & coordinating the worldwide biggest hackathon on COVID-Challenge Solutions #wirvsvirus in March 2020. Seven civil organisations rocked that boat. 
 - leading impact innovation programmes on Circular Economy (Lab of Tomorrow 8 on Plastic Waste in Thailand with the GIZ), on Future of Education (with the Fullbright Commission & the Stifterverband für die deutsche Wissenschaft), on Impact Entrepreneurship 
 - coached several impact entrepreneurs, especially in the field of pricing & financing strategies
 - setting up the Impact Hub Berlin Impact investors community";Impact Innovation - Senior Project Manager;2;2019;2;2021;['Civic', 'Social Organization'];11;50;0;0;0
-197;197;39;Berlin Metropolitan Region;impact hub berlin;Impact Hub Berlin runs programmes to empower impact entrepreneurs in Germany & beyond: through new methodologies, accelerators, access to coaching, we want to make impact entrepreneurship the new normal. I had the incredible chance to play sparring partner with a team of 9 people, shape the future of our consultancy approach, manage a lot of high-impact projects, and have fun on the job.;Head Of Consultancy;2;2021;2;2022;['Civic', 'Social Organization'];11;50;1;0;0
-198;198;39;Berlin Metropolitan Region;#wirvsvirus hackathon;A chance of a livetime to be part of the amazing organisation team of the https://wirvsvirushackathon.org/ - we are not stopping now! 25 000 participants, 1500 ideas, 130 projects selected for the solution enabler and an average of 8500+ messages per day on a huge and fantastic Slack community :) ;Organisation Team - Community Management ;3;2020;8;2020;['Civic', 'Social Organization'];11;50;0;0;0
-199;199;39;Berlin Metropolitan Region;impact hub berlin;"To infinity & beyond! Impact Hub Berlin, with amazing partners, is opening  a space where you can connect with other innovators, attend inspiring events and access the resources needed to grow your impact. With 25 team offices, maker spaces, a café and rooftop greenhouse, it will be Europe’s largest Impact Hub to date.   
+197;39;Berlin Metropolitan Region;impact hub berlin;Impact Hub Berlin runs programmes to empower impact entrepreneurs in Germany & beyond: through new methodologies, accelerators, access to coaching, we want to make impact entrepreneurship the new normal. I had the incredible chance to play sparring partner with a team of 9 people, shape the future of our consultancy approach, manage a lot of high-impact projects, and have fun on the job.;Head Of Consultancy;2;2021;2;2022;['Civic', 'Social Organization'];11;50;1;0;0
+198;39;Berlin Metropolitan Region;#wirvsvirus hackathon;A chance of a livetime to be part of the amazing organisation team of the https://wirvsvirushackathon.org/ - we are not stopping now! 25 000 participants, 1500 ideas, 130 projects selected for the solution enabler and an average of 8500+ messages per day on a huge and fantastic Slack community :) ;Organisation Team - Community Management ;3;2020;8;2020;['Civic', 'Social Organization'];11;50;0;0;0
+199;39;Berlin Metropolitan Region;impact hub berlin;"To infinity & beyond! Impact Hub Berlin, with amazing partners, is opening  a space where you can connect with other innovators, attend inspiring events and access the resources needed to grow your impact. With 25 team offices, maker spaces, a café and rooftop greenhouse, it will be Europe’s largest Impact Hub to date.   
 We’ve also sharpened our thematic focus in line with this next big step. From this year on, we’re focussing on supporting innovation and entrepreneurship in four key ecosystems: diversity and inclusion, sustainable food, green technology, and the circular economy. Each of these impact ecosystems comprises events, publications, innovation programmes, and – of course – our local and global community of changemakers. 
 My role is to help make those things happen & run smooth :)";Director Of Operations;2;2022;0;0;['Civic', 'Social Organization'];11;50;1;0;0
-200;200;40;Paris Metropolitan Region;democracyos france;"Democracy OS is an open source online consultation platform that aims to facilitate debate and consensus-building around proposals, leading to transparent collective decisions. It was founded in Argentina by Santiago Siri and Pia Mancini.
+200;40;Paris Metropolitan Region;democracyos france;"Democracy OS is an open source online consultation platform that aims to facilitate debate and consensus-building around proposals, leading to transparent collective decisions. It was founded in Argentina by Santiago Siri and Pia Mancini.
 - Launch of the French chapter;
 - Recruited the founding team;
 - Conducted a series of product improvements;
 - Implemented several pilots at the local (Nanterre, Paris), national (on controversial legislation) and international level (COP21);
 - Appearances in the medias and at conferences;
 - Partnerships (Open Law, Code for France).";Founder and president;4;2015;5;2016;['Computer Software'];2;10;1;0;1
-201;201;40;Paris Metropolitan Region;open source politics;"A B2G startup providing the public sector with digital platforms for citizen participation | 🏅 1M users, 150 clients (French National Assembly, NYC, EU), 1,5M€ annual earning (50% recurring)
+201;40;Paris Metropolitan Region;open source politics;"A B2G startup providing the public sector with digital platforms for citizen participation | 🏅 1M users, 150 clients (French National Assembly, NYC, EU), 1,5M€ annual earning (50% recurring)
 
 As a CPO, I:
 - Achieved product-market fit by developing a SaaS offer based on the Decidim open source software
@@ -676,54 +676,54 @@ As a co-founder I:
 - Spoke at global conferences (Paris, Lyon, Taipei, Madrid, Barcelona) and gave interviews to major media outlets (Le Monde, Arte, RFI)
 - Championed open source & data for digital democracy in public sector, contributing to industry standards (resulting in competitors adopting open source).
 - Recruited talent and structured the teams responsible for tech, communication, sales, data";Co-founder and CPO;5;2016;7;2022;['Computer Software'];2;10;1;0;1
-202;202;40;Earth;the democracy earth foundation;"Y Combinator backed NGO researching blockchain use cases in digital democracy (Liquid democracy, quadratic voting), decentralized identity and universal basic income (proofofhumanity.org/)
+202;40;Earth;the democracy earth foundation;"Y Combinator backed NGO researching blockchain use cases in digital democracy (Liquid democracy, quadratic voting), decentralized identity and universal basic income (proofofhumanity.org/)
 - Organized community (10K members) contributions (Documentation, Triage of Github issues, Hackathons organization) ;
 - Implementation of a design system; 
 - White paper contributions (infographics);  
 - Participation in one week innovation bootcamps (Mexico: secure blockchain voting prototype, Spain: serious game to educate around liquid democracy);
 - Ran pilots in Colombia (Peace Referendum) and in Hong Kong (Popular referendum on Chief Executive Election Civil Referendum).";Product and Communities;3;2016;5;2019;['Computer Software'];2;10;0;0;0
-203;203;40;Paris Metropolitan Region;sciences po;"- Taught “Democratic Innovations, an introduction to participatory democracy and civic tech”
+203;40;Paris Metropolitan Region;sciences po;"- Taught “Democratic Innovations, an introduction to participatory democracy and civic tech”
 - 12 sessions, directed at ""Digital, New Technology and Public Policy"" masters students.";University lecturer;1;2021;6;2022;['Computer Software'];2;10;0;0;0
-204;204;40;Paris Metropolitan Region;groupe m6;"Within the M6 Web business unit in charge of the production of original content for Youtube | Cumulative metrics: 1.5M subscribers, 256M views 
+204;40;Paris Metropolitan Region;groupe m6;"Within the M6 Web business unit in charge of the production of original content for Youtube | Cumulative metrics: 1.5M subscribers, 256M views 
 - Best practices benchmark for a portfolio of channels on different themes; 
 - Daily use of web analytics tools (Google and Youtube Analytics, VidIQ); 
 - Weekly and monthly reporting tools; 
 - Strategic recommendations (editorial, sectoral) and implementation of optimizations (SEO).";Data analyst;8;2014;9;2015;['Computer Software'];2;10;0;0;0
-205;205;41;;avaaz.org;"- Drafting compelling campaign materials and executing campaign plans.
+205;41;;avaaz.org;"- Drafting compelling campaign materials and executing campaign plans.
 - Consulting with experts and partners to develop strategies and advocacy work strategy, policy, and message.
 - Conducting high-level advocacy and relationship building with government, media and civil society in France and Europe
 ";Global Campaigner;7;2009;2;2012;['Civic', 'Social Organization'];51;200;0;0;0
-206;206;41;Paris Metropolitan Region;change.org;"- Team leader: managing 7 persons and providing clarity and focus around team’s strategy and objectives
+206;41;Paris Metropolitan Region;change.org;"- Team leader: managing 7 persons and providing clarity and focus around team’s strategy and objectives
 - Representing Change.org in France externally and developing high level contacts in politics, business, PR agencies, the media and civil society 
 - Speaker and trainer on people power campaigning and digital democracy
 - Supporting global expansion: as a senior member of the international team, involved in cross-country and cross-functional strategic projects (Revenue, Product, Campaigns, Partnerships)";Country Director, France;12;2014;4;2018;['Civic', 'Social Organization'];51;200;1;0;0
-207;207;41;Paris Metropolitan Region;the one campaign;"- leading a global team of campaigners developing and managing global and national campaigns with ONE’s offices around the world
+207;41;Paris Metropolitan Region;the one campaign;"- leading a global team of campaigners developing and managing global and national campaigns with ONE’s offices around the world
 - coordinating the development of campaign strategy and tactics
 - overseeing the production and quality control of campaign plans and contents
 - managing larget budgets and strategic partnerships
 - developing member acquisition and retention strategies";Global Campaigns Director;4;2018;0;0;['Civic', 'Social Organization'];51;200;1;0;0
-208;208;41;;change.org;"- First staffer in France, launch of the Change.org site in French, team recruitment, networking with stakeholders
+208;41;;change.org;"- First staffer in France, launch of the Change.org site in French, team recruitment, networking with stakeholders
 - Support to platform users (citizens, non-profit) in their campaigns to gather support and influence French decision-makers (government, corporate) on most popular causes in France (education, environment, social justice, human rights, animals)
 - Development of creative online/offline campaign tactics and innovative PR/communications activities as part of our empowerment tools and resources for users 
 ";Campaigns Director, France;3;2012;12;2014;['Civic', 'Social Organization'];51;200;1;0;0
-209;209;41;Île-de-France, France;the one campaign;"- leading a global team of campaigners to develop, manage and execute ONE's campaigns
+209;41;Île-de-France, France;the one campaign;"- leading a global team of campaigners to develop, manage and execute ONE's campaigns
 - coordinating campaign community of practice and excellence through the use of ONE's campaign accelerator and supporter engagement strategy
 - collaborating with ONE’s offices around the world to help innovate and improve ONE’s campaigning efforts
 - overseeing the production, quality control and evaluation of campaign plans and content
 - increasing thought leadership on campaigning within and outside ONE";Senior Director, Global Campaigns;7;2021;0;0;['Civic', 'Social Organization'];51;200;1;0;0
-210;210;42;Paris Metropolitan Region;twenga;Twenga is the shopping search engine with the largest selection on the web;Project manager & User experience designer;7;2010;9;2011;['Computer Software'];2;10;0;0;0
-211;211;42;Paris Metropolitan Region;imaginatio;Legal word processing software;Head of user experience;9;2011;6;2013;['Computer Software'];2;10;1;0;0
-212;212;42;Paris Metropolitan Region;stootie;Request for work and home services in real time and near you;Product designer;2;2012;6;2013;['Computer Software'];2;10;0;0;0
-213;213;42;Paris Metropolitan Region;billy;Platform for automatic transmission of invoices between the various finance contacts. It eliminates manual tasks and inappropriate technologies such as email and PDF by connecting all financial management tools to enable reliable, automated and up-to-date invoice transmission.;Co-founder & General Manager;4;2022;0;0;['Computer Software'];2;10;1;0;1
-214;214;42;Paris Metropolitan Region;cap collectif;Civic start-up expert in collective intelligence that provides turnkey participatory platforms to public and private decision makers;Co-founder & CPO;10;2013;3;2020;['Computer Software'];2;10;1;0;1
-215;215;43;Brussels Metropolitan Region;fluicity;"Fluicity is one of the leading Civic Tech in Europe.
+210;42;Paris Metropolitan Region;twenga;Twenga is the shopping search engine with the largest selection on the web;Project manager & User experience designer;7;2010;9;2011;['Computer Software'];2;10;0;0;0
+211;42;Paris Metropolitan Region;imaginatio;Legal word processing software;Head of user experience;9;2011;6;2013;['Computer Software'];2;10;1;0;0
+212;42;Paris Metropolitan Region;stootie;Request for work and home services in real time and near you;Product designer;2;2012;6;2013;['Computer Software'];2;10;0;0;0
+213;42;Paris Metropolitan Region;billy;Platform for automatic transmission of invoices between the various finance contacts. It eliminates manual tasks and inappropriate technologies such as email and PDF by connecting all financial management tools to enable reliable, automated and up-to-date invoice transmission.;Co-founder & General Manager;4;2022;0;0;['Computer Software'];2;10;1;0;1
+214;42;Paris Metropolitan Region;cap collectif;Civic start-up expert in collective intelligence that provides turnkey participatory platforms to public and private decision makers;Co-founder & CPO;10;2013;3;2020;['Computer Software'];2;10;1;0;1
+215;43;Brussels Metropolitan Region;fluicity;"Fluicity is one of the leading Civic Tech in Europe.
 We work with more than 50 local and regional governments and drive local and large scale consultations around key topics such Climate Change, European Elections.
 We are located in France and Belgium.";Co-founder & COO;10;2015;9;2020;['Information Technology', 'and Services'];2;10;1;0;1
-216;216;43;Geneva Area, Switzerland;lcf rothschild;;Analyst - Internship;10;2010;1;2011;['Information Technology', 'and Services'];2;10;0;0;0
-217;217;43;Luxembourg;european investment bank;"Legal consultant - in charge of finance contracts and transaction monitoring for the Belgian market; support on the UK market";Consultant - Secondment - Finance Operations Western Europe;10;2014;4;2015;['Information Technology', 'and Services'];2;10;0;1;0
-218;218;43;Brussels Metropolitan Region;loyens & loeff;"Front-line transaction management (including leading dedicated transaction teams); project structuring; project due diligence; in-depth research";Associate - Banking & Finance;5;2011;9;2015;['Information Technology', 'and Services'];2;10;0;0;0
-219;219;43;Brussels Metropolitan Region;fluicity;Fluicity is one of the leading Civic Tech companies in Europe. We work with more than 50 local and regional governments and conduct local and wide scale consultations on key issues such as climate change, European elections. Our offices are located in Paris and Brussels;Co-founder & Head of Sales;9;2020;0;0;['Information Technology', 'and Services'];2;10;1;0;1
-220;220;44;Paris Metropolitan Region;ing direct france;"Architecture, design and development of the new ING Direct France Web Mobile Application optimized for Windows Phone, Android, BlackBerry and iOS.
+216;43;Geneva Area, Switzerland;lcf rothschild;;Analyst - Internship;10;2010;1;2011;['Information Technology', 'and Services'];2;10;0;0;0
+217;43;Luxembourg;european investment bank;"Legal consultant - in charge of finance contracts and transaction monitoring for the Belgian market; support on the UK market";Consultant - Secondment - Finance Operations Western Europe;10;2014;4;2015;['Information Technology', 'and Services'];2;10;0;1;0
+218;43;Brussels Metropolitan Region;loyens & loeff;"Front-line transaction management (including leading dedicated transaction teams); project structuring; project due diligence; in-depth research";Associate - Banking & Finance;5;2011;9;2015;['Information Technology', 'and Services'];2;10;0;0;0
+219;43;Brussels Metropolitan Region;fluicity;Fluicity is one of the leading Civic Tech companies in Europe. We work with more than 50 local and regional governments and conduct local and wide scale consultations on key issues such as climate change, European elections. Our offices are located in Paris and Brussels;Co-founder & Head of Sales;9;2020;0;0;['Information Technology', 'and Services'];2;10;1;0;1
+220;44;Paris Metropolitan Region;ing direct france;"Architecture, design and development of the new ING Direct France Web Mobile Application optimized for Windows Phone, Android, BlackBerry and iOS.
 We were in charge of:
 - Application design
 - Build technical platform
@@ -737,10 +737,10 @@ We were in charge of:
 AngularJS / Multi-platforms / UX / UI / Yeoman / Grunt / NodeJS / Web Mobile / Agile / Bank / B2C
 
 https://m.ingdirect.fr";Web Expert & IT Consultant;4;2013;12;2013;['Information Technology', 'and Services'];2;10;0;1;0
-221;221;44;Paris Metropolitan Region;octo technology;"I worked since 2008 as an IT consultant for OCTO Technology, an IT consultancy company based in Paris, and I have been hired by various CAC40 companies. 
+221;44;Paris Metropolitan Region;octo technology;"I worked since 2008 as an IT consultant for OCTO Technology, an IT consultancy company based in Paris, and I have been hired by various CAC40 companies. 
 
 As an expert in web technologies, I was deeply involved in building web applications and helping my customers to improve their skill in building performant web applications and evangelizing development teams with agile practices (TDD, continuous integration, automated testing).";IT Consultant & Software Engineer;10;2008;2;2014;['Information Technology', 'and Services'];2;10;0;1;0
-222;222;44;Paris Metropolitan Region;fluicity;"Fluicity’s mission is to leverage technology and data segmentation to strengthen the relationship between local governments and their citizen and improve local decision making.
+222;44;Paris Metropolitan Region;fluicity;"Fluicity’s mission is to leverage technology and data segmentation to strengthen the relationship between local governments and their citizen and improve local decision making.
 
 We offer a fully integrated platform that combines mobile application communications tools (interactive news, smart surveys, multi media citizen suggestions, automatized messenger services) with a sophisticated dashboard presenting predictive, quantifiable and actionable data to local governments.
 
@@ -754,7 +754,7 @@ http://www.flui.city
 https://www.linkedin.com/company/fluicity
 https://www.facebook.com/fluicity
 https://twitter.com/Fluicities";Co-founder & CTO;4;2016;0;0;['Information Technology', 'and Services'];2;10;1;0;1
-223;223;44;Paris Metropolitan Region;meetic;"In charge of leading the front-end team that building the new web mobile application with AngularJS.
+223;44;Paris Metropolitan Region;meetic;"In charge of leading the front-end team that building the new web mobile application with AngularJS.
 
 Management & Hiring
 - Lead the front-end team (~ 10 people)
@@ -772,14 +772,14 @@ Technical Implementation
 
 
 AngularJS / UX / UI / Yeoman / Grunt / NodeJS / Web Mobile / Agile / Multi-platforms / Jenkins / TDD / IC / Continuous development / HTML5 / JavaScript / Bower / Feature flipping / CSS3 / Karma / Protractor / Mocha / Web Perf";Tech Lead Front-end;3;2014;10;2015;['Information Technology', 'and Services'];2;10;0;0;0
-224;224;44;;freelance;;Freelance Software Engineer;11;2015;8;2016;['Information Technology', 'and Services'];2;10;0;0;0
-225;225;45;Paris Metropolitan Region;alan;;Communication;4;2018;9;2019;['Higher Education'];2;10;0;0;0
-226;226;45;;kisskissbankbank & co;;API envangelist & head of partnerships;3;2017;4;2018;['Higher Education'];2;10;1;0;0
-227;227;45;Paris Metropolitan Region;VOXE;;Co Founder & journalist;2;2020;0;0;['Higher Education'];2;10;0;0;1
-228;228;45;Paris Metropolitan Region;las letras;;Fondatrice, plume, copywriter et ghostwriter;9;2019;0;0;['Higher Education'];2;10;0;0;1
-229;229;45;Paris Metropolitan Region;VOXE;I currently leads news at Voxe.org. My mission, is to help young female millennials to better understand current affairs and daily-life issues in order to enable them to speak up and have an impact on our society.;Co-fondatrice et rédactrice en chef de Voxe.org;5;2020;0;0;['Higher Education'];2;10;0;0;1
-230;230;46;;institut des politiques publiques;;Responsable Communication;8;2022;0;0;['Research'];11;50;0;0;0
-231;231;46;;conseil économique social et environnemental;;assistant du directeur de cabinet;11;2011;4;2012;['Research'];11;50;1;0;0
-232;232;46;;conseil économique social et environnemental;;Chef de cabinet du Président;4;2012;12;2015;['Research'];11;50;1;0;0
-233;233;46;;cap collectif;;Pôle Conseil;11;2016;8;2022;['Research'];11;50;0;0;0
-234;234;46;;médiateur de la république;;assistant du directeur de cabinet;2;2009;11;2010;['Research'];11;50;1;0;0
+224;44;;freelance;;Freelance Software Engineer;11;2015;8;2016;['Information Technology', 'and Services'];2;10;0;0;0
+225;45;Paris Metropolitan Region;alan;;Communication;4;2018;9;2019;['Higher Education'];2;10;0;0;0
+226;45;;kisskissbankbank & co;;API envangelist & head of partnerships;3;2017;4;2018;['Higher Education'];2;10;1;0;0
+227;45;Paris Metropolitan Region;VOXE;;Co Founder & journalist;2;2020;0;0;['Higher Education'];2;10;0;0;1
+228;45;Paris Metropolitan Region;las letras;;Fondatrice, plume, copywriter et ghostwriter;9;2019;0;0;['Higher Education'];2;10;0;0;1
+229;45;Paris Metropolitan Region;VOXE;I currently leads news at Voxe.org. My mission, is to help young female millennials to better understand current affairs and daily-life issues in order to enable them to speak up and have an impact on our society.;Co-fondatrice et rédactrice en chef de Voxe.org;5;2020;0;0;['Higher Education'];2;10;0;0;1
+230;46;;institut des politiques publiques;;Responsable Communication;8;2022;0;0;['Research'];11;50;0;0;0
+231;46;;conseil économique social et environnemental;;assistant du directeur de cabinet;11;2011;4;2012;['Research'];11;50;1;0;0
+232;46;;conseil économique social et environnemental;;Chef de cabinet du Président;4;2012;12;2015;['Research'];11;50;1;0;0
+233;46;;cap collectif;;Pôle Conseil;11;2016;8;2022;['Research'];11;50;0;0;0
+234;46;;médiateur de la république;;assistant du directeur de cabinet;2;2009;11;2010;['Research'];11;50;1;0;0
