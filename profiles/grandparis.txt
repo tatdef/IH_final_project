@@ -1,0 +1,131 @@
+Ablon-sur-Seine  
+Alfortville  
+Antony  
+Arcueil  
+Argenteuil  
+Asnières-sur-Seine  
+Athis-Mons  
+Aubervilliers  
+Aulnay-sous-Bois  
+Bagneux  
+Bagnolet  
+Bobigny  
+Bois-Colombes  
+Boissy-Saint-Léger  
+Bondy  
+Bonneuil-sur-Marne  
+Boulogne-Billancourt  
+Bourg-la-Reine  
+Bry-sur-Marne  
+Cachan  
+Champigny-sur-Marne  
+Charenton-le-Pont  
+Châtenay-Malabry  
+Châtillon  
+Chaville  
+Chennevières-sur-Marne  
+Chevilly-Larue  
+Choisy-le-Roi  
+Clamart  
+Clichy  
+Clichy-sous-Bois  
+Colombes  
+Coubron  
+Courbevoie  
+Créteil  
+Drancy  
+Dugny  
+Épinay-sur-Seine  
+Fontenay-aux-Roses  
+Fontenay-sous-Bois  
+Fresnes  
+Gagny  
+Garches  
+Gennevilliers  
+Gentilly  
+Gournay-sur-Marne  
+Issy-les-Moulineaux  
+Ivry-sur-Seine  
+Joinville-le-Pont  
+Juvisy-sur-Orge  
+L'Haÿ-les-Roses  
+L'Île-Saint-Denis  
+La Courneuve  
+La Garenne-Colombes  
+La Queue-en-Brie  
+Le Blanc-Mesnil  
+Le Bourget  
+Le Kremlin-Bicêtre  
+Le Perreux-sur-Marne  
+Le Plessis-Robinson  
+Le Plessis-Trévise  
+Le Pré-Saint-Gervais  
+Le Raincy  
+Les Lilas  
+Les Pavillons-sous-Bois  
+Levallois-Perret  
+Limeil-Brévannes  
+Livry-Gargan  
+Maisons-Alfort  
+Malakoff  
+Mandres-les-Roses  
+Marnes-la-Coquette  
+Marolles-en-Brie  
+Meudon  
+Montfermeil  
+Montreuil  
+Montrouge  
+Morangis  
+Nanterre  
+Neuilly-Plaisance  
+Neuilly-sur-Marne  
+Neuilly-sur-Seine  
+Nogent-sur-Marne  
+Noiseau  
+Noisy-le-Grand  
+Noisy-le-Sec  
+Orly  
+Ormesson-sur-Marne  
+Pantin  
+Paray-Vieille-Poste  
+Paris  
+Périgny  
+Pierrefitte-sur-Seine  
+Puteaux  
+Romainville  
+Rosny-sous-Bois  
+Rueil-Malmaison  
+Rungis  
+Saint-Cloud  
+Saint-Denis  
+Saint-Mandé  
+Saint-Maur-des-Fossés  
+Saint-Maurice  
+Saint-Ouen-sur-Seine  
+Santeny  
+Savigny-sur-Orge  
+Sceaux  
+Sevran  
+Sèvres  
+Stains  
+Sucy-en-Brie  
+Suresnes  
+Thiais  
+Tremblay-en-France  
+Valenton  
+Vanves  
+Vaucresson  
+Vaujours  
+Ville-d'Avray  
+Villecresnes  
+Villejuif  
+Villemomble  
+Villeneuve-la-Garenne  
+Villeneuve-le-Roi  
+Villeneuve-Saint-Georges  
+Villepinte  
+Villetaneuse  
+Villiers-sur-Marne  
+Vincennes  
+Viry-Châtillon  
+Vitry-sur-Seine  
