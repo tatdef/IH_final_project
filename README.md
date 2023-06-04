@@ -37,24 +37,26 @@ Bonus : improve the scraper to return the previous experience information
 * write initial queries
 * identify relationships and keys 
 * describe database
-* check with Andy for next steps 
-__________________________________________________________________________________________________________________
 * check data quality (missing, outliers, correlations, features)
 
-### Database refining - 0.5 days 
+### Database refining // data analysis 2 days - sunday june 4
 * Identify the list of organizations we want to focus us (partly done)
-* Streamline the process to collect linkedin pages for individuals and organizations 
-* civic tech list 
 * ERD with different tables
-
-THIS SHOULD BE DONE BY FRIDAY NIGHT
-__________________________________________________________________________________________________________________
-
-## Data analysis and visualization - 2 days 
 * Data cleaning for analysis : building categories, encoding... 
-* Initial visualization
-* Analyse (cor)relations and networks 
-* PCA/ MCA
+* Initial visualization tries in Python
+
+### Report writing - 0.5 days 
+
+## Data analysis and visualization - 0.5 days 
+* Produce better visualisations with Python
+* Get a couple visualisations from Tableau (geographical data )
+
+## Improvements - 0.5 days  
+* check github gitignore function to be able to open the repo
+* add collected jsons and htmls 
+* Streamline the process to collect linkedin pages for individuals and organizations 
+* automate collection of information for companies/ NGOs
+* civic tech list 
 
 BY JUNE 5 
 Planning of your project in Trello/Jira,
@@ -62,22 +64,21 @@ Code in Python for data collection and cleaning,
 ER model,
 data sources and metadata,
 database script,
-report (10 pages)
-slides.
+report (10 pages).
 
-## Datavisualization - 1 day 
+## Datavisualization - 1 day - tuesday 
 * People and organizations (Tableau)
 * Careers *optional*
 * Networks *optional*
 * PCA/ state of the field *optional*
+* Analyse (cor)relations and networks 
 
-
-## Data modeling - 1 day 
+## Data modeling - 1 day - wednesday 
 * defining X and Y 
 * model research, selection/ testing and evaluation 
 * prediction fine tuning 
 
-## Presentation - 1 day 
+## Presentation - 1 day - thursday 
 * preparing slides 
 * beautifying code and github repo
 
