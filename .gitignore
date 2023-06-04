@@ -1,9 +1,11 @@
 # Project specific folders and data 
 profiles/jsons
+profiles/jsons2
 profiles/skills 
 profiles/prosopo_url
 profiles/names.csv
 organizations/htmls
+organizations/htmls2
 scraping_coco
 
 # Byte-compiled / optimized / DLL files
