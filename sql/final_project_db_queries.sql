@@ -52,53 +52,98 @@ date: startDate_year
 
 ## FINAL QUERIES 
 
-# 1 - COMBINING COMPANY INFORMATION WITH COMPANY FINANCIAL INFORMATION 
+# 1 - IDENTIFYING ACTIVITY SECTORS 
+SELECT activite, count(activite) FROM companies_info
+GROUP BY activite 
+ORDER BY count(activite) DESC
+LIMIT 10;
+
+# 2 - HOW MANY EMPLOYEES DO COMPANIES HAVE  
+SELECT 
+	CASE WHEN effectif LIKE '%0 salarié%' then "0"
+		 WHEN effectif LIKE '%Au moins 1 salarié%' 
+			OR effectif LIKE '%Entre 1 et 2%' 
+			OR effectif LIKE '%Entre 3 et 5%' then "1 to 5"
+         WHEN effectif LIKE '%Entre 6 et 9%' then "6 to 9"
+         WHEN effectif LIKE '%Entre 10 et 19%' then "10 to 19"
+		 ELSE "20 or more"
+	END AS Number_employees, count(effectif) as count
+FROM companies_info
+GROUP BY Number_employees 
+ORDER BY count(effectif) DESC;
+
+
+# 3 - COMBINING COMPANY INFORMATION WITH COMPANY FINANCIAL INFORMATION 
 WITH CA_compile AS (
-SELECT company, avg(chiffre_daffaires_e) AS chiffre_affaires_moyen, avg(salaires_et_charges_sociales_e) as couts_salariaux_moyens
-from companies_finance
+SELECT  company, 
+		avg(chiffre_daffaires_e) AS chiffre_affaires_moyen, 
+        avg(salaires_et_charges_sociales_e) as couts_salariaux_moyens
+FROM companies_finance
 GROUP BY company)
-SELECT 	ci.companyname, ci.creation, ci.inscription_rcs, ci.date_inscr_rad, ci.greffe AS ville, 
-        ci.activite, ci.effectif, cc.chiffre_affaires_moyen,cc.couts_salariaux_moyens
+SELECT 	ci.companyname, ci.creation, ci.inscription_rcs as RCS, ci.city AS ville, 
+        ci.activite, cc.chiffre_affaires_moyen as CA_moyen, cc.couts_salariaux_moyens,
+		CASE WHEN ci.effectif LIKE '%0 salarié%' then "0"
+		 WHEN ci.effectif LIKE '%Au moins 1 salarié%' 
+			OR ci.effectif LIKE '%Entre 1 et 2%' 
+            OR ci.effectif LIKE '%Entre 3 et 5%' then "1 to 5"
+         WHEN ci.effectif LIKE '%Entre 6 et 9%' then "6 to 9"
+         WHEN ci.effectif LIKE '%Entre 10 et 19%' then "10 to 19"
+		 ELSE "20 or more"
+         END AS effectif
 FROM companies_info ci
-LEFT JOIN CA_compile cc ON ci.companyname = cc.company;
+LEFT JOIN CA_compile cc ON ci.companyname = cc.company
+ORDER BY cc.chiffre_affaires_moyen DESC;
 
-# 2 -  REVIEW EDUCATION TABLE TO PRODUCE NEW CATEGORIES 
-SELECT count(fieldOfStudy) as count,
-	CASE WHEN degreeName LIKE '%Master%' OR degreeName LIKE '%Bac + 5%' OR degreeName LIKE '%MBA%' then "Bac+5"
-		 WHEN degreeName LIKE '%Licence%' OR degreeName LIKE '%Bachelor%'  then "Bac+3"
-         WHEN degreeName LIKE '%Baccalauréat%' OR degreeName LIKE '%BAC%'  then "Bac"
-         ELSE "Other"
-	END AS degree_type,
-		CASE WHEN schoolName LIKE '%Sciences Po%' OR schoolName LIKE '%IEP%' or schoolName LIKE "%Institut d'Etudes Politiques%" then "IEP"
-			 WHEN schoolName LIKE '%Universi%' OR schoolName LIKE '%College%' then "Université"
-             WHEN schoolName LIKE '%School%' OR schoolName LIKE '%ESCP%' OR schoolName LIKE '%CELSA%' OR schoolName LIKE '%school%' OR schoolName LIKE '%HEC%' OR schoolName LIKE '%ESSEC%' OR schoolName LIKE '%Management%' OR schoolName LIKE '%INSEAD%' then "Business school"
-             WHEN schoolName LIKE '%journalism%' OR schoolName LIKE '%IFP%'  OR schoolName LIKE '%ESJ%' OR schoolName LIKE '%CFJ%' then "Journalisme"
-             WHEN schoolName LIKE '%Lycée%' OR schoolName LIKE '%Collège%' OR schoolName LIKE '%Prépa%'  then "Lycée ou CPGE"
-             WHEN schoolName LIKE '%EPITECH%' OR schoolName LIKE '%ENSSAT%' OR schoolName LIKE '%Télécom%' OR schoolName LIKE '%Polytech%' OR schoolName LIKE '%Mines%' then "Ecole d'ingénieur"
+# 4 -  REVIEW EDUCATION TABLE TO PRODUCE NEW CATEGORIES 
+SELECT 
+		CASE WHEN schoolName LIKE '%Sciences Po%' OR schoolName LIKE '%IEP%' 
+                OR schoolName LIKE "%Institut d'Etudes Politiques%" 
+                then "IEP"
+			 WHEN schoolName LIKE '%Universi%' OR schoolName LIKE '%College%' 
+                then "Université"
+             WHEN schoolName LIKE '%School%' OR schoolName LIKE '%ESCP%' OR schoolName LIKE '%CELSA%' 
+                OR schoolName LIKE '%school%' OR schoolName LIKE '%HEC%' OR schoolName LIKE '%ESSEC%' 
+                OR schoolName LIKE '%Management%' OR schoolName LIKE '%INSEAD%' 
+                then "Business school"
+             WHEN schoolName LIKE '%journalism%' OR schoolName LIKE '%IFP%' 
+				OR schoolName LIKE '%ESJ%' OR schoolName LIKE '%CFJ%' 
+				then "Journalisme"
+             WHEN schoolName LIKE '%Lycée%' OR schoolName LIKE '%Collège%' OR schoolName LIKE '%Prépa%'  
+				then "Lycée ou CPGE"
+             WHEN schoolName LIKE '%EPITECH%' OR schoolName LIKE '%ENSSAT%' OR schoolName LIKE '%Télécom%' 
+				OR schoolName LIKE '%Polytech%' OR schoolName LIKE '%Mines%' 
+				then "Ecole d'ingénieur"
              ELSE "Other"
-	END AS school_type
+	END AS school_type, count(fieldOfStudy) as count
 FROM people_education
-GROUP BY school_type, degree_type
-ORDER BY degree_type desc, school_type, count(fieldOfStudy) desc;
+GROUP BY school_type 
+ORDER BY count(fieldOfStudy) desc, school_type desc ;
 
-# 3 - With these new categories, assess what type of diplomas people in direction positions have in different companies 
+# 5 - With these new categories, assess what type of diplomas people in direction positions have in different companies 
 WITH new_education AS (
 SELECT ind_id,
-	CASE WHEN degreeName LIKE '%Master%' OR degreeName LIKE '%Bac + 5%' OR degreeName LIKE '%MBA%' then "Bac+5"
-		 WHEN degreeName LIKE '%Licence%' OR degreeName LIKE '%Bachelor%'  then "Bac+3"
-         WHEN degreeName LIKE '%Baccalauréat%' OR degreeName LIKE '%BAC%'  then "Bac"
-         ELSE "Other"
-	END AS degree_type,
-		CASE WHEN schoolName LIKE '%Sciences Po%' OR schoolName LIKE '%IEP%' or schoolName LIKE "%Institut d'Etudes Politiques%" then "IEP"
-			 WHEN schoolName LIKE '%Universi%' OR schoolName LIKE '%College%' then "Université"
-             WHEN schoolName LIKE '%School%' OR schoolName LIKE '%ESCP%' OR schoolName LIKE '%CELSA%' OR schoolName LIKE '%school%' OR schoolName LIKE '%HEC%' OR schoolName LIKE '%ESSEC%' OR schoolName LIKE '%Management%' OR schoolName LIKE '%INSEAD%' then "Business school"
-             WHEN schoolName LIKE '%journalism%' OR schoolName LIKE '%IFP%'  OR schoolName LIKE '%ESJ%' OR schoolName LIKE '%CFJ%' then "Journalisme"
-             WHEN schoolName LIKE '%Lycée%' OR schoolName LIKE '%Collège%' OR schoolName LIKE '%Prépa%'  then "Lycée ou CPGE"
-             WHEN schoolName LIKE '%EPITECH%' OR schoolName LIKE '%ENSSAT%' OR schoolName LIKE '%Télécom%' OR schoolName LIKE '%Polytech%' OR schoolName LIKE '%Mines%' then "Ecole d'ingénieur"
+		CASE WHEN schoolName LIKE '%Sciences Po%' OR schoolName LIKE '%IEP%' 
+                OR schoolName LIKE "%Institut d'Etudes Politiques%" 
+                then "IEP"
+			 WHEN schoolName LIKE '%Universi%' OR schoolName LIKE '%College%' 
+                then "Université"
+             WHEN schoolName LIKE '%School%' OR schoolName LIKE '%ESCP%' OR schoolName LIKE '%CELSA%' 
+                OR schoolName LIKE '%school%' OR schoolName LIKE '%HEC%' OR schoolName LIKE '%ESSEC%' 
+                OR schoolName LIKE '%Management%' OR schoolName LIKE '%INSEAD%' 
+                then "Business school"
+             WHEN schoolName LIKE '%journalism%' OR schoolName LIKE '%IFP%' 
+				OR schoolName LIKE '%ESJ%' OR schoolName LIKE '%CFJ%' 
+				then "Journalisme"
+             WHEN schoolName LIKE '%Lycée%' OR schoolName LIKE '%Collège%' OR schoolName LIKE '%Prépa%'  
+				then "Lycée ou CPGE"
+             WHEN schoolName LIKE '%EPITECH%' OR schoolName LIKE '%ENSSAT%' OR schoolName LIKE '%Télécom%' 
+				OR schoolName LIKE '%Polytech%' OR schoolName LIKE '%Mines%' 
+				then "Ecole d'ingénieur"
              ELSE "Other"
 	END AS school_type
-FROM people_education
+FROM people_education 
 )
+
 SELECT pe.companyName, ne.school_type, count(ne.school_type)
 FROM people_experience pe
 LEFT JOIN new_education ne on pe.ind_id= ne.ind_id 
@@ -110,7 +155,8 @@ ORDER BY count(ne.school_type) desc, companyName;
 ## COMPANIES 
 SELECT activite, count(activite) FROM companies_info
 GROUP BY activite 
-ORDER BY count(activite) DESC;
+ORDER BY count(activite) DESC
+LIMIT 10;
 
 SELECT effectif, count(effectif) FROM companies_info
 GROUP BY effectif 
