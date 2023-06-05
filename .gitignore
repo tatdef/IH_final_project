@@ -7,6 +7,7 @@ profiles/names.csv
 organizations/htmls
 organizations/htmls2
 scraping_coco
+data 
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
