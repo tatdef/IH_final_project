@@ -8,6 +8,7 @@ organizations/htmls
 organizations/htmls2
 scraping_coco
 data 
+reimport
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

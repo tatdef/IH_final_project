@@ -1,142 +1,142 @@
-ed_id;ind_id;school;degreeName;schoolName;fieldOfStudy;startDate_year
-0;0;{'objectUrn': 'urn:li:school:19908', 'entityUrn': 'urn:li:fs_miniSchool:19908', 'active': True, 'schoolName': 'ESCP Business School', 'trackingId': 'IfZjevITTFKbk5sex4JToA==', 'logoUrl': 'https://media.licdn.com/dms/image/C4E0BAQFiv0Ceayozxw/company-logo_'};Master;ESCP Europe;Business/Managerial Economics;1998
-1;0;;;Prépa Saint Jean de Douai;;1996
-2;0;;Baccalauréat;Lycée Kernanec;Economics;1993
-3;1;{'objectUrn': 'urn:li:school:12330', 'entityUrn': 'urn:li:fs_miniSchool:12330', 'active': True, 'schoolName': 'HEIP', 'trackingId': 'EuMIL4TTQy2/qn6NP1yOLg==', 'logoUrl': 'https://media.licdn.com/dms/image/C4D0BAQHsRdLBxeTAug/company-logo_'};;Ecole des Hautes Etudes Politiques;Relations Internationales et Sciences Politiques;2006
-4;1;{'objectUrn': 'urn:li:school:13392', 'entityUrn': 'urn:li:fs_miniSchool:13392', 'active': True, 'schoolName': 'The Hebrew University of Jerusalem', 'trackingId': 'RDWDlnEWTQu++FW6stXxbw==', 'logoUrl': 'https://media.licdn.com/dms/image/C4E0BAQEj9V8AF7dbfw/company-logo_'};;The Hebrew University;Relations et affaires internationales;2005
-5;1;{'objectUrn': 'urn:li:school:245045', 'entityUrn': 'urn:li:fs_miniSchool:245045', 'active': True, 'schoolName': 'Lycée Janson-de-Sailly', 'trackingId': '/Lkk6HyDSzmu7hYeiB/Xew==', 'logoUrl': 'https://media.licdn.com/dms/image/C560BAQGPmycFtjTb_A/company-logo_'};Baccalauréat;Lycée Janson-de-Sailly;Sciences Economiques et Sociales Option Anglais;1998
-6;2;;Global messaging ;ASO communications / New Economy Organizers Network ;Communication orale et rhétorique;2022
-7;2;;Training program to prepare women to political leadership;Investies;Political sciences and government;2020
-8;2;;Public narrative ;Leading change network - Marshall Ganz ;Leadership organisationnel;2020
-9;3;;;;;0
-10;3;;;;;0
-11;3;{'objectUrn': 'urn:li:school:164052', 'entityUrn': 'urn:li:fs_miniSchool:164052', 'active': True, 'schoolName': 'Université de Bordeaux', 'trackingId': '0RLFHBsCQD2+U/SME9BQXw==', 'logoUrl': 'https://media.licdn.com/dms/image/C4E0BAQGXZPFarym18w/company-logo_'};Master informatique;Université Bordeaux I;Architecture logicielle distribuée;2004
-12;4;;;;;0
-13;4;{'objectUrn': 'urn:li:school:12544', 'entityUrn': 'urn:li:fs_miniSchool:12544', 'active': True, 'schoolName': 'University of Paris I: Panthéon-Sorbonne', 'trackingId': 'zQT6empkSMitUoNhd4jWCQ==', 'logoUrl': 'https://media.licdn.com/dms/image/C560BAQHvWURG309W3g/company-logo_'};Master 2;Université Paris 1 Panthéon-Sorbonne;Sciences politiques;2005
-14;4;;Licence;Université Lille 2 Droit et Santé;Droit;2002
-15;5;{'objectUrn': 'urn:li:school:10895', 'entityUrn': 'urn:li:fs_miniSchool:10895', 'active': True, 'schoolName': 'Université de Sherbrooke', 'trackingId': 'N0RJVY80R5yJv+HprPxdKA==', 'logoUrl': 'https://media.licdn.com/dms/image/C560BAQHPmp1zHRMp8Q/company-logo_'};Bachelor's degree;Université de Sherbrooke / Sherbrooke University;Communication, rédaction et multimédia;2011
-16;5;{'objectUrn': 'urn:li:school:12546', 'entityUrn': 'urn:li:fs_miniSchool:12546', 'active': True, 'schoolName': 'Université Paris Dauphine - PSL', 'trackingId': 'VQaDpc8xSNyi3FcE0VJo8g==', 'logoUrl': 'https://media.licdn.com/dms/image/C560BAQGsmP2rTINIHg/company-logo_'};Master's 2 Degree  Marketing & Strategy - Integrated Marketing Communication (IMC);Université Paris Dauphine;;2014
-17;5;{'objectUrn': 'urn:li:school:12559', 'entityUrn': 'urn:li:fs_miniSchool:12559', 'active': True, 'schoolName': 'Université Sorbonne Nouvelle', 'trackingId': 'qoGbScfAQamSE7rrcRJc6Q==', 'logoUrl': 'https://media.licdn.com/dms/image/D4E0BAQFSAb95geG2sw/company-logo_'};Postgraduate master’s degree in Information and Communication - Sorbonne Nouvelle University;Université Sorbonne Nouvelle (Paris III);;2009
-18;6;{'objectUrn': 'urn:li:school:198003', 'entityUrn': 'urn:li:fs_miniSchool:198003', 'active': True, 'schoolName': 'Le Wagon', 'trackingId': 'Dpmi7nSTRv2ZjPlW0d0jIQ==', 'logoUrl': 'https://media.licdn.com/dms/image/C4E0BAQEMcw7g_5Et_A/company-logo_'};9 weeks full stack bootcamp;Le Wagon;Computer Science;2014
-19;6;{'objectUrn': 'urn:li:school:20306', 'entityUrn': 'urn:li:fs_miniSchool:20306', 'active': True, 'schoolName': 'Harvard Kennedy School', 'trackingId': 'kSEiiSGDRtCODq+nVeiurQ==', 'logoUrl': 'https://media.licdn.com/dms/image/C4D0BAQGz7JtcRoH-Hg/company-logo_'};Creating Collaborative Solutions;Harvard Kennedy School;Political Science and Government;2017
-20;6;{'objectUrn': 'urn:li:school:10418', 'entityUrn': 'urn:li:fs_miniSchool:10418', 'active': True, 'schoolName': 'Université libre de Bruxelles', 'trackingId': 'nsvE4a3FQe+nhAKuB3Vnfg==', 'logoUrl': 'https://media.licdn.com/dms/image/C4E0BAQGuWHdMKKUkug/company-logo_'};Masters Degree;Université libre de Bruxelles;Written & Audiovisual Journalism;2004
-21;7;{'objectUrn': 'urn:li:school:162138', 'entityUrn': 'urn:li:fs_miniSchool:162138', 'active': True, 'schoolName': 'Institut National des Etudes Territoriales (INET)', 'trackingId': 'ytbksLMCQ0KnQ/tHAbhDNg==', 'logoUrl': 'https://media.licdn.com/dms/image/C4D0BAQELfJ2pD7kCaA/company-logo_'};;Institut National des Etudes Territoriales (INET);;2010
-22;7;{'objectUrn': 'urn:li:school:12454', 'entityUrn': 'urn:li:fs_miniSchool:12454', 'active': True, 'schoolName': 'Sciences Po', 'trackingId': 'CRz6Adx9Q9eaEKDstgSaUw==', 'logoUrl': 'https://media.licdn.com/dms/image/C4D0BAQGibH--XUFAAg/company-logo_'};Master Affaires Publiques;Sciences Po;;2005
-23;7;{'objectUrn': 'urn:li:school:19926', 'entityUrn': 'urn:li:fs_miniSchool:19926', 'active': True, 'schoolName': 'The London School of Economics and Political Science (LSE)', 'trackingId': 'uO9tZtvJRveOTt3Zt6BIZQ==', 'logoUrl': 'https://media.licdn.com/dms/image/C560BAQEmNyPMuyVfyQ/company-logo_'};Master of management, organisations and governance;The London School of Economics and Political Science (LSE);;2008
-24;8;{'objectUrn': 'urn:li:school:12436', 'entityUrn': 'urn:li:fs_miniSchool:12436', 'active': True, 'schoolName': 'ESSEC Business School', 'trackingId': 'BGQ8PlaMSt26XLgxa11Xhg==', 'logoUrl': 'https://media.licdn.com/dms/image/C560BAQHOyFUSQ_Q2ww/company-logo_'};Master of Business Administration (MBA);ESSEC - ESSEC Business School;Strategy and organisation;2002
-25;8;{'objectUrn': 'urn:li:school:3163086', 'entityUrn': 'urn:li:fs_miniSchool:3163086', 'active': True, 'schoolName': 'Macquarie Business School', 'trackingId': 'c3hF8mqrTRK1Ct3B+XU+FA==', 'logoUrl': 'https://media.licdn.com/dms/image/C560BAQEmzReB6pniYQ/company-logo_'};Master of Business Administration - MBA;Macquarie Graduate School of Management;;2005
-26;8;{'objectUrn': 'urn:li:school:12436', 'entityUrn': 'urn:li:fs_miniSchool:12436', 'active': True, 'schoolName': 'ESSEC Business School', 'trackingId': 'Hdyiw/H6T6+NlivNkcaA1g==', 'logoUrl': 'https://media.licdn.com/dms/image/C560BAQHOyFUSQ_Q2ww/company-logo_'};MBA;ESSEC - ESSEC Business School;Strategy;2002
-27;9;;;;;0
-28;9;{'objectUrn': 'urn:li:school:12543', 'entityUrn': 'urn:li:fs_miniSchool:12543', 'active': True, 'schoolName': 'Université Panthéon Assas (Paris II)', 'trackingId': 'MW8iGhVQQfeX+Lh8kbgIjg==', 'logoUrl': 'https://media.licdn.com/dms/image/C4D0BAQHDbbkRpKNStg/company-logo_'};Master 2;Pantheon ASSAS University, Paris;Management des Ressources Humaines;2004
-29;9;;;;;0
-30;10;;BTS;Dorian;Conception de Produits Industriels;0
-31;10;;BAC STI;Lycée de Montgeron;Génie Mécanique;0
-32;10;;;;;0
-33;11;;Masters;Sciences Po Bordeaux;International Politics;2005
-34;11;{'objectUrn': 'urn:li:school:12691', 'entityUrn': 'urn:li:fs_miniSchool:12691', 'active': True, 'schoolName': 'University of Cambridge', 'trackingId': 'tvPN5YxdSMGhL9abBDsdHQ==', 'logoUrl': 'https://media.licdn.com/dms/image/C4E0BAQGLqHVOwtQeUQ/company-logo_'};Social entrepreneurship summer training;University of Cambridge;Business Administration and Management, General;2015
-35;11;{'objectUrn': 'urn:li:school:12214', 'entityUrn': 'urn:li:fs_miniSchool:12214', 'active': True, 'schoolName': 'Universidad de Granada', 'trackingId': '01QQPdVoSXKF4WMJgvGigw==', 'logoUrl': 'https://media.licdn.com/dms/image/C4E0BAQEPGw1pzWUynw/company-logo_'};Licenciatura;Universidad de Granada;Ciencias Politicas y de la Administracion;2005
-36;12;{'objectUrn': 'urn:li:school:12529', 'entityUrn': 'urn:li:fs_miniSchool:12529', 'active': True, 'schoolName': 'Le Mans Université', 'trackingId': 'vmByMfCtS8ayVTeBpjEB2g==', 'logoUrl': 'https://media.licdn.com/dms/image/C4E0BAQGjkfNQ-TkHrQ/company-logo_'};;Université du Maine-Le Mans-Laval;;0
-37;12;;;;;0
-38;12;{'objectUrn': 'urn:li:school:12493', 'entityUrn': 'urn:li:fs_miniSchool:12493', 'active': True, 'schoolName': 'Université de Caen Normandie', 'trackingId': 'Lgtv1pZDSyOnnE5wrRtIBw==', 'logoUrl': 'https://media.licdn.com/dms/image/C560BAQFddaa2kyAHTQ/company-logo_'};Dut SRC;Université de Caen Basse Normandie;;0
-39;13;{'objectUrn': 'urn:li:school:12545', 'entityUrn': 'urn:li:fs_miniSchool:12545', 'active': True, 'schoolName': 'Université Paris-Est Créteil (UPEC)', 'trackingId': 'jTUp8rsFT16/UQcnEya4Uw==', 'logoUrl': 'https://media.licdn.com/dms/image/C4E0BAQEErdpTzCZMDA/company-logo_'};Bachelor;Université Paris 12;Law;2011
-40;13;{'objectUrn': 'urn:li:school:12443', 'entityUrn': 'urn:li:fs_miniSchool:12443', 'active': True, 'schoolName': 'HEC Paris', 'trackingId': 'o8NCF6CeTTWdkMmbKeFW9Q==', 'logoUrl': 'https://media.licdn.com/dms/image/C510BAQEoEkTMvE2haw/company-logo_'};Start-up Launchpad;HEC Paris;Master of Digital Business;2016
-41;13;{'objectUrn': 'urn:li:school:164034', 'entityUrn': 'urn:li:fs_miniSchool:164034', 'active': True, 'schoolName': 'Sciences Po Lille', 'trackingId': '2ofNhffyRy6YTcGsb9uB+A==', 'logoUrl': 'https://media.licdn.com/dms/image/C560BAQFCMNGgkejfBg/company-logo_'};Master's degree;Sciences Po Lille;Public affairs and management;2014
-42;14;;;Lycée Carnot;Préparation aux concours des grandes écoles de commerce;2004
-43;14;{'objectUrn': 'urn:li:school:12416', 'entityUrn': 'urn:li:fs_miniSchool:12416', 'active': True, 'schoolName': 'NEOMA Business School', 'trackingId': '9s6UbM5ISOa7WLeyS2EV8A==', 'logoUrl': 'https://media.licdn.com/dms/image/C560BAQGkpW2bgM79Og/company-logo_'};Sup de Co Reims;NEOMA Business School;Management;2006
-44;14;{'objectUrn': 'urn:li:school:11398', 'entityUrn': 'urn:li:fs_miniSchool:11398', 'active': True, 'schoolName': 'Tsinghua University', 'trackingId': '3i2m1k70QCGStC8hb4hBVw==', 'logoUrl': 'https://media.licdn.com/dms/image/C4D0BAQFJU3_2fIeNWw/company-logo_'};MBA;Tsinghua University;Economics & Management;2009
-45;15;{'objectUrn': 'urn:li:school:12416', 'entityUrn': 'urn:li:fs_miniSchool:12416', 'active': True, 'schoolName': 'NEOMA Business School', 'trackingId': 'QsbjiUqESguZ0CXwrzEH5w==', 'logoUrl': 'https://media.licdn.com/dms/image/C560BAQGkpW2bgM79Og/company-logo_'};BAC + 5;NEOMA Business School;Management;2003
-46;15;{'objectUrn': 'urn:li:school:12416', 'entityUrn': 'urn:li:fs_miniSchool:12416', 'active': True, 'schoolName': 'NEOMA Business School', 'trackingId': 'm6IzXbJGQJuMmttZ5+ODZQ==', 'logoUrl': 'https://media.licdn.com/dms/image/C560BAQGkpW2bgM79Og/company-logo_'};Bac + 5;Reims Management School;Marketing;2001
-47;15;{'objectUrn': 'urn:li:school:11993', 'entityUrn': 'urn:li:fs_miniSchool:11993', 'active': True, 'schoolName': 'WHU – Otto Beisheim School of Management', 'trackingId': 'qcfWndb4Qlq+BlGLugT1nQ==', 'logoUrl': 'https://media.licdn.com/dms/image/C4E0BAQF6uXYcPdiqHA/company-logo_'};;WHU – Otto Beisheim School of Management;;2006
-48;16;{'objectUrn': 'urn:li:school:17993', 'entityUrn': 'urn:li:fs_miniSchool:17993', 'active': True, 'schoolName': 'Colorado College', 'trackingId': 'PqhEKwOeQPmV+n9AKfprYw==', 'logoUrl': 'https://media.licdn.com/dms/image/C560BAQHeKkPQiortRg/company-logo_'};Bachelor of Arts (B.A.);Colorado College;International Political Economy, Minor: African Studies;0
-49;16;{'objectUrn': 'urn:li:school:3212064', 'entityUrn': 'urn:li:fs_miniSchool:3212064', 'active': True, 'schoolName': 'UWC Mahindra College', 'trackingId': 'GNSmzVGCTRmvvmlKBLPUfg==', 'logoUrl': 'https://media.licdn.com/dms/image/C4E0BAQHd19h_iyNMmA/company-logo_'};International Baccalaureate Diploma;UWC Mahindra College;Economics, Philosophy, English Literature, ;0
-50;16;{'objectUrn': 'urn:li:school:153040', 'entityUrn': 'urn:li:fs_miniSchool:153040', 'active': True, 'schoolName': 'Hertie School', 'trackingId': 'KM/Lxf6RRn6UtZQMHA2lwA==', 'logoUrl': 'https://media.licdn.com/dms/image/D4E0BAQE6OtpOxO0sCg/company-logo_'};Master of Public Policy;Hertie School of Governance;Focus: Democratic Innovation;0
-51;17;{'objectUrn': 'urn:li:school:198003', 'entityUrn': 'urn:li:fs_miniSchool:198003', 'active': True, 'schoolName': 'Le Wagon', 'trackingId': 'F1y3+Xb0SkKDzWBc++JIPQ==', 'logoUrl': 'https://media.licdn.com/dms/image/C4E0BAQEMcw7g_5Et_A/company-logo_'};Full-Stack Bootcamp;Le Wagon;Web Development Ruby on Rails;2015
-52;17;{'objectUrn': 'urn:li:school:11022', 'entityUrn': 'urn:li:fs_miniSchool:11022', 'active': True, 'schoolName': 'Beijing Foreign Studies University', 'trackingId': 'uwKrNZ4sSlifuWYxb8Y+Og==', 'logoUrl': 'https://media.licdn.com/dms/image/C4D0BAQGsDx07zmgQZg/company-logo_'};;北京外国语大学;Mandarin;2007
-53;17;{'objectUrn': 'urn:li:school:12454', 'entityUrn': 'urn:li:fs_miniSchool:12454', 'active': True, 'schoolName': 'Sciences Po', 'trackingId': 'oLR0jf1wQhuB8BcApPgQnw==', 'logoUrl': 'https://media.licdn.com/dms/image/C4D0BAQGibH--XUFAAg/company-logo_'};Master;Sciences Po;Public Affairs;2005
-54;18;;DESS;IEP Toulouse;;1999
-55;18;;;Ecole de Guerre Economique;;2000
-56;18;"{'objectUrn': 'urn:li:school:12488', 'entityUrn': 'urn:li:fs_miniSchool:12488', 'active': True, 'schoolName': ""UNIVERSITE D'AUVERGNE"", 'trackingId': 'WeSW3tgKT2e8rLOTTT/3ug==', 'logoUrl': 'https://media.licdn.com/dms/image/C560BAQFz2xEYDHso9A/company-logo_'}";DEUG, Licence et Maîtrise de droit privé;Université d'Auvergne (Clermont-Ferrand I);;1996
-57;19;{'objectUrn': 'urn:li:school:12445', 'entityUrn': 'urn:li:fs_miniSchool:12445', 'active': True, 'schoolName': 'INSEAD', 'trackingId': 't1GScBUJSxCr/1KFgNGxiw==', 'logoUrl': 'https://media.licdn.com/dms/image/C4E0BAQGGK49QM3u7NQ/company-logo_'};Executive Education;INSEAD;Financial Accounting;2007
-58;19;{'objectUrn': 'urn:li:school:453153', 'entityUrn': 'urn:li:fs_miniSchool:453153', 'active': True, 'schoolName': 'emlyon business school', 'trackingId': 'J9znLgVFQIuUZ+LqJ6I9aQ==', 'logoUrl': 'https://media.licdn.com/dms/image/D4E0BAQFYY9E8jYRA2g/company-logo_'};DEA;emlyon business school;Programme Doctoral en Stratégie et Réseaux Décisionnels  ;1990
-59;19;;;New York Institute of Finance;M&A;2003
-60;20;{'objectUrn': 'urn:li:school:19998', 'entityUrn': 'urn:li:fs_miniSchool:19998', 'active': True, 'schoolName': 'Audencia', 'trackingId': 'rABo60bmRnyh5bW+aq/s+w==', 'logoUrl': 'https://media.licdn.com/dms/image/C4E0BAQGCHetp43_WOQ/company-logo_'};Master in business;Audencia Nantes Ecole de Management;Business and Marketing;2005
-61;20;;Classe préparatoire HEC;Lycée Kerichen;;2003
-62;20;{'objectUrn': 'urn:li:school:18058', 'entityUrn': 'urn:li:fs_miniSchool:18058', 'active': True, 'schoolName': 'American University', 'trackingId': '9IUJ+nrzTXaYHZbUnpXIgA==', 'logoUrl': 'https://media.licdn.com/dms/image/C4D0BAQH7mDPifbpz7Q/company-logo_'};2008;American University;International affairs and Foreign Policy;2008
-63;21;{'objectUrn': 'urn:li:school:12383', 'entityUrn': 'urn:li:fs_miniSchool:12383', 'active': True, 'schoolName': 'Télécom Paris', 'trackingId': 'WMJupzNCTCGXepZXT6rDAA==', 'logoUrl': 'https://media.licdn.com/dms/image/C4E0BAQFx4IdmU79mIg/company-logo_'};Mastère spécialisé;Télécom Paris;Computer Science;2004
-64;21;{'objectUrn': 'urn:li:school:3155206', 'entityUrn': 'urn:li:fs_miniSchool:3155206', 'active': True, 'schoolName': 'National School of Applied Science and Technology', 'trackingId': 'snMoSGW8QB+g/qokzanIUA==', 'logoUrl': 'https://media.licdn.com/dms/image/C4E0BAQHO2W8GbE__NQ/company-logo_'};Diplôme d'ingénieur;ENSSAT - École Nationale Supérieure des Sciences Appliquées et de Technologie;Computer Science;2001
-65;21;{'objectUrn': 'urn:li:school:11986', 'entityUrn': 'urn:li:fs_miniSchool:11986', 'active': True, 'schoolName': 'Ulm University', 'trackingId': '4ux74A05RwefPhB8zsK+pA==', 'logoUrl': 'https://media.licdn.com/dms/image/C4D0BAQHNE-WihUTmUA/company-logo_'};Master;Ulm University;Informatik;2003
-66;22;{'objectUrn': 'urn:li:school:12380', 'entityUrn': 'urn:li:fs_miniSchool:12380', 'active': True, 'schoolName': 'Mines Paris', 'trackingId': 'Iw5+xrqmS2aMUfpPo5KZvA==', 'logoUrl': 'https://media.licdn.com/dms/image/C4E0BAQHgKzPBVtaKUw/company-logo_'};Executive Education (Certificate);Mines Paris;Circular Economy;2023
-67;22;{'objectUrn': 'urn:li:school:18277', 'entityUrn': 'urn:li:fs_miniSchool:18277', 'active': True, 'schoolName': 'Loyola University Chicago', 'trackingId': 'EkJtOpZcQp+6lrXayyN0kQ==', 'logoUrl': 'https://media.licdn.com/dms/image/C4D0BAQGqdHmIbLIMDw/company-logo_'};Master of Business Administration - MBA;Loyola University Chicago;;0
-68;22;{'objectUrn': 'urn:li:school:4160021', 'entityUrn': 'urn:li:fs_miniSchool:4160021', 'active': True, 'schoolName': 'ESSEC | Télécom Paris - MS® Management des Systèmes d’Information en Réseaux (MSIR)', 'trackingId': 'L6zxFnHIRZukRmQi7Ktmng==', 'logoUrl': 'https://media.licdn.com/dms/image/C4D0BAQHqo8pqrqXaUQ/company-logo_'};Master;ESSEC | Télécom Paris - MS® Management des Systèmes d’Information en Réseaux (MSIR);Informations Systems & Telecommunication Networks;1999
-69;23;;Licence;Carleton University;;2014
-70;23;;Master;EHESS - École des hautes études en sciences sociales;Etudes politiques;2015
-71;23;{'objectUrn': 'urn:li:school:21251', 'entityUrn': 'urn:li:fs_miniSchool:21251', 'active': True, 'schoolName': 'EHESS - Ecole des Hautes Etudes en Sciences Sociales', 'trackingId': 'pM16EX9VQCyQNx62POyt3A==', 'logoUrl': 'https://media.licdn.com/dms/image/C4E0BAQHViuibfRCPqA/company-logo_'};Doctorat;EHESS - École des hautes études en sciences sociales;Etudes politiques;2018
-72;24;{'objectUrn': 'urn:li:school:21225', 'entityUrn': 'urn:li:fs_miniSchool:21225', 'active': True, 'schoolName': 'CELSA Paris-Sorbonne', 'trackingId': '8NIl/2uIQcy0kO8PPy2P3g==', 'logoUrl': 'https://media.licdn.com/dms/image/C4E0BAQHpXEhU_MTM6w/company-logo_'};Master Communication politique;CELSA - Ecole des hautes études en sciences de l'information et de la communication;;2005
-73;24;;Hypokhâgne - Khâgne;Lycée de Sèvres;;1998
-74;24;{'objectUrn': 'urn:li:school:19991', 'entityUrn': 'urn:li:fs_miniSchool:19991', 'active': True, 'schoolName': 'Sciences Po Grenoble', 'trackingId': 'z1klVNTITfiSQV7/TPrBdA==', 'logoUrl': 'https://media.licdn.com/dms/image/C4E0BAQEtvlzU8bHM_A/company-logo_'};Diplome sciences Po;Institut d'Etudes Politiques de Grenoble;Sciences politiques;2000
-75;25;{'objectUrn': 'urn:li:school:12449', 'entityUrn': 'urn:li:fs_miniSchool:12449', 'active': True, 'schoolName': 'Institut catholique de Paris', 'trackingId': 'cy/M9URmSMmVGPEmChXnxA==', 'logoUrl': 'https://media.licdn.com/dms/image/C510BAQGgoKsBuhOB2Q/company-logo_'};Master en Relations Européennes et Lobbying;Institut catholique de Paris;;2015
-76;25;;;Ecole du Centre Chorégraphique National de Roubaix;Danse classique et contemporaine;2013
-77;25;{'objectUrn': 'urn:li:school:164034', 'entityUrn': 'urn:li:fs_miniSchool:164034', 'active': True, 'schoolName': 'Sciences Po Lille', 'trackingId': 'sN+Ait/VQDeGJMyu2ZvMDQ==', 'logoUrl': 'https://media.licdn.com/dms/image/C560BAQFCMNGgkejfBg/company-logo_'};Master en Stratégie, Intelligence et Gestion des Risques;Institut d'Etudes politiques de Lille;Relations et affaires internationales;2011
-78;26;{'objectUrn': 'urn:li:school:12550', 'entityUrn': 'urn:li:fs_miniSchool:12550', 'active': True, 'schoolName': 'Université Paris Nanterre', 'trackingId': '7WDkymqAQaK6RRBQ58kL2w==', 'logoUrl': 'https://media.licdn.com/dms/image/C4D0BAQF-aQ6o5egnhQ/company-logo_'};Master Degree - Law & Economics;Université Paris X Nanterre;Competition and market regulation;2011
-79;26;{'objectUrn': 'urn:li:school:4084215', 'entityUrn': 'urn:li:fs_miniSchool:4084215', 'active': True, 'schoolName': 'AllWomen', 'trackingId': 'MbGj//XCS3KZem1kUdrZow==', 'logoUrl': 'https://media.licdn.com/dms/image/D4E0BAQG7EiiiJCfmIw/company-logo_'};Bootcamp;AllWomen;Product Management;2022
-80;26;{'objectUrn': 'urn:li:school:12519', 'entityUrn': 'urn:li:fs_miniSchool:12519', 'active': True, 'schoolName': 'UVSQ Université de Versailles Saint-Quentin-en-Yvelines', 'trackingId': 'fQX7a7DbS0uH7x0ca65lQA==', 'logoUrl': 'https://media.licdn.com/dms/image/C4D0BAQGXMJZnms_oAQ/company-logo_'};Master Degree Law;Université de Versailles Saint-Quentin-en-Yvelines;Public real estate law & public contract;2012
-81;27;"{'objectUrn': 'urn:li:school:4076008', 'entityUrn': 'urn:li:fs_miniSchool:4076008', 'active': True, 'schoolName': ""école des métiers de l'information (SCOP SA)"", 'trackingId': 'Qr8Y9+JIR02Y3/RTM1S7/w==', 'logoUrl': 'https://media.licdn.com/dms/image/C4D0BAQFviniipQfhkw/company-logo_'}";Graphiste plurimédia;école des métiers de l'information (SCOP SA);;2021
-82;27;{'objectUrn': 'urn:li:school:12559', 'entityUrn': 'urn:li:fs_miniSchool:12559', 'active': True, 'schoolName': 'Université Sorbonne Nouvelle', 'trackingId': 'ClqXMyqrTWKcOZzI/dmUig==', 'logoUrl': 'https://media.licdn.com/dms/image/D4E0BAQFSAb95geG2sw/company-logo_'};;Université Sorbonne Nouvelle;Communication, général;1991
-83;27;{'objectUrn': 'urn:li:school:481024', 'entityUrn': 'urn:li:fs_miniSchool:481024', 'active': True, 'schoolName': 'Université Paris Cité', 'trackingId': 'umZwRs5XQJuDAs+6iVWdbw==', 'logoUrl': 'https://media.licdn.com/dms/image/C4E0BAQHSYq2IsbZ4EQ/company-logo_'};;Université Paris Descartes;Sociologie et linguistique;1990
-84;28;{'objectUrn': 'urn:li:school:453153', 'entityUrn': 'urn:li:fs_miniSchool:453153', 'active': True, 'schoolName': 'emlyon business school', 'trackingId': 'Aq8UlwRYQc2RCQbDGJuU5A==', 'logoUrl': 'https://media.licdn.com/dms/image/D4E0BAQFYY9E8jYRA2g/company-logo_'};Master of Science (MSc);EMLYON Business School;Finance and Consulting;2007
-85;28;{'objectUrn': 'urn:li:school:11106', 'entityUrn': 'urn:li:fs_miniSchool:11106', 'active': True, 'schoolName': 'East China Normal University', 'trackingId': '2C2clE8SSG+TRczSi5ZLJQ==', 'logoUrl': 'https://media.licdn.com/dms/image/C4D0BAQHawKVLAmBrIA/company-logo_'};;East China Normal University;Asian Business Environment;2011
-86;28;;;Lycée Carnot!;;0
-87;29;{'objectUrn': 'urn:li:school:12436', 'entityUrn': 'urn:li:fs_miniSchool:12436', 'active': True, 'schoolName': 'ESSEC Business School', 'trackingId': 'RoD0ub8sRPu23JLaOR4LYw==', 'logoUrl': 'https://media.licdn.com/dms/image/C560BAQHOyFUSQ_Q2ww/company-logo_'};Master of Science (MSc) in Management;ESSEC - ESSEC Business School;Specialization in Entrepreneurship;2010
-88;29;;Preparation Class to enter Business Schools;Institution des Chartreux;;2008
-89;29;{'objectUrn': 'urn:li:school:19875', 'entityUrn': 'urn:li:fs_miniSchool:19875', 'active': True, 'schoolName': 'University of Cape Town', 'trackingId': 'auUosEbmQtm5LlILOSqKtg==', 'logoUrl': 'https://media.licdn.com/dms/image/C560BAQEFCqoOrVEFCA/company-logo_'};Graduate School of Business;University of Cape Town;Exchange Student, 6 months;2013
-90;30;{'objectUrn': 'urn:li:school:43468', 'entityUrn': 'urn:li:fs_miniSchool:43468', 'active': True, 'schoolName': 'Hattemer', 'trackingId': 'qTrDrjlSRGCzM86riSrCKQ==', 'logoUrl': 'https://media.licdn.com/dms/image/C4E0BAQHNLbYV_WGItA/company-logo_'};;Hattemer;;0
-91;30;{'objectUrn': 'urn:li:school:12398', 'entityUrn': 'urn:li:fs_miniSchool:12398', 'active': True, 'schoolName': 'École Polytechnique', 'trackingId': '10ioIIyERPykeEQ7embGrQ==', 'logoUrl': 'https://media.licdn.com/dms/image/C4D0BAQFVles59ko4gg/company-logo_'};Master's degree;École Polytechnique;Économie;1988
-92;30;{'objectUrn': 'urn:li:school:4071063', 'entityUrn': 'urn:li:fs_miniSchool:4071063', 'active': True, 'schoolName': 'Collège Stanislas Paris', 'trackingId': 'jP2HXVs8SwGnYGJtc5zN9g==', 'logoUrl': 'https://media.licdn.com/dms/image/C4E0BAQHu5ofNwx1wXA/company-logo_'};;Collège Stanislas Paris;;0
-93;31;{'objectUrn': 'urn:li:school:12454', 'entityUrn': 'urn:li:fs_miniSchool:12454', 'active': True, 'schoolName': 'Sciences Po', 'trackingId': 'go1vKui4ToC+5+Z7evQdPQ==', 'logoUrl': 'https://media.licdn.com/dms/image/C4D0BAQGibH--XUFAAg/company-logo_'};;Sciences Po;Economics and Finance - Political Science;1987
-94;31;{'objectUrn': 'urn:li:school:20306', 'entityUrn': 'urn:li:fs_miniSchool:20306', 'active': True, 'schoolName': 'Harvard Kennedy School', 'trackingId': 'QEJMsF46RCKu361DEbF+XQ==', 'logoUrl': 'https://media.licdn.com/dms/image/C4D0BAQGz7JtcRoH-Hg/company-logo_'};Diploma;Harvard Kennedy School;in Global Leadership and Public Policy for the 21st century;2013
-95;31;;;Ecole Nationale d'Administration;;2000
-96;32;"{'objectUrn': 'urn:li:school:19993', 'entityUrn': 'urn:li:fs_miniSchool:19993', 'active': True, 'schoolName': ""Sciences Po Lyon - Institut d'Etudes Politiques"", 'trackingId': 'Y+Xi6zDzS6Cfr0Xbz7kmvg==', 'logoUrl': 'https://media.licdn.com/dms/image/C4D0BAQHRFN2RlfCuVw/company-logo_'}";Diplôme d'Établissement sur le Monde Arabe Contemporain - DEMAC;Institut d'Etudes Politiques de Lyon;;2013
-97;32;{'objectUrn': 'urn:li:school:12449', 'entityUrn': 'urn:li:fs_miniSchool:12449', 'active': True, 'schoolName': 'Institut catholique de Paris', 'trackingId': 'vQtiapBtSQWArm0wzdt/Ow==', 'logoUrl': 'https://media.licdn.com/dms/image/C510BAQGgoKsBuhOB2Q/company-logo_'};Licence 1 Histoire/ Classe préparatoire aux concours IEP;Institut catholique de Paris;Histoire;2012
-98;32;;;;;0
-99;33;;;;;0
-100;33;;;;;0
-101;33;{'objectUrn': 'urn:li:school:12544', 'entityUrn': 'urn:li:fs_miniSchool:12544', 'active': True, 'schoolName': 'University of Paris I: Panthéon-Sorbonne', 'trackingId': 'w4zSAFu4SxW0cBw3WjT0Uw==', 'logoUrl': 'https://media.licdn.com/dms/image/C560BAQHvWURG309W3g/company-logo_'};;Université Paris 1 Panthéon-Sorbonne;Sciences Economiques;1968
-102;34;{'objectUrn': 'urn:li:school:15635', 'entityUrn': 'urn:li:fs_miniSchool:15635', 'active': True, 'schoolName': 'Ateneo de Manila University', 'trackingId': '2zVcpMVHS0qgaZQNSg6FzQ==', 'logoUrl': 'https://media.licdn.com/dms/image/C560BAQE-u2zCop0Eig/company-logo_'};;Ateneo de Manila University;;2011
-103;34;{'objectUrn': 'urn:li:school:12454', 'entityUrn': 'urn:li:fs_miniSchool:12454', 'active': True, 'schoolName': 'Sciences Po', 'trackingId': '0auCE+5dTzKPvCsGMy0xuw==', 'logoUrl': 'https://media.licdn.com/dms/image/C4D0BAQGibH--XUFAAg/company-logo_'};Bachelor’s Degree;Sciences Po;;2009
-104;34;{'objectUrn': 'urn:li:school:12454', 'entityUrn': 'urn:li:fs_miniSchool:12454', 'active': True, 'schoolName': 'Sciences Po', 'trackingId': '5PXuHg8tTxCk16NhgCVU5Q==', 'logoUrl': 'https://media.licdn.com/dms/image/C4D0BAQGibH--XUFAAg/company-logo_'};Master’s Degree;Sciences Po;Politiques de l'Environnement;2013
-105;35;{'objectUrn': 'urn:li:school:21238', 'entityUrn': 'urn:li:fs_miniSchool:21238', 'active': True, 'schoolName': 'Ecole supérieure de journalisme de Lille', 'trackingId': 'RZhVRvpSRiG6STZLx1L1Xw==', 'logoUrl': 'https://media.licdn.com/dms/image/C4E0BAQE0MtN3h5LoyQ/company-logo_'};;Ecole supérieure de journalisme de Lille;;2007
-106;35;;;ESJ PRO;Community management;2016
-107;35;{'objectUrn': 'urn:li:school:164034', 'entityUrn': 'urn:li:fs_miniSchool:164034', 'active': True, 'schoolName': 'Sciences Po Lille', 'trackingId': 'YNqZBoOgQV69aKAXiAN79A==', 'logoUrl': 'https://media.licdn.com/dms/image/C560BAQFCMNGgkejfBg/company-logo_'};;Sciences Po Lille;;2002
-108;36;{'objectUrn': 'urn:li:school:12291', 'entityUrn': 'urn:li:fs_miniSchool:12291', 'active': True, 'schoolName': 'Réseau CFJ', 'trackingId': 'UCj3DuCsTUulVi7Myv5Ivw==', 'logoUrl': 'https://media.licdn.com/dms/image/C560BAQGvgnPPEsb4bQ/company-logo_'};Centre de formation des journalistes;CFJ;;1998
-109;36;{'objectUrn': 'urn:li:school:12548', 'entityUrn': 'urn:li:fs_miniSchool:12548', 'active': True, 'schoolName': 'Université Paris-Sorbonne', 'trackingId': '/dmudswIShOwaLc26oPYrA==', 'logoUrl': 'https://media.licdn.com/dms/image/C4D0BAQHNNR5ZC7Q-yA/company-logo_'};D.U.;Université Paris-Sorbonne;Techniques et langage des médias;1996
-110;36;{'objectUrn': 'urn:li:school:12548', 'entityUrn': 'urn:li:fs_miniSchool:12548', 'active': True, 'schoolName': 'Université Paris-Sorbonne', 'trackingId': 'Fn0eYigDRrmX4SMU9xCAkQ==', 'logoUrl': 'https://media.licdn.com/dms/image/C4D0BAQHNNR5ZC7Q-yA/company-logo_'};Licence;Université Paris-Sorbonne;Lettres modernes;1994
-111;37;{'objectUrn': 'urn:li:school:12544', 'entityUrn': 'urn:li:fs_miniSchool:12544', 'active': True, 'schoolName': 'University of Paris I: Panthéon-Sorbonne', 'trackingId': 'W32heGURRR+FSOlNQwWVCw==', 'logoUrl': 'https://media.licdn.com/dms/image/C560BAQHvWURG309W3g/company-logo_'};Master 2 Political Science;Université Paris 1 Panthéon-Sorbonne;Political science;2018
-112;37;{'objectUrn': 'urn:li:school:12523', 'entityUrn': 'urn:li:fs_miniSchool:12523', 'active': True, 'schoolName': 'Université Toulouse 1 Capitole', 'trackingId': 'GSo1YHHSS62gA6UuYnIFOg==', 'logoUrl': 'https://media.licdn.com/dms/image/C4E0BAQHt1It46vl4pQ/company-logo_'};Master 2 (M2) in Political Science;Université Toulouse 1 Capitole;Political Science;2017
-113;37;{'objectUrn': 'urn:li:school:12239', 'entityUrn': 'urn:li:fs_miniSchool:12239', 'active': True, 'schoolName': 'Universidad Pablo de Olavide', 'trackingId': 'rGcPCQN7RhGIdbPygUGSGw==', 'logoUrl': 'https://media.licdn.com/dms/image/C4D0BAQEiicolZYOHuQ/company-logo_'};Master 1 (M1) Law and Political Science;Universidad Pablo de Olavide;Droit;2016
-114;38;;;;;0
-115;38;;;;;0
-116;38;;;;;0
-117;39;;Baccalauréat;Lycée Charles Péguy;Economics - Mathematics;2004
-118;39;{'objectUrn': 'urn:li:school:19908', 'entityUrn': 'urn:li:fs_miniSchool:19908', 'active': True, 'schoolName': 'ESCP Business School', 'trackingId': '5xcoaJceQV+AIeZqDDTKPQ==', 'logoUrl': 'https://media.licdn.com/dms/image/C4E0BAQFiv0Ceayozxw/company-logo_'};Master in Management;ESCP Business School;Business School;2008
-119;39;;Classe Préparatoires aux Grandes Ecoles ECE;Lycée Montaigne;Economics;2006
-120;40;{'objectUrn': 'urn:li:school:10894', 'entityUrn': 'urn:li:fs_miniSchool:10894', 'active': True, 'schoolName': 'HEC Montréal', 'trackingId': 'n9UTQ9eWRGu/vqgkxEdGWw==', 'logoUrl': 'https://media.licdn.com/dms/image/C560BAQFZ_p0E0-8U7g/company-logo_'};Bachelor of Business Administration (BBA);Université de Montréal - HEC Montréal;Finance, général;2008
-121;40;{'objectUrn': 'urn:li:school:12454', 'entityUrn': 'urn:li:fs_miniSchool:12454', 'active': True, 'schoolName': 'Sciences Po', 'trackingId': 'QFo5Qjp+S9mPwlst7msZtQ==', 'logoUrl': 'https://media.licdn.com/dms/image/C4D0BAQGibH--XUFAAg/company-logo_'};Master's degree;Institut d'Etudes politiques de Paris;Marketing;2013
-122;40;;Operation 3;Jericho x Alven;Web3;2022
-123;41;;;;;0
-124;41;;;;;0
-125;41;{'objectUrn': 'urn:li:school:12544', 'entityUrn': 'urn:li:fs_miniSchool:12544', 'active': True, 'schoolName': 'University of Paris I: Panthéon-Sorbonne', 'trackingId': 'oLvQN+n2QyS2BhQABGz4eA==', 'logoUrl': 'https://media.licdn.com/dms/image/C560BAQHvWURG309W3g/company-logo_'};Master's degree in development and international cooperation;Université Panthéon Sorbonne (Paris I);Relations et affaires internationales;2003
-126;42;{'objectUrn': 'urn:li:school:12531', 'entityUrn': 'urn:li:fs_miniSchool:12531', 'active': True, 'schoolName': 'Université de Tours', 'trackingId': '5F648fxmQZiS03arwqMbjw==', 'logoUrl': 'https://media.licdn.com/dms/image/C4E0BAQEvuszUtf2HXw/company-logo_'};Diplôme universitaire de technologie;Université François Rabelais de Tours;Métiers du Multimédia et de l'Internet;2006
-127;42;{'objectUrn': 'urn:li:school:12531', 'entityUrn': 'urn:li:fs_miniSchool:12531', 'active': True, 'schoolName': 'Université de Tours', 'trackingId': 'ma6YNQjbSLuhU5RIl4YAPw==', 'logoUrl': 'https://media.licdn.com/dms/image/C4E0BAQEvuszUtf2HXw/company-logo_'};Bachelor's degree;Université François Rabelais de Tours;Multimedia product design and management;2008
-128;42;;;;;0
-129;43;{'objectUrn': 'urn:li:school:10415', 'entityUrn': 'urn:li:fs_miniSchool:10415', 'active': True, 'schoolName': 'Université catholique de Louvain', 'trackingId': 'qhaJrZc/T8itSyqSf/A4bg==', 'logoUrl': 'https://media.licdn.com/dms/image/C4D0BAQGpQ3G9ianp8w/company-logo_'};Master;Université catholique de Louvain;Laws & Entrepreneurship;2007
-130;43;{'objectUrn': 'urn:li:school:19908', 'entityUrn': 'urn:li:fs_miniSchool:19908', 'active': True, 'schoolName': 'ESCP Business School', 'trackingId': 'z6i6bkwwQOyYgtHmp8fScQ==', 'logoUrl': 'https://media.licdn.com/dms/image/C4E0BAQFiv0Ceayozxw/company-logo_'};Postgraduate Master;ESCP Europe;Management (AMBA accreditation);2009
-131;43;{'objectUrn': 'urn:li:school:12243', 'entityUrn': 'urn:li:fs_miniSchool:12243', 'active': True, 'schoolName': 'Universidad Pontificia Comillas', 'trackingId': 'QAFpC29dR8etdQ9Ei79/1g==', 'logoUrl': 'https://media.licdn.com/dms/image/C4D0BAQE5Lb4a81x5Sw/company-logo_'};;Universidad Pontificia Comillas;Half year exchange programme (Erasmus) in Foreign Law;2007
-132;44;;;;;0
-133;44;{'objectUrn': 'urn:li:school:20366', 'entityUrn': 'urn:li:fs_miniSchool:20366', 'active': True, 'schoolName': 'EPITECH - European Institute of Technology', 'trackingId': '8biUm+dzQtGXIhCykr/S7w==', 'logoUrl': 'https://media.licdn.com/dms/image/C560BAQEogO0_6QTmdg/company-logo_'};Master of Information Technology;EPITECH - European Institute of Technology;;2006
-134;44;;;;;0
-135;45;{'objectUrn': 'urn:li:school:12548', 'entityUrn': 'urn:li:fs_miniSchool:12548', 'active': True, 'schoolName': 'Université Paris-Sorbonne', 'trackingId': 'jl4ip2a6S6yeUIAJyvfEzA==', 'logoUrl': 'https://media.licdn.com/dms/image/C4D0BAQHNNR5ZC7Q-yA/company-logo_'};Master Lettres Modernes Appliquées;Université Paris Sorbonne (Paris IV);Littérature;2002
-136;45;{'objectUrn': 'urn:li:school:21235', 'entityUrn': 'urn:li:fs_miniSchool:21235', 'active': True, 'schoolName': 'IFP - Institut français de presse', 'trackingId': 'xHxT4k9cTg2TCzM+6mh8Rw==', 'logoUrl': 'https://media.licdn.com/dms/image/C4D0BAQECrrn8EysjnQ/company-logo_'};Master 2;IFP - Institut français de presse;Journalisme;2007
-137;45;;Diplôme Universitaire;Université Paris 7;Mandarin;2002
-138;46;{'objectUrn': 'urn:li:school:12548', 'entityUrn': 'urn:li:fs_miniSchool:12548', 'active': True, 'schoolName': 'Université Paris-Sorbonne', 'trackingId': '6crlQSNdSNGhrkApzr16Fg==', 'logoUrl': 'https://media.licdn.com/dms/image/C4D0BAQHNNR5ZC7Q-yA/company-logo_'};master 2;Université Paris-Sorbonne;communication, marketing;2003
-139;46;;Magistère;CELSA;Communication, General;2004
-140;46;;;;;0
+ed_id;ind_id;degreeName;schoolName;fieldOfStudy;startDate_year
+0;0;Master;ESCP Europe;Business/Managerial Economics;1998
+1;0;;Prépa Saint Jean de Douai;;1996
+2;0;Baccalauréat;Lycée Kernanec;Economics;1993
+3;1;;Ecole des Hautes Etudes Politiques;Relations Internationales et Sciences Politiques;2006
+4;1;;The Hebrew University;Relations et affaires internationales;2005
+5;1;Baccalauréat;Lycée Janson-de-Sailly;Sciences Economiques et Sociales Option Anglais;1998
+6;2;Global messaging ;ASO communications / New Economy Organizers Network ;Communication orale et rhétorique;2022
+7;2;Training program to prepare women to political leadership;Investies;Political sciences and government;2020
+8;2;Public narrative ;Leading change network - Marshall Ganz ;Leadership organisationnel;2020
+9;3;;;;0
+10;3;;;;0
+11;3;Master informatique;Université Bordeaux I;Architecture logicielle distribuée;2004
+12;4;;;;0
+13;4;Master 2;Université Paris 1 Panthéon-Sorbonne;Sciences politiques;2005
+14;4;Licence;Université Lille 2 Droit et Santé;Droit;2002
+15;5;Bachelor's degree;Université de Sherbrooke / Sherbrooke University;Communication, rédaction et multimédia;2011
+16;5;Master's 2 Degree  Marketing & Strategy - Integrated Marketing Communication (IMC);Université Paris Dauphine;;2014
+17;5;Postgraduate master’s degree in Information and Communication - Sorbonne Nouvelle University;Université Sorbonne Nouvelle (Paris III);;2009
+18;6;9 weeks full stack bootcamp;Le Wagon;Computer Science;2014
+19;6;Creating Collaborative Solutions;Harvard Kennedy School;Political Science and Government;2017
+20;6;Masters Degree;Université libre de Bruxelles;Written & Audiovisual Journalism;2004
+21;7;;Institut National des Etudes Territoriales (INET);;2010
+22;7;Master Affaires Publiques;Sciences Po;;2005
+23;7;Master of management, organisations and governance;The London School of Economics and Political Science (LSE);;2008
+24;8;Master of Business Administration (MBA);ESSEC - ESSEC Business School;Strategy and organisation;2002
+25;8;Master of Business Administration - MBA;Macquarie Graduate School of Management;;2005
+26;8;MBA;ESSEC - ESSEC Business School;Strategy;2002
+27;9;;;;0
+28;9;Master 2;Pantheon ASSAS University, Paris;Management des Ressources Humaines;2004
+29;9;;;;0
+30;10;BTS;Dorian;Conception de Produits Industriels;0
+31;10;BAC STI;Lycée de Montgeron;Génie Mécanique;0
+32;10;;;;0
+33;11;Masters;Sciences Po Bordeaux;International Politics;2005
+34;11;Social entrepreneurship summer training;University of Cambridge;Business Administration and Management, General;2015
+35;11;Licenciatura;Universidad de Granada;Ciencias Politicas y de la Administracion;2005
+36;12;;Université du Maine-Le Mans-Laval;;0
+37;12;;;;0
+38;12;Dut SRC;Université de Caen Basse Normandie;;0
+39;13;Bachelor;Université Paris 12;Law;2011
+40;13;Start-up Launchpad;HEC Paris;Master of Digital Business;2016
+41;13;Master's degree;Sciences Po Lille;Public affairs and management;2014
+42;14;;Lycée Carnot;Préparation aux concours des grandes écoles de commerce;2004
+43;14;Sup de Co Reims;NEOMA Business School;Management;2006
+44;14;MBA;Tsinghua University;Economics & Management;2009
+45;15;BAC + 5;NEOMA Business School;Management;2003
+46;15;Bac + 5;Reims Management School;Marketing;2001
+47;15;;WHU – Otto Beisheim School of Management;;2006
+48;16;Bachelor of Arts (B.A.);Colorado College;International Political Economy, Minor: African Studies;0
+49;16;International Baccalaureate Diploma;UWC Mahindra College;Economics, Philosophy, English Literature, ;0
+50;16;Master of Public Policy;Hertie School of Governance;Focus: Democratic Innovation;0
+51;17;Full-Stack Bootcamp;Le Wagon;Web Development Ruby on Rails;2015
+52;17;;北京外国语大学;Mandarin;2007
+53;17;Master;Sciences Po;Public Affairs;2005
+54;18;DESS;IEP Toulouse;;1999
+55;18;;Ecole de Guerre Economique;;2000
+56;18;DEUG, Licence et Maîtrise de droit privé;Université d'Auvergne (Clermont-Ferrand I);;1996
+57;19;Executive Education;INSEAD;Financial Accounting;2007
+58;19;DEA;emlyon business school;Programme Doctoral en Stratégie et Réseaux Décisionnels  ;1990
+59;19;;New York Institute of Finance;M&A;2003
+60;20;Master in business;Audencia Nantes Ecole de Management;Business and Marketing;2005
+61;20;Classe préparatoire HEC;Lycée Kerichen;;2003
+62;20;2008;American University;International affairs and Foreign Policy;2008
+63;21;Mastère spécialisé;Télécom Paris;Computer Science;2004
+64;21;Diplôme d'ingénieur;ENSSAT - École Nationale Supérieure des Sciences Appliquées et de Technologie;Computer Science;2001
+65;21;Master;Ulm University;Informatik;2003
+66;22;Executive Education (Certificate);Mines Paris;Circular Economy;2023
+67;22;Master of Business Administration - MBA;Loyola University Chicago;;0
+68;22;Master;ESSEC | Télécom Paris - MS® Management des Systèmes d’Information en Réseaux (MSIR);Informations Systems & Telecommunication Networks;1999
+69;23;Licence;Carleton University;;2014
+70;23;Master;EHESS - École des hautes études en sciences sociales;Etudes politiques;2015
+71;23;Doctorat;EHESS - École des hautes études en sciences sociales;Etudes politiques;2018
+72;24;Master Communication politique;CELSA - Ecole des hautes études en sciences de l'information et de la communication;;2005
+73;24;Hypokhâgne - Khâgne;Lycée de Sèvres;;1998
+74;24;Diplome sciences Po;Institut d'Etudes Politiques de Grenoble;Sciences politiques;2000
+75;25;Master en Relations Européennes et Lobbying;Institut catholique de Paris;;2015
+76;25;;Ecole du Centre Chorégraphique National de Roubaix;Danse classique et contemporaine;2013
+77;25;Master en Stratégie, Intelligence et Gestion des Risques;Institut d'Etudes politiques de Lille;Relations et affaires internationales;2011
+78;26;Master Degree - Law & Economics;Université Paris X Nanterre;Competition and market regulation;2011
+79;26;Bootcamp;AllWomen;Product Management;2022
+80;26;Master Degree Law;Université de Versailles Saint-Quentin-en-Yvelines;Public real estate law & public contract;2012
+81;27;Graphiste plurimédia;école des métiers de l'information (SCOP SA);;2021
+82;27;;Université Sorbonne Nouvelle;Communication, général;1991
+83;27;;Université Paris Descartes;Sociologie et linguistique;1990
+84;28;Master of Science (MSc);EMLYON Business School;Finance and Consulting;2007
+85;28;;East China Normal University;Asian Business Environment;2011
+86;28;;Lycée Carnot!;;0
+87;29;Master of Science (MSc) in Management;ESSEC - ESSEC Business School;Specialization in Entrepreneurship;2010
+88;29;Preparation Class to enter Business Schools;Institution des Chartreux;;2008
+89;29;Graduate School of Business;University of Cape Town;Exchange Student, 6 months;2013
+90;30;;Hattemer;;0
+91;30;Master's degree;École Polytechnique;Économie;1988
+92;30;;Collège Stanislas Paris;;0
+93;31;;Sciences Po;Economics and Finance - Political Science;1987
+94;31;Diploma;Harvard Kennedy School;in Global Leadership and Public Policy for the 21st century;2013
+95;31;;Ecole Nationale d'Administration;;2000
+96;32;Diplôme d'Établissement sur le Monde Arabe Contemporain - DEMAC;Institut d'Etudes Politiques de Lyon;;2013
+97;32;Licence 1 Histoire/ Classe préparatoire aux concours IEP;Institut catholique de Paris;Histoire;2012
+98;32;;;;0
+99;33;;;;0
+100;33;;;;0
+101;33;;Université Paris 1 Panthéon-Sorbonne;Sciences Economiques;1968
+102;34;;Ateneo de Manila University;;2011
+103;34;Bachelor’s Degree;Sciences Po;;2009
+104;34;Master’s Degree;Sciences Po;Politiques de l'Environnement;2013
+105;35;;Ecole supérieure de journalisme de Lille;;2007
+106;35;;ESJ PRO;Community management;2016
+107;35;;Sciences Po Lille;;2002
+108;36;Centre de formation des journalistes;CFJ;;1998
+109;36;D.U.;Université Paris-Sorbonne;Techniques et langage des médias;1996
+110;36;Licence;Université Paris-Sorbonne;Lettres modernes;1994
+111;37;Master 2 Political Science;Université Paris 1 Panthéon-Sorbonne;Political science;2018
+112;37;Master 2 (M2) in Political Science;Université Toulouse 1 Capitole;Political Science;2017
+113;37;Master 1 (M1) Law and Political Science;Universidad Pablo de Olavide;Droit;2016
+114;38;;;;0
+115;38;;;;0
+116;38;;;;0
+117;39;Baccalauréat;Lycée Charles Péguy;Economics - Mathematics;2004
+118;39;Master in Management;ESCP Business School;Business School;2008
+119;39;Classe Préparatoires aux Grandes Ecoles ECE;Lycée Montaigne;Economics;2006
+120;40;Bachelor of Business Administration (BBA);Université de Montréal - HEC Montréal;Finance, général;2008
+121;40;Master's degree;Institut d'Etudes politiques de Paris;Marketing;2013
+122;40;Operation 3;Jericho x Alven;Web3;2022
+123;41;;;;0
+124;41;;;;0
+125;41;Master's degree in development and international cooperation;Université Panthéon Sorbonne (Paris I);Relations et affaires internationales;2003
+126;42;Diplôme universitaire de technologie;Université François Rabelais de Tours;Métiers du Multimédia et de l'Internet;2006
+127;42;Bachelor's degree;Université François Rabelais de Tours;Multimedia product design and management;2008
+128;42;;;;0
+129;43;Master;Université catholique de Louvain;Laws & Entrepreneurship;2007
+130;43;Postgraduate Master;ESCP Europe;Management (AMBA accreditation);2009
+131;43;;Universidad Pontificia Comillas;Half year exchange programme (Erasmus) in Foreign Law;2007
+132;44;;;;0
+133;44;Master of Information Technology;EPITECH - European Institute of Technology;;2006
+134;44;;;;0
+135;45;Master Lettres Modernes Appliquées;Université Paris Sorbonne (Paris IV);Littérature;2002
+136;45;Master 2;IFP - Institut français de presse;Journalisme;2007
+137;45;Diplôme Universitaire;Université Paris 7;Mandarin;2002
+138;46;master 2;Université Paris-Sorbonne;communication, marketing;2003
+139;46;Magistère;CELSA;Communication, General;2004
+140;46;;;;0
