@@ -1,0 +1,60 @@
+;count;unique;top;freq
+geoCountryName;154;3;France;147
+geoLocationName;132;28;Paris Metropolitan Region;95
+summary;100;100;"Antoine croit à l’intelligence de tous et à la responsabilité de chacun pour réinventer un monde qui reste à hauteur d’homme.
+Il est à ce titre partie prenante de nombreux projets qui tous visent à rallumer les soleils humains, et notamment : 
+Directeur associé de Bluenove, qui assume que les organisations positives les plus impactantes de demain sont celles qui feront levier de l’intelligence collective
+A l’initiative du projet #BrightMirror visant à permettre la scénarisation collaborative d’imaginaires positifs pour prototype le monde que nous voulons léguer aux générations futures
+Co-président de Démocratie Ouverte, dont l’ambition est de faire advenir une société ouverte, plus transparente, participative et collaborative
+Co-fondateur du mouvement citoyen de réflexion et d'action « Les 100 Barbares » rassemblant plus de 6 000 change-makers.
+";1
+industryName;156;57;Technology, Information and Internet;17
+headline;155;155;Directeur associé de bluenove, initiateur du mouvement #BrightMirror;1
+languages;156;103;[];46
+publications;156;59;[];98
+certifications;156;40;[];117
+volunteer;156;72;[];85
+honors;156;32;[];125
+projects;156;45;[];112
+exp1_locationName;112;32;Paris Metropolitan Region;72
+exp1_companyName;154;127;make.org;6
+exp1_description;94;94;"Bluenove accompagne la transformation positive des organisations en faisant levier de l'intelligence collective de toutes leurs parties prenantes.
+Plus d'informations sur www.bluenove.com";1
+exp1_title;154;144;CEO;5
+exp1_industry;156;44;Computer Software;19
+exp2_locationName;113;39;Paris Metropolitan Region;67
+exp2_companyName;150;130;sciences po;5
+exp2_description;100;100;Expert PHP : audit, performance, méthodologie autour des développements framework (symfony, Jelix), et CMS (Drupal). Accompagnement dans le développement et formation.;1
+exp2_title;150;144;Enseignant;2
+exp2_industry;156;44;Computer Software;19
+exp3_locationName;119;45;Paris Metropolitan Region;69
+exp3_companyName;149;137;open source politics;4
+exp3_title;149;142;CEO;4
+exp3_description;103;103;Pilotage du projet associatif et des plaidoyers de l'association - Conception de nouveaux projets et coordination de leur mise en œuvre - Gestion des Ressources Humaines et management de l’équipe salariée (14 ETP) - Représentation politique de l’association et relations publiques - Recherche et gestion de partenariats publics et privés.;1
+exp3_industry;156;44;Computer Software;19
+exp4_locationName;113;47;Paris Metropolitan Region;64
+exp4_companyName;144;128;sciences po;4
+exp4_description;113;113;"Démocratie Ouverte est un collectif citoyen indépendant qui agit pour :
+
+# Repérer, mettre en réseau et accompagner les innovateurs démocratiques
+# Permettre aux citoyens de faire entendre leur voix et de gagner en pouvoir d'agir
+# Donner à voir la diversité d'initiatives citoyennes et politiques inédites en France et dans la francophonie
+# Proposer aux élus et aux administrations des outils et méthodes pour gagner en efficacité et en légitimité
+# Tester de nouvelles manières de faire de la politique
+# Faire advenir une société ouverte, plus transparente, participative et collaborative.";1
+exp4_title;144;138;Président;2
+exp4_industry;156;44;Computer Software;19
+exp5_locationName;113;53;Paris Metropolitan Region;59
+exp5_companyName;139;131;mairie de paris;3
+exp5_description;105;105;Netvibes provides Dashboard Intelligence ~ transform the intangible real-time web into tangible trends, expert knowledge and business action;1
+exp5_title;139;137;CEO;2
+exp5_industry;156;44;Computer Software;19
+ed1_degreeName;134;108;Master's degree;10
+ed1_schoolName;149;106;Sciences Po;11
+ed1_fieldOfStudy;119;109;Management;3
+ed2_schoolName;133;110;Sciences Po;6
+ed2_fieldOfStudy;104;96;Business Administration and Management, General;3
+ed2_degreeName;114;97;Master;7
+ed3_degreeName;95;75;Baccalauréat;7
+ed3_schoolName;110;98;Sciences Po;7
+ed3_fieldOfStudy;79;75;Sciences politiques et gouvernement;2
