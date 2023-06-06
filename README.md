@@ -11,74 +11,73 @@ Using data analysis to understand people and organizations in the civic tech sec
 **Deadlines :**
 * June 5 : report for RNCP certification 
 * June 7 : completion of project for in-class presentation 
-* June 9 : jury day 
+* June 9 : jury day  
+ 
 
 # How it's going : 
 
-## Initializing : from data scraping to database construction 
+## From data collection to database construction 
 
-### Scraping linkedin profiles and companies data - 2/2 days - tuesday may 30
+### Scraping linkedin profiles and companies data - 2.5 days
 * Using [Tom Quirk's scraper](https://github.com/tomquirk/linkedin-api) to get individual linkedin pages and adapting the code to produce readable json files (thanks @Thomas) 
 * Writing code to turn the json files into dataframes which can be modified and analyzed in python
-* scraping companies data from Pappers
+* Getting companies data from Pappers
+* Writing code to turn html files into dataframes which can be modified and analyzed in Python 
+* 2nd collection round to increase the number of individuals in dataset (people & organizations), using R code to collect the linked profile urls for the new people identified. 
 
-Bonus : improve the scraper to return the previous experience information 
-**Bonus 2: increase the dataset**
-
-### Building a database - 2 days 
+### Data cleaning and building database tables - 2.5 days 
 * initial outline of tables, keys, variables and relationships 
-* recoding for individuals 
-* recoding for companies 
-* Run R script to get new individual linkedIn urls
-* anonymizing solution 
+* cleaning data and recoding columns/categories for individuals 
+* cleaning data and recoding columns/categories for companies 
+* splitting data points into different tables (anonymizing solution)
 
-### SQL entity-relation model and tables 2 days - friday june 2
-* create tables in SQL
-* write initial queries
-* identify relationships and keys 
+### SQL entity-relation model and tables - 1 day
+* export tables to SQL
+* define relationships and keys 
 * describe database
-* check data quality (missing, outliers, correlations, features)
+* write initial queries
+* ERD with different tables 
 
-### Database refining // data analysis 2 days - sunday june 4
-* Identify the list of organizations we want to focus us (partly done)
-* ERD with different tables
-* Data cleaning for analysis : building categories, encoding... 
-* Initial visualization tries in Python
+> BONUSES 
+>* improve the scraper to return the previous experience information 
+>* keep increasing the dataset
+>* write code to automate the collection of data from the Pappers website
+>* clean notebooks
 
-### Report writing - 0.5 days 
+## Data analysis 
 
-## Data analysis and visualization - 0.5 days 
-* Produce better visualisations with Python
-* Get a couple visualisations from Tableau (geographical data )
+### Python Exploratory Data Analysis - 1 day 
+* check and plot feature distributions with histograms 
+* checking for outliers
+* identifying correlations in numeric columns 
 
-## Improvements - 0.5 days  
-* check github gitignore function to be able to open the repo
-* add collected jsons and htmls 
-* Streamline the process to collect linkedin pages for individuals and organizations 
-* automate collection of information for companies/ NGOs
+### Data visualization with Tableau - 0.5 day
+* Geographical data cleaning and visualization 
+
+### SQL Querying - 0.5 day 
+* Education table exploration 
+* Combining companies' tables 
+* Combining people's education with companies' information 
+
+### Creating database for prediction model 
+* People database 
+* clean education 
+* deal with missing values 
+* setting y for categorical prediction : civic tech or not ? next company ? 
 * civic tech list 
-
-BY JUNE 5 
-Planning of your project in Trello/Jira,
-Code in Python for data collection and cleaning,
-ER model,
-data sources and metadata,
-database script,
-report (10 pages).
-
-## Datavisualization - 1 day - tuesday 
-* People and organizations (Tableau)
-* Careers *optional*
-* Networks *optional*
-* PCA/ state of the field *optional*
-* Analyse (cor)relations and networks 
-
-## Data modeling - 1 day - wednesday 
-* defining X and Y 
 * model research, selection/ testing and evaluation 
 * prediction fine tuning 
 
-## Presentation - 1 day - thursday 
-* preparing slides 
-* beautifying code and github repo
+> BONUSES  
+>* Expanding beyond civic tech 
+>* Careers analysis 
+>* Networks analysis 
+>* MCA/ state of the field 
+>* cleaning SQL query code 
 
+## Project management - 2 days  
+* updating the readme file and kanban in Trello 
+* creating and updating github repo 
+* defining gitignore to avoid sharing personal data 
+* report writing 
+* slides for presentation TO DO 
