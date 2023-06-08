@@ -73,13 +73,13 @@ And at home :
 
 ## Modeling/ prediction 
 
-### Re-creating database  
+### Re-creating database  0.5 days
 * People database cleaning
 * Preprocessing (missing values, feature selection, )
 * setting y for categorical prediction : industry ? 
 * NLP vectorizing preparation 
 
-### Model selection, testing and evaluation 
+### Model selection, testing and evaluation 1.5 days 
 * selection of model : Random Forest Classifier 
 * Parameter tuning (manual, gridsearch)
 * handling imbalance 
