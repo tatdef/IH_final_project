@@ -1,11 +1,5 @@
 # Project specific folders and data 
-profiles/jsons
-profiles/jsons2
-profiles/skills 
-profiles/prosopo_url
-profiles/names.csv
-organizations/htmls
-organizations/htmls2
+1_profiles/names.csv
 scraping_coco
 data 
 reimport

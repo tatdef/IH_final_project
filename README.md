@@ -1,5 +1,6 @@
-# Final ironhack project
+# Civic tech who's who 
 Using data analysis to understand people and organizations in the civic tech sector in France. 
+An Ironhack final project for data analysis full time - 2023, Paris, 0410. 
 
 **Steps:**
 1. Data collection 
@@ -8,13 +9,25 @@ Using data analysis to understand people and organizations in the civic tech sec
 4. Data visualisation 
 5. Data modeling and prediction 
 
-**Deadlines :**
-* June 5 : report for RNCP certification 
-* June 7 : completion of project for in-class presentation 
-* June 9 : jury day  
- 
+**Contents of the repository:**
+1. Profiles : Python notebook for transforming jsons to a pandas dataframe, people general information, education and experience datasets
+2. Organizations : Python notebook for transforming htmls to a pandas dataframe, finance and general information datasets
+3. EDA directory : Python data analysis notebook and a few figures 
+4. SQL : Python notebook for producing and exporting tables to SQL (and tables as csvs), sql script for querying, ERD as image
+5. Modeling : 2 Python notebooks for making appropriate databases from json files, 2 Python notebooks for Random Forest Classifier testing and evaluation according to different parameters (based on NLP - vectorizing), and datasets 
+And at home : 
+* this readme.md file, 
+* the gitignore file
+* the Ironhack project report for certification 
+* the Ironhack project slides for certification 
 
-# How it's going : 
+
+>License information:
+>This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)  
+
+
+  
+# How it went : 
 
 ## From data collection to database construction 
 
@@ -42,7 +55,6 @@ Using data analysis to understand people and organizations in the civic tech sec
 >* improve the scraper to return the previous experience information 
 >* keep increasing the dataset
 >* write code to automate the collection of data from the Pappers website
->* clean notebooks
 
 ## Data analysis 
 
@@ -59,25 +71,37 @@ Using data analysis to understand people and organizations in the civic tech sec
 * Combining companies' tables 
 * Combining people's education with companies' information 
 
-### Creating database for prediction model 
-* People database 
-* clean education 
-* deal with missing values 
-* setting y for categorical prediction : civic tech or not ? next company ? 
-* civic tech list 
-* model research, selection/ testing and evaluation 
-* prediction fine tuning 
+## Modeling/ prediction 
+
+### Re-creating database  
+* People database cleaning
+* Preprocessing (missing values, feature selection, )
+* setting y for categorical prediction : industry ? 
+* NLP vectorizing preparation 
+
+### Model selection, testing and evaluation 
+* selection of model : Random Forest Classifier 
+* Parameter tuning (manual, gridsearch)
+* handling imbalance 
+* Testing vectorizer parameters and NLP options (stop words, stemming, TF-IDF)
+* Evaluation/ scoring 
+* Second iteration with a more complete database including additional information 
 
 > BONUSES  
+>* changing y : civic tech yes/no ?
+>* next company recommender (nearest neighbors) 
+>* modeling on companies data & combination of datasets : clustering options, company prediction
 >* Expanding beyond civic tech 
 >* Careers analysis 
 >* Networks analysis 
 >* MCA/ state of the field 
->* cleaning SQL query code 
 
 ## Project management - 2 days  
 * updating the readme file and kanban in Trello 
 * creating and updating github repo 
 * defining gitignore to avoid sharing personal data 
 * report writing 
-* slides for presentation TO DO 
+* slides for presentation
+
+> BONUSES : 
+>* review and beautify repo, code, sql queries files
