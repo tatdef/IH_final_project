@@ -1,14 +1,14 @@
-Industry;Civic Social Organization;Computer Software;Government Administration;Information Technology and Services;Management Consulting;Performing Arts
-Architecture Planning;0;0;0;1;0;0
-Civic Social Organization;4;0;0;0;0;0
-Computer Software;0;2;0;0;0;0
-Government Administration;0;0;1;0;0;0
-Higher Education;0;0;0;1;0;0
-Information Services;0;0;0;1;0;0
-Information Technology and Services;0;1;0;3;0;0
-Investment Banking;0;0;0;1;0;0
-Leisure Travel Tourism;0;0;0;0;0;1
-Management Consulting;0;0;0;0;2;0
-Market Research;0;1;0;0;0;0
-Online Media;0;1;0;0;0;0
-Research;0;1;0;0;0;0
+Industry;Civic Social Organization;Computer Software;Government Administration;Higher Education;Information Technology and Services;Management Consulting;Marketing and Advertising;Research
+Architecture Planning;0;0;1;0;0;0;0;0
+Civic Social Organization;3;1;0;0;0;0;0;0
+Computer Software;0;2;0;0;0;0;0;0
+Government Administration;0;0;1;0;0;0;0;0
+Higher Education;0;0;0;1;0;0;0;0
+Information Services;0;0;0;0;1;0;0;0
+Information Technology and Services;0;1;0;0;3;0;0;0
+Investment Banking;0;1;0;0;0;0;0;0
+Leisure Travel Tourism;0;0;0;0;0;0;1;0
+Management Consulting;0;1;0;0;0;1;0;0
+Market Research;0;0;0;0;0;0;0;1
+Online Media;0;1;0;0;0;0;0;0
+Research;0;0;0;0;1;0;0;0
